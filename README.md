@@ -37,10 +37,14 @@ Augmented.js Next Presentation - Dialog Components
 -   [Splash](#splash)
     -   [Parameters](#parameters-12)
     -   [Examples](#examples-1)
+-   [ErrorDialog](#errordialog)
+    -   [Parameters](#parameters-13)
+-   [MessageDialog](#messagedialog)
+    -   [Parameters](#parameters-14)
 
 ## DialogView
 
-**Extends Presentation.DecoratorView**
+**Extends DecoratorView**
 
 A automatic dialog view - creates a dialog with simple configurations to customize
 
@@ -118,7 +122,7 @@ close - standard built-in close callback.  Closes the dialog, triggers the 'clos
 
 ## ConfirmationDialogView
 
-**Extends Presentation.Component.DialogView**
+**Extends DialogView**
 
 A automatic comfirmation dialog view - creates a dialog with yes no buttons
 
@@ -128,7 +132,7 @@ A automatic comfirmation dialog view - creates a dialog with yes no buttons
 
 ## AlertDialogView
 
-**Extends Presentation.Component.DialogView**
+**Extends DialogView**
 
 A automatic alert dialog view - creates a dialog with cancel button and a message
 
@@ -167,3 +171,23 @@ Splash Screen View
 ```javascript
 options passed are: title, subTitle, subSubTitle, name, style, and figureStyle
 ```
+
+## ErrorDialog
+
+**Extends AlertDialogView**
+
+A automatic error dialog view - creates a dialog ok button
+
+### Parameters
+
+-   `options`  
+
+## MessageDialog
+
+**Extends AlertDialogView**
+
+A automatic message dialog view - creates a dialog ok button
+
+### Parameters
+
+-   `options`  

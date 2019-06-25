@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
-		<title>dialog/confirmation.js</title>
+		<title>dialog/message.js</title>
 		<link rel="icon" type="image/png" href="favicon.png"/>
 		<!--[if lt IE 9]>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -94,7 +94,7 @@
 	<!-- end:navbar.hbs -->		<div class="page-header">
 			<div class="container">
 				<span class="kind">source</span>
-				<h1><span class="name">dialog/confirmation.js</span></h1>
+				<h1><span class="name">dialog/message.js</span></h1>
 			</div>
 		</div>
 	<div class="container content">
@@ -102,13 +102,13 @@
 			<div class="col-md-12 main-content">
 		<section class="source-section">
 			<article></article>
-			<pre class="prettyprint source language-javascript line-numbers"><code class="language-javascript">import DialogView from "./dialog.js";
+			<pre class="prettyprint source language-javascript line-numbers"><code class="language-javascript">import AlertDialogView  from "./alert.js";
 
 /**
- * A automatic comfirmation dialog view - creates a dialog with yes no buttons
- * @extends DialogView
+ * A automatic message dialog view - creates a dialog ok button
+ * @extends AlertDialogView
  */
-class ConfirmationDialogView extends DialogView {
+class MessageDialog extends AlertDialogView {
   constructor(options) {
     if (!options) {
       options = {}
@@ -116,14 +116,13 @@ class ConfirmationDialogView extends DialogView {
     if (!options.buttons) {
       options.buttons = {};
     }
-    options.buttons.yes = "yes";
-    options.buttons.no = "no";
+    options.buttons.cancel = "ok";
     options.style = "alert";
     super(options);
   };
 };
 
-export default ConfirmationDialogView;
+export default MessageDialog;
 </code></pre>
 		</section>
 			</div>

@@ -58,222 +58,459 @@ window.lunrData = {
           "list",
           "list:class"
         ],
-        "Presentation.Component.AlertDialogView.html": [
+        "AlertDialogView.html": [
           "alert",
           "alertdialogview",
           "automat",
           "button",
           "cancel",
           "class",
-          "component.alertdialogview",
           "creat",
           "dialog",
           "messag",
-          "presentation.component.alertdialogview",
           "view"
         ],
-        "Presentation.Component.AlertDialogView.html#title": [
+        "AlertDialogView.html#title": [
           "alertdialogview#titl",
-          "component.alertdialogview#titl",
           "dialog",
           "member",
-          "presentation.component.alertdialogview#titl",
           "properti",
           "titl"
         ],
-        "Presentation.Component.AlertDialogView.html#style": [
+        "AlertDialogView.html#style": [
           "alert",
           "alertdialogview#styl",
           "bigform",
           "class",
-          "component.alertdialogview#styl",
           "form",
           "member",
-          "presentation.component.alertdialogview#styl",
           "properti",
           "style",
           "want",
           "whatev"
         ],
-        "Presentation.Component.AlertDialogView.html#buttons": [
+        "AlertDialogView.html#buttons": [
           "alertdialogview#button",
           "button",
-          "component.alertdialogview#button",
           "function",
           "match",
           "member",
           "object",
-          "presentation.component.alertdialogview#button",
           "properti"
         ],
-        "Presentation.Component.AlertDialogView.html#body": [
+        "AlertDialogView.html#body": [
           "alertdialogview#bodi",
           "bodi",
-          "component.alertdialogview#bodi",
           "content",
           "dialog",
           "member",
-          "presentation.component.alertdialogview#bodi",
           "set",
           "setbodi"
         ],
-        "Presentation.Component.AlertDialogView.html#render": [
+        "AlertDialogView.html#render": [
           "alertdialogview#rend",
-          "component.alertdialogview#rend",
           "dialog",
           "function",
-          "presentation.component.alertdialogview#rend",
           "render"
         ],
-        "Presentation.Component.AlertDialogView.html#cancel": [
+        "AlertDialogView.html#cancel": [
           "alertdialogview#cancel",
           "built",
           "call",
           "callback",
           "cancel",
           "close",
-          "component.alertdialogview#cancel",
           "default",
           "event",
           "function",
           "method",
-          "presentation.component.alertdialogview#cancel",
           "standard"
         ],
-        "Presentation.Component.AlertDialogView.html#open": [
+        "AlertDialogView.html#open": [
           "alertdialogview#open",
           "built",
           "call",
           "callback",
-          "component.alertdialogview#open",
           "default",
           "event",
           "function",
           "method",
           "open",
-          "presentation.component.alertdialogview#open",
           "render",
           "standard"
         ],
-        "Presentation.Component.AlertDialogView.html#close": [
+        "AlertDialogView.html#close": [
           "alertdialogview#clos",
           "built",
           "callback",
           "close",
-          "component.alertdialogview#clos",
           "dialog",
           "event",
           "function",
-          "presentation.component.alertdialogview#clos",
           "standard",
           "trigger"
         ],
-        "Presentation.Component.ConfirmationDialogView.html": [
+        "ConfirmationDialogView.html": [
           "automat",
           "button",
           "class",
           "comfirm",
-          "component.confirmationdialogview",
           "confirmationdialogview",
           "creat",
           "dialog",
-          "presentation.component.confirmationdialogview",
           "view",
           "ye"
         ],
-        "Presentation.Component.ConfirmationDialogView.html#title": [
-          "component.confirmationdialogview#titl",
+        "ConfirmationDialogView.html#title": [
           "confirmationdialogview#titl",
           "dialog",
           "member",
-          "presentation.component.confirmationdialogview#titl",
           "properti",
           "titl"
         ],
-        "Presentation.Component.ConfirmationDialogView.html#style": [
+        "ConfirmationDialogView.html#style": [
           "alert",
           "bigform",
           "class",
-          "component.confirmationdialogview#styl",
           "confirmationdialogview#styl",
           "form",
           "member",
-          "presentation.component.confirmationdialogview#styl",
           "properti",
           "style",
           "want",
           "whatev"
         ],
-        "Presentation.Component.ConfirmationDialogView.html#buttons": [
+        "ConfirmationDialogView.html#buttons": [
           "button",
-          "component.confirmationdialogview#button",
           "confirmationdialogview#button",
           "function",
           "match",
           "member",
           "object",
-          "presentation.component.confirmationdialogview#button",
           "properti"
         ],
-        "Presentation.Component.ConfirmationDialogView.html#body": [
+        "ConfirmationDialogView.html#body": [
           "bodi",
-          "component.confirmationdialogview#bodi",
           "confirmationdialogview#bodi",
           "content",
           "dialog",
           "member",
-          "presentation.component.confirmationdialogview#bodi",
           "set",
           "setbodi"
         ],
-        "Presentation.Component.ConfirmationDialogView.html#render": [
-          "component.confirmationdialogview#rend",
+        "ConfirmationDialogView.html#render": [
           "confirmationdialogview#rend",
           "dialog",
           "function",
-          "presentation.component.confirmationdialogview#rend",
           "render"
         ],
-        "Presentation.Component.ConfirmationDialogView.html#cancel": [
+        "ConfirmationDialogView.html#cancel": [
           "built",
           "call",
           "callback",
           "cancel",
           "close",
-          "component.confirmationdialogview#cancel",
           "confirmationdialogview#cancel",
           "default",
           "event",
           "function",
           "method",
-          "presentation.component.confirmationdialogview#cancel",
           "standard"
         ],
-        "Presentation.Component.ConfirmationDialogView.html#open": [
+        "ConfirmationDialogView.html#open": [
           "built",
           "call",
           "callback",
-          "component.confirmationdialogview#open",
           "confirmationdialogview#open",
           "default",
           "event",
           "function",
           "method",
           "open",
-          "presentation.component.confirmationdialogview#open",
           "render",
           "standard"
         ],
-        "Presentation.Component.ConfirmationDialogView.html#close": [
+        "ConfirmationDialogView.html#close": [
           "built",
           "callback",
           "close",
-          "component.confirmationdialogview#clos",
           "confirmationdialogview#clos",
           "dialog",
           "event",
           "function",
-          "presentation.component.confirmationdialogview#clos",
+          "standard",
+          "trigger"
+        ],
+        "ErrorDialog.html": [
+          "automat",
+          "button",
+          "class",
+          "creat",
+          "dialog",
+          "error",
+          "errordialog",
+          "ok",
+          "view"
+        ],
+        "ErrorDialog.html#title": [
+          "dialog",
+          "errordialog#titl",
+          "member",
+          "properti",
+          "titl"
+        ],
+        "ErrorDialog.html#style": [
+          "alert",
+          "bigform",
+          "class",
+          "errordialog#styl",
+          "form",
+          "member",
+          "properti",
+          "style",
+          "want",
+          "whatev"
+        ],
+        "ErrorDialog.html#buttons": [
+          "button",
+          "errordialog#button",
+          "function",
+          "match",
+          "member",
+          "object",
+          "properti"
+        ],
+        "ErrorDialog.html#body": [
+          "bodi",
+          "content",
+          "dialog",
+          "errordialog#bodi",
+          "member",
+          "set",
+          "setbodi"
+        ],
+        "ErrorDialog.html#render": [
+          "dialog",
+          "errordialog#rend",
+          "function",
+          "render"
+        ],
+        "ErrorDialog.html#cancel": [
+          "built",
+          "call",
+          "callback",
+          "cancel",
+          "close",
+          "default",
+          "errordialog#cancel",
+          "event",
+          "function",
+          "method",
+          "standard"
+        ],
+        "ErrorDialog.html#open": [
+          "built",
+          "call",
+          "callback",
+          "default",
+          "errordialog#open",
+          "event",
+          "function",
+          "method",
+          "open",
+          "render",
+          "standard"
+        ],
+        "ErrorDialog.html#close": [
+          "built",
+          "callback",
+          "close",
+          "dialog",
+          "errordialog#clos",
+          "event",
+          "function",
+          "standard",
+          "trigger"
+        ],
+        "MessageDialog.html": [
+          "automat",
+          "button",
+          "class",
+          "creat",
+          "dialog",
+          "messag",
+          "messagedialog",
+          "ok",
+          "view"
+        ],
+        "MessageDialog.html#title": [
+          "dialog",
+          "member",
+          "messagedialog#titl",
+          "properti",
+          "titl"
+        ],
+        "MessageDialog.html#style": [
+          "alert",
+          "bigform",
+          "class",
+          "form",
+          "member",
+          "messagedialog#styl",
+          "properti",
+          "style",
+          "want",
+          "whatev"
+        ],
+        "MessageDialog.html#buttons": [
+          "button",
+          "function",
+          "match",
+          "member",
+          "messagedialog#button",
+          "object",
+          "properti"
+        ],
+        "MessageDialog.html#body": [
+          "bodi",
+          "content",
+          "dialog",
+          "member",
+          "messagedialog#bodi",
+          "set",
+          "setbodi"
+        ],
+        "MessageDialog.html#render": [
+          "dialog",
+          "function",
+          "messagedialog#rend",
+          "render"
+        ],
+        "MessageDialog.html#cancel": [
+          "built",
+          "call",
+          "callback",
+          "cancel",
+          "close",
+          "default",
+          "event",
+          "function",
+          "messagedialog#cancel",
+          "method",
+          "standard"
+        ],
+        "MessageDialog.html#open": [
+          "built",
+          "call",
+          "callback",
+          "default",
+          "event",
+          "function",
+          "messagedialog#open",
+          "method",
+          "open",
+          "render",
+          "standard"
+        ],
+        "MessageDialog.html#close": [
+          "built",
+          "callback",
+          "close",
+          "dialog",
+          "event",
+          "function",
+          "messagedialog#clos",
+          "standard",
+          "trigger"
+        ],
+        "DialogView.html": [
+          "automat",
+          "class",
+          "configur",
+          "creat",
+          "custom",
+          "dialog",
+          "dialogview",
+          "simpl",
+          "view"
+        ],
+        "DialogView.html#title": [
+          "dialog",
+          "dialogview#titl",
+          "member",
+          "properti",
+          "titl"
+        ],
+        "DialogView.html#style": [
+          "alert",
+          "bigform",
+          "class",
+          "dialogview#styl",
+          "form",
+          "member",
+          "properti",
+          "style",
+          "want",
+          "whatev"
+        ],
+        "DialogView.html#buttons": [
+          "button",
+          "dialogview#button",
+          "function",
+          "match",
+          "member",
+          "object",
+          "properti"
+        ],
+        "DialogView.html#body": [
+          "bodi",
+          "content",
+          "dialog",
+          "dialogview#bodi",
+          "member",
+          "set",
+          "setbodi"
+        ],
+        "DialogView.html#render": [
+          "dialog",
+          "dialogview#rend",
+          "function",
+          "render"
+        ],
+        "DialogView.html#cancel": [
+          "built",
+          "call",
+          "callback",
+          "cancel",
+          "close",
+          "default",
+          "dialogview#cancel",
+          "event",
+          "function",
+          "method",
+          "standard"
+        ],
+        "DialogView.html#open": [
+          "built",
+          "call",
+          "callback",
+          "default",
+          "dialogview#open",
+          "event",
+          "function",
+          "method",
+          "open",
+          "render",
+          "standard"
+        ],
+        "DialogView.html#close": [
+          "built",
+          "callback",
+          "close",
+          "dialog",
+          "dialogview#clos",
+          "event",
+          "function",
           "standard",
           "trigger"
         ],
@@ -281,123 +518,94 @@ window.lunrData = {
           "class",
           "notif"
         ],
-        "Splash.html": [
-          "class",
-          "screen",
-          "splash",
-          "view"
-        ],
-        "Presentation.Component.DialogView.html": [
-          "automat",
-          "class",
-          "component.dialogview",
-          "configur",
-          "creat",
-          "custom",
+        "Notification.html#title": [
           "dialog",
-          "dialogview",
-          "presentation.component.dialogview",
-          "simpl",
-          "view"
-        ],
-        "Presentation.Component.DialogView.html#title": [
-          "component.dialogview#titl",
-          "dialog",
-          "dialogview#titl",
           "member",
-          "presentation.component.dialogview#titl",
+          "notification#titl",
           "properti",
           "titl"
         ],
-        "Presentation.Component.DialogView.html#style": [
+        "Notification.html#style": [
           "alert",
           "bigform",
           "class",
-          "component.dialogview#styl",
-          "dialogview#styl",
           "form",
           "member",
-          "presentation.component.dialogview#styl",
+          "notification#styl",
           "properti",
           "style",
           "want",
           "whatev"
         ],
-        "Presentation.Component.DialogView.html#buttons": [
+        "Notification.html#buttons": [
           "button",
-          "component.dialogview#button",
-          "dialogview#button",
           "function",
           "match",
           "member",
+          "notification#button",
           "object",
-          "presentation.component.dialogview#button",
           "properti"
         ],
-        "Presentation.Component.DialogView.html#body": [
+        "Notification.html#body": [
           "bodi",
-          "component.dialogview#bodi",
           "content",
           "dialog",
-          "dialogview#bodi",
           "member",
-          "presentation.component.dialogview#bodi",
+          "notification#bodi",
           "set",
           "setbodi"
         ],
-        "Presentation.Component.DialogView.html#render": [
-          "component.dialogview#rend",
+        "Notification.html#render": [
           "dialog",
-          "dialogview#rend",
           "function",
-          "presentation.component.dialogview#rend",
+          "notification#rend",
           "render"
         ],
-        "Presentation.Component.DialogView.html#cancel": [
+        "Notification.html#cancel": [
           "built",
           "call",
           "callback",
           "cancel",
           "close",
-          "component.dialogview#cancel",
           "default",
-          "dialogview#cancel",
           "event",
           "function",
           "method",
-          "presentation.component.dialogview#cancel",
+          "notification#cancel",
           "standard"
         ],
-        "Presentation.Component.DialogView.html#open": [
+        "Notification.html#open": [
           "built",
           "call",
           "callback",
-          "component.dialogview#open",
           "default",
-          "dialogview#open",
           "event",
           "function",
           "method",
+          "notification#open",
           "open",
-          "presentation.component.dialogview#open",
           "render",
           "standard"
         ],
-        "Presentation.Component.DialogView.html#close": [
+        "Notification.html#close": [
           "built",
           "callback",
           "close",
-          "component.dialogview#clos",
           "dialog",
-          "dialogview#clos",
           "event",
           "function",
-          "presentation.component.dialogview#clos",
+          "notification#clos",
           "standard",
           "trigger"
+        ],
+        "Splash.html": [
+          "class",
+          "screen",
+          "splash",
+          "view"
         ]
       },
-      "length": 32
+      "length": 58
     },
     "tokenStore": {
       "root": {
@@ -448,16 +656,24 @@ window.lunrData = {
                     "docs": {},
                     "t": {
                       "docs": {
-                        "Presentation.Component.AlertDialogView.html": {
-                          "ref": "Presentation.Component.AlertDialogView.html",
+                        "AlertDialogView.html": {
+                          "ref": "AlertDialogView.html",
                           "tf": 5.555555555555555
                         },
-                        "Presentation.Component.ConfirmationDialogView.html": {
-                          "ref": "Presentation.Component.ConfirmationDialogView.html",
+                        "ConfirmationDialogView.html": {
+                          "ref": "ConfirmationDialogView.html",
                           "tf": 6.25
                         },
-                        "Presentation.Component.DialogView.html": {
-                          "ref": "Presentation.Component.DialogView.html",
+                        "ErrorDialog.html": {
+                          "ref": "ErrorDialog.html",
+                          "tf": 6.25
+                        },
+                        "MessageDialog.html": {
+                          "ref": "MessageDialog.html",
+                          "tf": 6.25
+                        },
+                        "DialogView.html": {
+                          "ref": "DialogView.html",
                           "tf": 6.25
                         }
                       }
@@ -475,20 +691,32 @@ window.lunrData = {
                 "docs": {},
                 "t": {
                   "docs": {
-                    "Presentation.Component.AlertDialogView.html": {
-                      "ref": "Presentation.Component.AlertDialogView.html",
+                    "AlertDialogView.html": {
+                      "ref": "AlertDialogView.html",
                       "tf": 5.555555555555555
                     },
-                    "Presentation.Component.AlertDialogView.html#style": {
-                      "ref": "Presentation.Component.AlertDialogView.html#style",
+                    "AlertDialogView.html#style": {
+                      "ref": "AlertDialogView.html#style",
                       "tf": 5.555555555555555
                     },
-                    "Presentation.Component.ConfirmationDialogView.html#style": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html#style",
+                    "ConfirmationDialogView.html#style": {
+                      "ref": "ConfirmationDialogView.html#style",
                       "tf": 5.555555555555555
                     },
-                    "Presentation.Component.DialogView.html#style": {
-                      "ref": "Presentation.Component.DialogView.html#style",
+                    "ErrorDialog.html#style": {
+                      "ref": "ErrorDialog.html#style",
+                      "tf": 5.555555555555555
+                    },
+                    "MessageDialog.html#style": {
+                      "ref": "MessageDialog.html#style",
+                      "tf": 5.555555555555555
+                    },
+                    "DialogView.html#style": {
+                      "ref": "DialogView.html#style",
+                      "tf": 5.555555555555555
+                    },
+                    "Notification.html#style": {
+                      "ref": "Notification.html#style",
                       "tf": 5.555555555555555
                     }
                   },
@@ -512,9 +740,9 @@ window.lunrData = {
                                     "docs": {},
                                     "w": {
                                       "docs": {
-                                        "Presentation.Component.AlertDialogView.html": {
-                                          "ref": "Presentation.Component.AlertDialogView.html",
-                                          "tf": 700
+                                        "AlertDialogView.html": {
+                                          "ref": "AlertDialogView.html",
+                                          "tf": 1900
                                         }
                                       },
                                       "#": {
@@ -527,9 +755,9 @@ window.lunrData = {
                                               "docs": {},
                                               "l": {
                                                 "docs": {
-                                                  "Presentation.Component.AlertDialogView.html#title": {
-                                                    "ref": "Presentation.Component.AlertDialogView.html#title",
-                                                    "tf": 75
+                                                  "AlertDialogView.html#title": {
+                                                    "ref": "AlertDialogView.html#title",
+                                                    "tf": 1150
                                                   }
                                                 }
                                               }
@@ -544,9 +772,9 @@ window.lunrData = {
                                               "docs": {},
                                               "l": {
                                                 "docs": {
-                                                  "Presentation.Component.AlertDialogView.html#style": {
-                                                    "ref": "Presentation.Component.AlertDialogView.html#style",
-                                                    "tf": 75
+                                                  "AlertDialogView.html#style": {
+                                                    "ref": "AlertDialogView.html#style",
+                                                    "tf": 1150
                                                   }
                                                 }
                                               }
@@ -565,9 +793,9 @@ window.lunrData = {
                                                   "docs": {},
                                                   "n": {
                                                     "docs": {
-                                                      "Presentation.Component.AlertDialogView.html#buttons": {
-                                                        "ref": "Presentation.Component.AlertDialogView.html#buttons",
-                                                        "tf": 75
+                                                      "AlertDialogView.html#buttons": {
+                                                        "ref": "AlertDialogView.html#buttons",
+                                                        "tf": 1150
                                                       }
                                                     }
                                                   }
@@ -581,9 +809,9 @@ window.lunrData = {
                                               "docs": {},
                                               "i": {
                                                 "docs": {
-                                                  "Presentation.Component.AlertDialogView.html#body": {
-                                                    "ref": "Presentation.Component.AlertDialogView.html#body",
-                                                    "tf": 75
+                                                  "AlertDialogView.html#body": {
+                                                    "ref": "AlertDialogView.html#body",
+                                                    "tf": 1150
                                                   }
                                                 }
                                               }
@@ -598,9 +826,9 @@ window.lunrData = {
                                               "docs": {},
                                               "d": {
                                                 "docs": {
-                                                  "Presentation.Component.AlertDialogView.html#render": {
-                                                    "ref": "Presentation.Component.AlertDialogView.html#render",
-                                                    "tf": 75
+                                                  "AlertDialogView.html#render": {
+                                                    "ref": "AlertDialogView.html#render",
+                                                    "tf": 1150
                                                   }
                                                 }
                                               }
@@ -619,9 +847,9 @@ window.lunrData = {
                                                   "docs": {},
                                                   "l": {
                                                     "docs": {
-                                                      "Presentation.Component.AlertDialogView.html#cancel": {
-                                                        "ref": "Presentation.Component.AlertDialogView.html#cancel",
-                                                        "tf": 75
+                                                      "AlertDialogView.html#cancel": {
+                                                        "ref": "AlertDialogView.html#cancel",
+                                                        "tf": 1150
                                                       }
                                                     }
                                                   }
@@ -635,9 +863,9 @@ window.lunrData = {
                                               "docs": {},
                                               "s": {
                                                 "docs": {
-                                                  "Presentation.Component.AlertDialogView.html#close": {
-                                                    "ref": "Presentation.Component.AlertDialogView.html#close",
-                                                    "tf": 75
+                                                  "AlertDialogView.html#close": {
+                                                    "ref": "AlertDialogView.html#close",
+                                                    "tf": 1150
                                                   }
                                                 }
                                               }
@@ -652,9 +880,9 @@ window.lunrData = {
                                               "docs": {},
                                               "n": {
                                                 "docs": {
-                                                  "Presentation.Component.AlertDialogView.html#open": {
-                                                    "ref": "Presentation.Component.AlertDialogView.html#open",
-                                                    "tf": 75
+                                                  "AlertDialogView.html#open": {
+                                                    "ref": "AlertDialogView.html#open",
+                                                    "tf": 1150
                                                   }
                                                 }
                                               }
@@ -711,28 +939,52 @@ window.lunrData = {
                     "docs": {},
                     "t": {
                       "docs": {
-                        "Presentation.Component.AlertDialogView.html#cancel": {
-                          "ref": "Presentation.Component.AlertDialogView.html#cancel",
+                        "AlertDialogView.html#cancel": {
+                          "ref": "AlertDialogView.html#cancel",
                           "tf": 5.555555555555555
                         },
-                        "Presentation.Component.AlertDialogView.html#open": {
-                          "ref": "Presentation.Component.AlertDialogView.html#open",
+                        "AlertDialogView.html#open": {
+                          "ref": "AlertDialogView.html#open",
                           "tf": 5.555555555555555
                         },
-                        "Presentation.Component.ConfirmationDialogView.html#cancel": {
-                          "ref": "Presentation.Component.ConfirmationDialogView.html#cancel",
+                        "ConfirmationDialogView.html#cancel": {
+                          "ref": "ConfirmationDialogView.html#cancel",
                           "tf": 5.555555555555555
                         },
-                        "Presentation.Component.ConfirmationDialogView.html#open": {
-                          "ref": "Presentation.Component.ConfirmationDialogView.html#open",
+                        "ConfirmationDialogView.html#open": {
+                          "ref": "ConfirmationDialogView.html#open",
                           "tf": 5.555555555555555
                         },
-                        "Presentation.Component.DialogView.html#cancel": {
-                          "ref": "Presentation.Component.DialogView.html#cancel",
+                        "ErrorDialog.html#cancel": {
+                          "ref": "ErrorDialog.html#cancel",
                           "tf": 5.555555555555555
                         },
-                        "Presentation.Component.DialogView.html#open": {
-                          "ref": "Presentation.Component.DialogView.html#open",
+                        "ErrorDialog.html#open": {
+                          "ref": "ErrorDialog.html#open",
+                          "tf": 5.555555555555555
+                        },
+                        "MessageDialog.html#cancel": {
+                          "ref": "MessageDialog.html#cancel",
+                          "tf": 5.555555555555555
+                        },
+                        "MessageDialog.html#open": {
+                          "ref": "MessageDialog.html#open",
+                          "tf": 5.555555555555555
+                        },
+                        "DialogView.html#cancel": {
+                          "ref": "DialogView.html#cancel",
+                          "tf": 5.555555555555555
+                        },
+                        "DialogView.html#open": {
+                          "ref": "DialogView.html#open",
+                          "tf": 5.555555555555555
+                        },
+                        "Notification.html#cancel": {
+                          "ref": "Notification.html#cancel",
+                          "tf": 5.555555555555555
+                        },
+                        "Notification.html#open": {
+                          "ref": "Notification.html#open",
                           "tf": 5.555555555555555
                         }
                       }
@@ -782,64 +1034,120 @@ window.lunrData = {
                   "docs": {},
                   "g": {
                     "docs": {
-                      "Presentation.Component.AlertDialogView.html": {
-                        "ref": "Presentation.Component.AlertDialogView.html",
+                      "AlertDialogView.html": {
+                        "ref": "AlertDialogView.html",
                         "tf": 11.11111111111111
                       },
-                      "Presentation.Component.AlertDialogView.html#title": {
-                        "ref": "Presentation.Component.AlertDialogView.html#title",
+                      "AlertDialogView.html#title": {
+                        "ref": "AlertDialogView.html#title",
                         "tf": 12.5
                       },
-                      "Presentation.Component.AlertDialogView.html#body": {
-                        "ref": "Presentation.Component.AlertDialogView.html#body",
+                      "AlertDialogView.html#body": {
+                        "ref": "AlertDialogView.html#body",
                         "tf": 10
                       },
-                      "Presentation.Component.AlertDialogView.html#render": {
-                        "ref": "Presentation.Component.AlertDialogView.html#render",
+                      "AlertDialogView.html#render": {
+                        "ref": "AlertDialogView.html#render",
                         "tf": 16.666666666666664
                       },
-                      "Presentation.Component.AlertDialogView.html#close": {
-                        "ref": "Presentation.Component.AlertDialogView.html#close",
+                      "AlertDialogView.html#close": {
+                        "ref": "AlertDialogView.html#close",
                         "tf": 5
                       },
-                      "Presentation.Component.ConfirmationDialogView.html": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html",
+                      "ConfirmationDialogView.html": {
+                        "ref": "ConfirmationDialogView.html",
                         "tf": 12.5
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#title": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#title",
+                      "ConfirmationDialogView.html#title": {
+                        "ref": "ConfirmationDialogView.html#title",
                         "tf": 12.5
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#body": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#body",
+                      "ConfirmationDialogView.html#body": {
+                        "ref": "ConfirmationDialogView.html#body",
                         "tf": 10
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#render": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#render",
+                      "ConfirmationDialogView.html#render": {
+                        "ref": "ConfirmationDialogView.html#render",
                         "tf": 16.666666666666664
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#close": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#close",
+                      "ConfirmationDialogView.html#close": {
+                        "ref": "ConfirmationDialogView.html#close",
                         "tf": 5
                       },
-                      "Presentation.Component.DialogView.html": {
-                        "ref": "Presentation.Component.DialogView.html",
+                      "ErrorDialog.html": {
+                        "ref": "ErrorDialog.html",
                         "tf": 12.5
                       },
-                      "Presentation.Component.DialogView.html#title": {
-                        "ref": "Presentation.Component.DialogView.html#title",
+                      "ErrorDialog.html#title": {
+                        "ref": "ErrorDialog.html#title",
                         "tf": 12.5
                       },
-                      "Presentation.Component.DialogView.html#body": {
-                        "ref": "Presentation.Component.DialogView.html#body",
+                      "ErrorDialog.html#body": {
+                        "ref": "ErrorDialog.html#body",
                         "tf": 10
                       },
-                      "Presentation.Component.DialogView.html#render": {
-                        "ref": "Presentation.Component.DialogView.html#render",
+                      "ErrorDialog.html#render": {
+                        "ref": "ErrorDialog.html#render",
                         "tf": 16.666666666666664
                       },
-                      "Presentation.Component.DialogView.html#close": {
-                        "ref": "Presentation.Component.DialogView.html#close",
+                      "ErrorDialog.html#close": {
+                        "ref": "ErrorDialog.html#close",
+                        "tf": 5
+                      },
+                      "MessageDialog.html": {
+                        "ref": "MessageDialog.html",
+                        "tf": 12.5
+                      },
+                      "MessageDialog.html#title": {
+                        "ref": "MessageDialog.html#title",
+                        "tf": 12.5
+                      },
+                      "MessageDialog.html#body": {
+                        "ref": "MessageDialog.html#body",
+                        "tf": 10
+                      },
+                      "MessageDialog.html#render": {
+                        "ref": "MessageDialog.html#render",
+                        "tf": 16.666666666666664
+                      },
+                      "MessageDialog.html#close": {
+                        "ref": "MessageDialog.html#close",
+                        "tf": 5
+                      },
+                      "DialogView.html": {
+                        "ref": "DialogView.html",
+                        "tf": 12.5
+                      },
+                      "DialogView.html#title": {
+                        "ref": "DialogView.html#title",
+                        "tf": 12.5
+                      },
+                      "DialogView.html#body": {
+                        "ref": "DialogView.html#body",
+                        "tf": 10
+                      },
+                      "DialogView.html#render": {
+                        "ref": "DialogView.html#render",
+                        "tf": 16.666666666666664
+                      },
+                      "DialogView.html#close": {
+                        "ref": "DialogView.html#close",
+                        "tf": 5
+                      },
+                      "Notification.html#title": {
+                        "ref": "Notification.html#title",
+                        "tf": 12.5
+                      },
+                      "Notification.html#body": {
+                        "ref": "Notification.html#body",
+                        "tf": 10
+                      },
+                      "Notification.html#render": {
+                        "ref": "Notification.html#render",
+                        "tf": 16.666666666666664
+                      },
+                      "Notification.html#close": {
+                        "ref": "Notification.html#close",
                         "tf": 5
                       }
                     },
@@ -851,9 +1159,9 @@ window.lunrData = {
                           "docs": {},
                           "w": {
                             "docs": {
-                              "Presentation.Component.DialogView.html": {
-                                "ref": "Presentation.Component.DialogView.html",
-                                "tf": 700
+                              "DialogView.html": {
+                                "ref": "DialogView.html",
+                                "tf": 1900
                               }
                             },
                             "#": {
@@ -866,9 +1174,9 @@ window.lunrData = {
                                     "docs": {},
                                     "l": {
                                       "docs": {
-                                        "Presentation.Component.DialogView.html#title": {
-                                          "ref": "Presentation.Component.DialogView.html#title",
-                                          "tf": 75
+                                        "DialogView.html#title": {
+                                          "ref": "DialogView.html#title",
+                                          "tf": 1150
                                         }
                                       }
                                     }
@@ -883,9 +1191,9 @@ window.lunrData = {
                                     "docs": {},
                                     "l": {
                                       "docs": {
-                                        "Presentation.Component.DialogView.html#style": {
-                                          "ref": "Presentation.Component.DialogView.html#style",
-                                          "tf": 75
+                                        "DialogView.html#style": {
+                                          "ref": "DialogView.html#style",
+                                          "tf": 1150
                                         }
                                       }
                                     }
@@ -904,9 +1212,9 @@ window.lunrData = {
                                         "docs": {},
                                         "n": {
                                           "docs": {
-                                            "Presentation.Component.DialogView.html#buttons": {
-                                              "ref": "Presentation.Component.DialogView.html#buttons",
-                                              "tf": 75
+                                            "DialogView.html#buttons": {
+                                              "ref": "DialogView.html#buttons",
+                                              "tf": 1150
                                             }
                                           }
                                         }
@@ -920,9 +1228,9 @@ window.lunrData = {
                                     "docs": {},
                                     "i": {
                                       "docs": {
-                                        "Presentation.Component.DialogView.html#body": {
-                                          "ref": "Presentation.Component.DialogView.html#body",
-                                          "tf": 75
+                                        "DialogView.html#body": {
+                                          "ref": "DialogView.html#body",
+                                          "tf": 1150
                                         }
                                       }
                                     }
@@ -937,9 +1245,9 @@ window.lunrData = {
                                     "docs": {},
                                     "d": {
                                       "docs": {
-                                        "Presentation.Component.DialogView.html#render": {
-                                          "ref": "Presentation.Component.DialogView.html#render",
-                                          "tf": 75
+                                        "DialogView.html#render": {
+                                          "ref": "DialogView.html#render",
+                                          "tf": 1150
                                         }
                                       }
                                     }
@@ -958,9 +1266,9 @@ window.lunrData = {
                                         "docs": {},
                                         "l": {
                                           "docs": {
-                                            "Presentation.Component.DialogView.html#cancel": {
-                                              "ref": "Presentation.Component.DialogView.html#cancel",
-                                              "tf": 75
+                                            "DialogView.html#cancel": {
+                                              "ref": "DialogView.html#cancel",
+                                              "tf": 1150
                                             }
                                           }
                                         }
@@ -974,9 +1282,9 @@ window.lunrData = {
                                     "docs": {},
                                     "s": {
                                       "docs": {
-                                        "Presentation.Component.DialogView.html#close": {
-                                          "ref": "Presentation.Component.DialogView.html#close",
-                                          "tf": 75
+                                        "DialogView.html#close": {
+                                          "ref": "DialogView.html#close",
+                                          "tf": 1150
                                         }
                                       }
                                     }
@@ -991,9 +1299,9 @@ window.lunrData = {
                                     "docs": {},
                                     "n": {
                                       "docs": {
-                                        "Presentation.Component.DialogView.html#open": {
-                                          "ref": "Presentation.Component.DialogView.html#open",
-                                          "tf": 75
+                                        "DialogView.html#open": {
+                                          "ref": "DialogView.html#open",
+                                          "tf": 1150
                                         }
                                       }
                                     }
@@ -1059,6 +1367,172 @@ window.lunrData = {
                       "ref": "Notification.html",
                       "tf": 1950
                     }
+                  },
+                  "i": {
+                    "docs": {},
+                    "c": {
+                      "docs": {},
+                      "a": {
+                        "docs": {},
+                        "t": {
+                          "docs": {},
+                          "i": {
+                            "docs": {},
+                            "o": {
+                              "docs": {},
+                              "n": {
+                                "docs": {},
+                                "#": {
+                                  "docs": {},
+                                  "t": {
+                                    "docs": {},
+                                    "i": {
+                                      "docs": {},
+                                      "t": {
+                                        "docs": {},
+                                        "l": {
+                                          "docs": {
+                                            "Notification.html#title": {
+                                              "ref": "Notification.html#title",
+                                              "tf": 1150
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "s": {
+                                    "docs": {},
+                                    "t": {
+                                      "docs": {},
+                                      "y": {
+                                        "docs": {},
+                                        "l": {
+                                          "docs": {
+                                            "Notification.html#style": {
+                                              "ref": "Notification.html#style",
+                                              "tf": 1150
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "b": {
+                                    "docs": {},
+                                    "u": {
+                                      "docs": {},
+                                      "t": {
+                                        "docs": {},
+                                        "t": {
+                                          "docs": {},
+                                          "o": {
+                                            "docs": {},
+                                            "n": {
+                                              "docs": {
+                                                "Notification.html#buttons": {
+                                                  "ref": "Notification.html#buttons",
+                                                  "tf": 1150
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "o": {
+                                      "docs": {},
+                                      "d": {
+                                        "docs": {},
+                                        "i": {
+                                          "docs": {
+                                            "Notification.html#body": {
+                                              "ref": "Notification.html#body",
+                                              "tf": 1150
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "r": {
+                                    "docs": {},
+                                    "e": {
+                                      "docs": {},
+                                      "n": {
+                                        "docs": {},
+                                        "d": {
+                                          "docs": {
+                                            "Notification.html#render": {
+                                              "ref": "Notification.html#render",
+                                              "tf": 1150
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "c": {
+                                    "docs": {},
+                                    "a": {
+                                      "docs": {},
+                                      "n": {
+                                        "docs": {},
+                                        "c": {
+                                          "docs": {},
+                                          "e": {
+                                            "docs": {},
+                                            "l": {
+                                              "docs": {
+                                                "Notification.html#cancel": {
+                                                  "ref": "Notification.html#cancel",
+                                                  "tf": 1150
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "l": {
+                                      "docs": {},
+                                      "o": {
+                                        "docs": {},
+                                        "s": {
+                                          "docs": {
+                                            "Notification.html#close": {
+                                              "ref": "Notification.html#close",
+                                              "tf": 1150
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "o": {
+                                    "docs": {},
+                                    "p": {
+                                      "docs": {},
+                                      "e": {
+                                        "docs": {},
+                                        "n": {
+                                          "docs": {
+                                            "Notification.html#open": {
+                                              "ref": "Notification.html#open",
+                                              "tf": 1150
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
                   }
                 }
               }
@@ -1083,645 +1557,6 @@ window.lunrData = {
                           "ref": "index.html",
                           "tf": 214
                         }
-                      },
-                      "a": {
-                        "docs": {},
-                        "t": {
-                          "docs": {},
-                          "i": {
-                            "docs": {},
-                            "o": {
-                              "docs": {},
-                              "n": {
-                                "docs": {},
-                                ".": {
-                                  "docs": {},
-                                  "c": {
-                                    "docs": {},
-                                    "o": {
-                                      "docs": {},
-                                      "m": {
-                                        "docs": {},
-                                        "p": {
-                                          "docs": {},
-                                          "o": {
-                                            "docs": {},
-                                            "n": {
-                                              "docs": {},
-                                              "e": {
-                                                "docs": {},
-                                                "n": {
-                                                  "docs": {},
-                                                  "t": {
-                                                    "docs": {},
-                                                    ".": {
-                                                      "docs": {},
-                                                      "a": {
-                                                        "docs": {},
-                                                        "l": {
-                                                          "docs": {},
-                                                          "e": {
-                                                            "docs": {},
-                                                            "r": {
-                                                              "docs": {},
-                                                              "t": {
-                                                                "docs": {},
-                                                                "d": {
-                                                                  "docs": {},
-                                                                  "i": {
-                                                                    "docs": {},
-                                                                    "a": {
-                                                                      "docs": {},
-                                                                      "l": {
-                                                                        "docs": {},
-                                                                        "o": {
-                                                                          "docs": {},
-                                                                          "g": {
-                                                                            "docs": {},
-                                                                            "v": {
-                                                                              "docs": {},
-                                                                              "i": {
-                                                                                "docs": {},
-                                                                                "e": {
-                                                                                  "docs": {},
-                                                                                  "w": {
-                                                                                    "docs": {
-                                                                                      "Presentation.Component.AlertDialogView.html": {
-                                                                                        "ref": "Presentation.Component.AlertDialogView.html",
-                                                                                        "tf": 1100
-                                                                                      }
-                                                                                    },
-                                                                                    "#": {
-                                                                                      "docs": {},
-                                                                                      "t": {
-                                                                                        "docs": {},
-                                                                                        "i": {
-                                                                                          "docs": {},
-                                                                                          "t": {
-                                                                                            "docs": {},
-                                                                                            "l": {
-                                                                                              "docs": {
-                                                                                                "Presentation.Component.AlertDialogView.html#title": {
-                                                                                                  "ref": "Presentation.Component.AlertDialogView.html#title",
-                                                                                                  "tf": 1075
-                                                                                                }
-                                                                                              }
-                                                                                            }
-                                                                                          }
-                                                                                        }
-                                                                                      },
-                                                                                      "s": {
-                                                                                        "docs": {},
-                                                                                        "t": {
-                                                                                          "docs": {},
-                                                                                          "y": {
-                                                                                            "docs": {},
-                                                                                            "l": {
-                                                                                              "docs": {
-                                                                                                "Presentation.Component.AlertDialogView.html#style": {
-                                                                                                  "ref": "Presentation.Component.AlertDialogView.html#style",
-                                                                                                  "tf": 1075
-                                                                                                }
-                                                                                              }
-                                                                                            }
-                                                                                          }
-                                                                                        }
-                                                                                      },
-                                                                                      "b": {
-                                                                                        "docs": {},
-                                                                                        "u": {
-                                                                                          "docs": {},
-                                                                                          "t": {
-                                                                                            "docs": {},
-                                                                                            "t": {
-                                                                                              "docs": {},
-                                                                                              "o": {
-                                                                                                "docs": {},
-                                                                                                "n": {
-                                                                                                  "docs": {
-                                                                                                    "Presentation.Component.AlertDialogView.html#buttons": {
-                                                                                                      "ref": "Presentation.Component.AlertDialogView.html#buttons",
-                                                                                                      "tf": 1075
-                                                                                                    }
-                                                                                                  }
-                                                                                                }
-                                                                                              }
-                                                                                            }
-                                                                                          }
-                                                                                        },
-                                                                                        "o": {
-                                                                                          "docs": {},
-                                                                                          "d": {
-                                                                                            "docs": {},
-                                                                                            "i": {
-                                                                                              "docs": {
-                                                                                                "Presentation.Component.AlertDialogView.html#body": {
-                                                                                                  "ref": "Presentation.Component.AlertDialogView.html#body",
-                                                                                                  "tf": 1075
-                                                                                                }
-                                                                                              }
-                                                                                            }
-                                                                                          }
-                                                                                        }
-                                                                                      },
-                                                                                      "r": {
-                                                                                        "docs": {},
-                                                                                        "e": {
-                                                                                          "docs": {},
-                                                                                          "n": {
-                                                                                            "docs": {},
-                                                                                            "d": {
-                                                                                              "docs": {
-                                                                                                "Presentation.Component.AlertDialogView.html#render": {
-                                                                                                  "ref": "Presentation.Component.AlertDialogView.html#render",
-                                                                                                  "tf": 1075
-                                                                                                }
-                                                                                              }
-                                                                                            }
-                                                                                          }
-                                                                                        }
-                                                                                      },
-                                                                                      "c": {
-                                                                                        "docs": {},
-                                                                                        "a": {
-                                                                                          "docs": {},
-                                                                                          "n": {
-                                                                                            "docs": {},
-                                                                                            "c": {
-                                                                                              "docs": {},
-                                                                                              "e": {
-                                                                                                "docs": {},
-                                                                                                "l": {
-                                                                                                  "docs": {
-                                                                                                    "Presentation.Component.AlertDialogView.html#cancel": {
-                                                                                                      "ref": "Presentation.Component.AlertDialogView.html#cancel",
-                                                                                                      "tf": 1075
-                                                                                                    }
-                                                                                                  }
-                                                                                                }
-                                                                                              }
-                                                                                            }
-                                                                                          }
-                                                                                        },
-                                                                                        "l": {
-                                                                                          "docs": {},
-                                                                                          "o": {
-                                                                                            "docs": {},
-                                                                                            "s": {
-                                                                                              "docs": {
-                                                                                                "Presentation.Component.AlertDialogView.html#close": {
-                                                                                                  "ref": "Presentation.Component.AlertDialogView.html#close",
-                                                                                                  "tf": 1075
-                                                                                                }
-                                                                                              }
-                                                                                            }
-                                                                                          }
-                                                                                        }
-                                                                                      },
-                                                                                      "o": {
-                                                                                        "docs": {},
-                                                                                        "p": {
-                                                                                          "docs": {},
-                                                                                          "e": {
-                                                                                            "docs": {},
-                                                                                            "n": {
-                                                                                              "docs": {
-                                                                                                "Presentation.Component.AlertDialogView.html#open": {
-                                                                                                  "ref": "Presentation.Component.AlertDialogView.html#open",
-                                                                                                  "tf": 1075
-                                                                                                }
-                                                                                              }
-                                                                                            }
-                                                                                          }
-                                                                                        }
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          }
-                                                                        }
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      },
-                                                      "c": {
-                                                        "docs": {},
-                                                        "o": {
-                                                          "docs": {},
-                                                          "n": {
-                                                            "docs": {},
-                                                            "f": {
-                                                              "docs": {},
-                                                              "i": {
-                                                                "docs": {},
-                                                                "r": {
-                                                                  "docs": {},
-                                                                  "m": {
-                                                                    "docs": {},
-                                                                    "a": {
-                                                                      "docs": {},
-                                                                      "t": {
-                                                                        "docs": {},
-                                                                        "i": {
-                                                                          "docs": {},
-                                                                          "o": {
-                                                                            "docs": {},
-                                                                            "n": {
-                                                                              "docs": {},
-                                                                              "d": {
-                                                                                "docs": {},
-                                                                                "i": {
-                                                                                  "docs": {},
-                                                                                  "a": {
-                                                                                    "docs": {},
-                                                                                    "l": {
-                                                                                      "docs": {},
-                                                                                      "o": {
-                                                                                        "docs": {},
-                                                                                        "g": {
-                                                                                          "docs": {},
-                                                                                          "v": {
-                                                                                            "docs": {},
-                                                                                            "i": {
-                                                                                              "docs": {},
-                                                                                              "e": {
-                                                                                                "docs": {},
-                                                                                                "w": {
-                                                                                                  "docs": {
-                                                                                                    "Presentation.Component.ConfirmationDialogView.html": {
-                                                                                                      "ref": "Presentation.Component.ConfirmationDialogView.html",
-                                                                                                      "tf": 1100
-                                                                                                    }
-                                                                                                  },
-                                                                                                  "#": {
-                                                                                                    "docs": {},
-                                                                                                    "t": {
-                                                                                                      "docs": {},
-                                                                                                      "i": {
-                                                                                                        "docs": {},
-                                                                                                        "t": {
-                                                                                                          "docs": {},
-                                                                                                          "l": {
-                                                                                                            "docs": {
-                                                                                                              "Presentation.Component.ConfirmationDialogView.html#title": {
-                                                                                                                "ref": "Presentation.Component.ConfirmationDialogView.html#title",
-                                                                                                                "tf": 1075
-                                                                                                              }
-                                                                                                            }
-                                                                                                          }
-                                                                                                        }
-                                                                                                      }
-                                                                                                    },
-                                                                                                    "s": {
-                                                                                                      "docs": {},
-                                                                                                      "t": {
-                                                                                                        "docs": {},
-                                                                                                        "y": {
-                                                                                                          "docs": {},
-                                                                                                          "l": {
-                                                                                                            "docs": {
-                                                                                                              "Presentation.Component.ConfirmationDialogView.html#style": {
-                                                                                                                "ref": "Presentation.Component.ConfirmationDialogView.html#style",
-                                                                                                                "tf": 1075
-                                                                                                              }
-                                                                                                            }
-                                                                                                          }
-                                                                                                        }
-                                                                                                      }
-                                                                                                    },
-                                                                                                    "b": {
-                                                                                                      "docs": {},
-                                                                                                      "u": {
-                                                                                                        "docs": {},
-                                                                                                        "t": {
-                                                                                                          "docs": {},
-                                                                                                          "t": {
-                                                                                                            "docs": {},
-                                                                                                            "o": {
-                                                                                                              "docs": {},
-                                                                                                              "n": {
-                                                                                                                "docs": {
-                                                                                                                  "Presentation.Component.ConfirmationDialogView.html#buttons": {
-                                                                                                                    "ref": "Presentation.Component.ConfirmationDialogView.html#buttons",
-                                                                                                                    "tf": 1075
-                                                                                                                  }
-                                                                                                                }
-                                                                                                              }
-                                                                                                            }
-                                                                                                          }
-                                                                                                        }
-                                                                                                      },
-                                                                                                      "o": {
-                                                                                                        "docs": {},
-                                                                                                        "d": {
-                                                                                                          "docs": {},
-                                                                                                          "i": {
-                                                                                                            "docs": {
-                                                                                                              "Presentation.Component.ConfirmationDialogView.html#body": {
-                                                                                                                "ref": "Presentation.Component.ConfirmationDialogView.html#body",
-                                                                                                                "tf": 1075
-                                                                                                              }
-                                                                                                            }
-                                                                                                          }
-                                                                                                        }
-                                                                                                      }
-                                                                                                    },
-                                                                                                    "r": {
-                                                                                                      "docs": {},
-                                                                                                      "e": {
-                                                                                                        "docs": {},
-                                                                                                        "n": {
-                                                                                                          "docs": {},
-                                                                                                          "d": {
-                                                                                                            "docs": {
-                                                                                                              "Presentation.Component.ConfirmationDialogView.html#render": {
-                                                                                                                "ref": "Presentation.Component.ConfirmationDialogView.html#render",
-                                                                                                                "tf": 1075
-                                                                                                              }
-                                                                                                            }
-                                                                                                          }
-                                                                                                        }
-                                                                                                      }
-                                                                                                    },
-                                                                                                    "c": {
-                                                                                                      "docs": {},
-                                                                                                      "a": {
-                                                                                                        "docs": {},
-                                                                                                        "n": {
-                                                                                                          "docs": {},
-                                                                                                          "c": {
-                                                                                                            "docs": {},
-                                                                                                            "e": {
-                                                                                                              "docs": {},
-                                                                                                              "l": {
-                                                                                                                "docs": {
-                                                                                                                  "Presentation.Component.ConfirmationDialogView.html#cancel": {
-                                                                                                                    "ref": "Presentation.Component.ConfirmationDialogView.html#cancel",
-                                                                                                                    "tf": 1075
-                                                                                                                  }
-                                                                                                                }
-                                                                                                              }
-                                                                                                            }
-                                                                                                          }
-                                                                                                        }
-                                                                                                      },
-                                                                                                      "l": {
-                                                                                                        "docs": {},
-                                                                                                        "o": {
-                                                                                                          "docs": {},
-                                                                                                          "s": {
-                                                                                                            "docs": {
-                                                                                                              "Presentation.Component.ConfirmationDialogView.html#close": {
-                                                                                                                "ref": "Presentation.Component.ConfirmationDialogView.html#close",
-                                                                                                                "tf": 1075
-                                                                                                              }
-                                                                                                            }
-                                                                                                          }
-                                                                                                        }
-                                                                                                      }
-                                                                                                    },
-                                                                                                    "o": {
-                                                                                                      "docs": {},
-                                                                                                      "p": {
-                                                                                                        "docs": {},
-                                                                                                        "e": {
-                                                                                                          "docs": {},
-                                                                                                          "n": {
-                                                                                                            "docs": {
-                                                                                                              "Presentation.Component.ConfirmationDialogView.html#open": {
-                                                                                                                "ref": "Presentation.Component.ConfirmationDialogView.html#open",
-                                                                                                                "tf": 1075
-                                                                                                              }
-                                                                                                            }
-                                                                                                          }
-                                                                                                        }
-                                                                                                      }
-                                                                                                    }
-                                                                                                  }
-                                                                                                }
-                                                                                              }
-                                                                                            }
-                                                                                          }
-                                                                                        }
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          }
-                                                                        }
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      },
-                                                      "d": {
-                                                        "docs": {},
-                                                        "i": {
-                                                          "docs": {},
-                                                          "a": {
-                                                            "docs": {},
-                                                            "l": {
-                                                              "docs": {},
-                                                              "o": {
-                                                                "docs": {},
-                                                                "g": {
-                                                                  "docs": {},
-                                                                  "v": {
-                                                                    "docs": {},
-                                                                    "i": {
-                                                                      "docs": {},
-                                                                      "e": {
-                                                                        "docs": {},
-                                                                        "w": {
-                                                                          "docs": {
-                                                                            "Presentation.Component.DialogView.html": {
-                                                                              "ref": "Presentation.Component.DialogView.html",
-                                                                              "tf": 1100
-                                                                            }
-                                                                          },
-                                                                          "#": {
-                                                                            "docs": {},
-                                                                            "t": {
-                                                                              "docs": {},
-                                                                              "i": {
-                                                                                "docs": {},
-                                                                                "t": {
-                                                                                  "docs": {},
-                                                                                  "l": {
-                                                                                    "docs": {
-                                                                                      "Presentation.Component.DialogView.html#title": {
-                                                                                        "ref": "Presentation.Component.DialogView.html#title",
-                                                                                        "tf": 1075
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            },
-                                                                            "s": {
-                                                                              "docs": {},
-                                                                              "t": {
-                                                                                "docs": {},
-                                                                                "y": {
-                                                                                  "docs": {},
-                                                                                  "l": {
-                                                                                    "docs": {
-                                                                                      "Presentation.Component.DialogView.html#style": {
-                                                                                        "ref": "Presentation.Component.DialogView.html#style",
-                                                                                        "tf": 1075
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            },
-                                                                            "b": {
-                                                                              "docs": {},
-                                                                              "u": {
-                                                                                "docs": {},
-                                                                                "t": {
-                                                                                  "docs": {},
-                                                                                  "t": {
-                                                                                    "docs": {},
-                                                                                    "o": {
-                                                                                      "docs": {},
-                                                                                      "n": {
-                                                                                        "docs": {
-                                                                                          "Presentation.Component.DialogView.html#buttons": {
-                                                                                            "ref": "Presentation.Component.DialogView.html#buttons",
-                                                                                            "tf": 1075
-                                                                                          }
-                                                                                        }
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              },
-                                                                              "o": {
-                                                                                "docs": {},
-                                                                                "d": {
-                                                                                  "docs": {},
-                                                                                  "i": {
-                                                                                    "docs": {
-                                                                                      "Presentation.Component.DialogView.html#body": {
-                                                                                        "ref": "Presentation.Component.DialogView.html#body",
-                                                                                        "tf": 1075
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            },
-                                                                            "r": {
-                                                                              "docs": {},
-                                                                              "e": {
-                                                                                "docs": {},
-                                                                                "n": {
-                                                                                  "docs": {},
-                                                                                  "d": {
-                                                                                    "docs": {
-                                                                                      "Presentation.Component.DialogView.html#render": {
-                                                                                        "ref": "Presentation.Component.DialogView.html#render",
-                                                                                        "tf": 1075
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            },
-                                                                            "c": {
-                                                                              "docs": {},
-                                                                              "a": {
-                                                                                "docs": {},
-                                                                                "n": {
-                                                                                  "docs": {},
-                                                                                  "c": {
-                                                                                    "docs": {},
-                                                                                    "e": {
-                                                                                      "docs": {},
-                                                                                      "l": {
-                                                                                        "docs": {
-                                                                                          "Presentation.Component.DialogView.html#cancel": {
-                                                                                            "ref": "Presentation.Component.DialogView.html#cancel",
-                                                                                            "tf": 1075
-                                                                                          }
-                                                                                        }
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              },
-                                                                              "l": {
-                                                                                "docs": {},
-                                                                                "o": {
-                                                                                  "docs": {},
-                                                                                  "s": {
-                                                                                    "docs": {
-                                                                                      "Presentation.Component.DialogView.html#close": {
-                                                                                        "ref": "Presentation.Component.DialogView.html#close",
-                                                                                        "tf": 1075
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            },
-                                                                            "o": {
-                                                                              "docs": {},
-                                                                              "p": {
-                                                                                "docs": {},
-                                                                                "e": {
-                                                                                  "docs": {},
-                                                                                  "n": {
-                                                                                    "docs": {
-                                                                                      "Presentation.Component.DialogView.html#open": {
-                                                                                        "ref": "Presentation.Component.DialogView.html#open",
-                                                                                        "tf": 1075
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          }
-                                                                        }
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  }
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
                       }
                     }
                   }
@@ -1740,40 +1575,76 @@ window.lunrData = {
                       "docs": {},
                       "i": {
                         "docs": {
-                          "Presentation.Component.AlertDialogView.html#title": {
-                            "ref": "Presentation.Component.AlertDialogView.html#title",
+                          "AlertDialogView.html#title": {
+                            "ref": "AlertDialogView.html#title",
                             "tf": 12.5
                           },
-                          "Presentation.Component.AlertDialogView.html#style": {
-                            "ref": "Presentation.Component.AlertDialogView.html#style",
+                          "AlertDialogView.html#style": {
+                            "ref": "AlertDialogView.html#style",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.AlertDialogView.html#buttons": {
-                            "ref": "Presentation.Component.AlertDialogView.html#buttons",
+                          "AlertDialogView.html#buttons": {
+                            "ref": "AlertDialogView.html#buttons",
                             "tf": 8.333333333333332
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#title": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#title",
+                          "ConfirmationDialogView.html#title": {
+                            "ref": "ConfirmationDialogView.html#title",
                             "tf": 12.5
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#style": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#style",
+                          "ConfirmationDialogView.html#style": {
+                            "ref": "ConfirmationDialogView.html#style",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#buttons": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#buttons",
+                          "ConfirmationDialogView.html#buttons": {
+                            "ref": "ConfirmationDialogView.html#buttons",
                             "tf": 8.333333333333332
                           },
-                          "Presentation.Component.DialogView.html#title": {
-                            "ref": "Presentation.Component.DialogView.html#title",
+                          "ErrorDialog.html#title": {
+                            "ref": "ErrorDialog.html#title",
                             "tf": 12.5
                           },
-                          "Presentation.Component.DialogView.html#style": {
-                            "ref": "Presentation.Component.DialogView.html#style",
+                          "ErrorDialog.html#style": {
+                            "ref": "ErrorDialog.html#style",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.DialogView.html#buttons": {
-                            "ref": "Presentation.Component.DialogView.html#buttons",
+                          "ErrorDialog.html#buttons": {
+                            "ref": "ErrorDialog.html#buttons",
+                            "tf": 8.333333333333332
+                          },
+                          "MessageDialog.html#title": {
+                            "ref": "MessageDialog.html#title",
+                            "tf": 12.5
+                          },
+                          "MessageDialog.html#style": {
+                            "ref": "MessageDialog.html#style",
+                            "tf": 5.555555555555555
+                          },
+                          "MessageDialog.html#buttons": {
+                            "ref": "MessageDialog.html#buttons",
+                            "tf": 8.333333333333332
+                          },
+                          "DialogView.html#title": {
+                            "ref": "DialogView.html#title",
+                            "tf": 12.5
+                          },
+                          "DialogView.html#style": {
+                            "ref": "DialogView.html#style",
+                            "tf": 5.555555555555555
+                          },
+                          "DialogView.html#buttons": {
+                            "ref": "DialogView.html#buttons",
+                            "tf": 8.333333333333332
+                          },
+                          "Notification.html#title": {
+                            "ref": "Notification.html#title",
+                            "tf": 12.5
+                          },
+                          "Notification.html#style": {
+                            "ref": "Notification.html#style",
+                            "tf": 5.555555555555555
+                          },
+                          "Notification.html#buttons": {
+                            "ref": "Notification.html#buttons",
                             "tf": 8.333333333333332
                           }
                         }
@@ -1811,28 +1682,52 @@ window.lunrData = {
                   "docs": {},
                   "r": {
                     "docs": {
-                      "Presentation.Component.AlertDialogView.html#render": {
-                        "ref": "Presentation.Component.AlertDialogView.html#render",
-                        "tf": 708.3333333333334
+                      "AlertDialogView.html#render": {
+                        "ref": "AlertDialogView.html#render",
+                        "tf": 783.3333333333334
                       },
-                      "Presentation.Component.AlertDialogView.html#open": {
-                        "ref": "Presentation.Component.AlertDialogView.html#open",
+                      "AlertDialogView.html#open": {
+                        "ref": "AlertDialogView.html#open",
                         "tf": 5.555555555555555
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#render": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#render",
-                        "tf": 708.3333333333334
+                      "ConfirmationDialogView.html#render": {
+                        "ref": "ConfirmationDialogView.html#render",
+                        "tf": 783.3333333333334
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#open": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#open",
+                      "ConfirmationDialogView.html#open": {
+                        "ref": "ConfirmationDialogView.html#open",
                         "tf": 5.555555555555555
                       },
-                      "Presentation.Component.DialogView.html#render": {
-                        "ref": "Presentation.Component.DialogView.html#render",
-                        "tf": 708.3333333333334
+                      "ErrorDialog.html#render": {
+                        "ref": "ErrorDialog.html#render",
+                        "tf": 783.3333333333334
                       },
-                      "Presentation.Component.DialogView.html#open": {
-                        "ref": "Presentation.Component.DialogView.html#open",
+                      "ErrorDialog.html#open": {
+                        "ref": "ErrorDialog.html#open",
+                        "tf": 5.555555555555555
+                      },
+                      "MessageDialog.html#render": {
+                        "ref": "MessageDialog.html#render",
+                        "tf": 783.3333333333334
+                      },
+                      "MessageDialog.html#open": {
+                        "ref": "MessageDialog.html#open",
+                        "tf": 5.555555555555555
+                      },
+                      "DialogView.html#render": {
+                        "ref": "DialogView.html#render",
+                        "tf": 783.3333333333334
+                      },
+                      "DialogView.html#open": {
+                        "ref": "DialogView.html#open",
+                        "tf": 5.555555555555555
+                      },
+                      "Notification.html#render": {
+                        "ref": "Notification.html#render",
+                        "tf": 783.3333333333334
+                      },
+                      "Notification.html#open": {
+                        "ref": "Notification.html#open",
                         "tf": 5.555555555555555
                       }
                     }
@@ -1852,8 +1747,8 @@ window.lunrData = {
                 "docs": {},
                 "l": {
                   "docs": {
-                    "Presentation.Component.DialogView.html": {
-                      "ref": "Presentation.Component.DialogView.html",
+                    "DialogView.html": {
+                      "ref": "DialogView.html",
                       "tf": 6.25
                     }
                   },
@@ -1877,17 +1772,29 @@ window.lunrData = {
                 "docs": {},
                 "e": {
                   "docs": {
-                    "Presentation.Component.AlertDialogView.html#style": {
-                      "ref": "Presentation.Component.AlertDialogView.html#style",
-                      "tf": 686.1111111111111
+                    "AlertDialogView.html#style": {
+                      "ref": "AlertDialogView.html#style",
+                      "tf": 761.1111111111111
                     },
-                    "Presentation.Component.ConfirmationDialogView.html#style": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html#style",
-                      "tf": 686.1111111111111
+                    "ConfirmationDialogView.html#style": {
+                      "ref": "ConfirmationDialogView.html#style",
+                      "tf": 761.1111111111111
                     },
-                    "Presentation.Component.DialogView.html#style": {
-                      "ref": "Presentation.Component.DialogView.html#style",
-                      "tf": 686.1111111111111
+                    "ErrorDialog.html#style": {
+                      "ref": "ErrorDialog.html#style",
+                      "tf": 761.1111111111111
+                    },
+                    "MessageDialog.html#style": {
+                      "ref": "MessageDialog.html#style",
+                      "tf": 761.1111111111111
+                    },
+                    "DialogView.html#style": {
+                      "ref": "DialogView.html#style",
+                      "tf": 761.1111111111111
+                    },
+                    "Notification.html#style": {
+                      "ref": "Notification.html#style",
+                      "tf": 761.1111111111111
                     }
                   }
                 }
@@ -1905,40 +1812,76 @@ window.lunrData = {
                       "docs": {},
                       "d": {
                         "docs": {
-                          "Presentation.Component.AlertDialogView.html#cancel": {
-                            "ref": "Presentation.Component.AlertDialogView.html#cancel",
+                          "AlertDialogView.html#cancel": {
+                            "ref": "AlertDialogView.html#cancel",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.AlertDialogView.html#open": {
-                            "ref": "Presentation.Component.AlertDialogView.html#open",
+                          "AlertDialogView.html#open": {
+                            "ref": "AlertDialogView.html#open",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.AlertDialogView.html#close": {
-                            "ref": "Presentation.Component.AlertDialogView.html#close",
+                          "AlertDialogView.html#close": {
+                            "ref": "AlertDialogView.html#close",
                             "tf": 5
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#cancel": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#cancel",
+                          "ConfirmationDialogView.html#cancel": {
+                            "ref": "ConfirmationDialogView.html#cancel",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#open": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#open",
+                          "ConfirmationDialogView.html#open": {
+                            "ref": "ConfirmationDialogView.html#open",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#close": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#close",
+                          "ConfirmationDialogView.html#close": {
+                            "ref": "ConfirmationDialogView.html#close",
                             "tf": 5
                           },
-                          "Presentation.Component.DialogView.html#cancel": {
-                            "ref": "Presentation.Component.DialogView.html#cancel",
+                          "ErrorDialog.html#cancel": {
+                            "ref": "ErrorDialog.html#cancel",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.DialogView.html#open": {
-                            "ref": "Presentation.Component.DialogView.html#open",
+                          "ErrorDialog.html#open": {
+                            "ref": "ErrorDialog.html#open",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.DialogView.html#close": {
-                            "ref": "Presentation.Component.DialogView.html#close",
+                          "ErrorDialog.html#close": {
+                            "ref": "ErrorDialog.html#close",
+                            "tf": 5
+                          },
+                          "MessageDialog.html#cancel": {
+                            "ref": "MessageDialog.html#cancel",
+                            "tf": 5.555555555555555
+                          },
+                          "MessageDialog.html#open": {
+                            "ref": "MessageDialog.html#open",
+                            "tf": 5.555555555555555
+                          },
+                          "MessageDialog.html#close": {
+                            "ref": "MessageDialog.html#close",
+                            "tf": 5
+                          },
+                          "DialogView.html#cancel": {
+                            "ref": "DialogView.html#cancel",
+                            "tf": 5.555555555555555
+                          },
+                          "DialogView.html#open": {
+                            "ref": "DialogView.html#open",
+                            "tf": 5.555555555555555
+                          },
+                          "DialogView.html#close": {
+                            "ref": "DialogView.html#close",
+                            "tf": 5
+                          },
+                          "Notification.html#cancel": {
+                            "ref": "Notification.html#cancel",
+                            "tf": 5.555555555555555
+                          },
+                          "Notification.html#open": {
+                            "ref": "Notification.html#open",
+                            "tf": 5.555555555555555
+                          },
+                          "Notification.html#close": {
+                            "ref": "Notification.html#close",
                             "tf": 5
                           }
                         }
@@ -1953,16 +1896,28 @@ window.lunrData = {
             "docs": {},
             "t": {
               "docs": {
-                "Presentation.Component.AlertDialogView.html#body": {
-                  "ref": "Presentation.Component.AlertDialogView.html#body",
+                "AlertDialogView.html#body": {
+                  "ref": "AlertDialogView.html#body",
                   "tf": 10
                 },
-                "Presentation.Component.ConfirmationDialogView.html#body": {
-                  "ref": "Presentation.Component.ConfirmationDialogView.html#body",
+                "ConfirmationDialogView.html#body": {
+                  "ref": "ConfirmationDialogView.html#body",
                   "tf": 10
                 },
-                "Presentation.Component.DialogView.html#body": {
-                  "ref": "Presentation.Component.DialogView.html#body",
+                "ErrorDialog.html#body": {
+                  "ref": "ErrorDialog.html#body",
+                  "tf": 10
+                },
+                "MessageDialog.html#body": {
+                  "ref": "MessageDialog.html#body",
+                  "tf": 10
+                },
+                "DialogView.html#body": {
+                  "ref": "DialogView.html#body",
+                  "tf": 10
+                },
+                "Notification.html#body": {
+                  "ref": "Notification.html#body",
                   "tf": 10
                 }
               },
@@ -1974,16 +1929,28 @@ window.lunrData = {
                     "docs": {},
                     "i": {
                       "docs": {
-                        "Presentation.Component.AlertDialogView.html#body": {
-                          "ref": "Presentation.Component.AlertDialogView.html#body",
+                        "AlertDialogView.html#body": {
+                          "ref": "AlertDialogView.html#body",
                           "tf": 10
                         },
-                        "Presentation.Component.ConfirmationDialogView.html#body": {
-                          "ref": "Presentation.Component.ConfirmationDialogView.html#body",
+                        "ConfirmationDialogView.html#body": {
+                          "ref": "ConfirmationDialogView.html#body",
                           "tf": 10
                         },
-                        "Presentation.Component.DialogView.html#body": {
-                          "ref": "Presentation.Component.DialogView.html#body",
+                        "ErrorDialog.html#body": {
+                          "ref": "ErrorDialog.html#body",
+                          "tf": 10
+                        },
+                        "MessageDialog.html#body": {
+                          "ref": "MessageDialog.html#body",
+                          "tf": 10
+                        },
+                        "DialogView.html#body": {
+                          "ref": "DialogView.html#body",
+                          "tf": 10
+                        },
+                        "Notification.html#body": {
+                          "ref": "Notification.html#body",
                           "tf": 10
                         }
                       }
@@ -2071,37 +2038,57 @@ window.lunrData = {
                       "ref": "list_class.html",
                       "tf": 635
                     },
-                    "Presentation.Component.AlertDialogView.html": {
-                      "ref": "Presentation.Component.AlertDialogView.html",
+                    "AlertDialogView.html": {
+                      "ref": "AlertDialogView.html",
                       "tf": 110
                     },
-                    "Presentation.Component.AlertDialogView.html#style": {
-                      "ref": "Presentation.Component.AlertDialogView.html#style",
+                    "AlertDialogView.html#style": {
+                      "ref": "AlertDialogView.html#style",
                       "tf": 5.555555555555555
                     },
-                    "Presentation.Component.ConfirmationDialogView.html": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html",
+                    "ConfirmationDialogView.html": {
+                      "ref": "ConfirmationDialogView.html",
                       "tf": 110
                     },
-                    "Presentation.Component.ConfirmationDialogView.html#style": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html#style",
+                    "ConfirmationDialogView.html#style": {
+                      "ref": "ConfirmationDialogView.html#style",
+                      "tf": 5.555555555555555
+                    },
+                    "ErrorDialog.html": {
+                      "ref": "ErrorDialog.html",
+                      "tf": 110
+                    },
+                    "ErrorDialog.html#style": {
+                      "ref": "ErrorDialog.html#style",
+                      "tf": 5.555555555555555
+                    },
+                    "MessageDialog.html": {
+                      "ref": "MessageDialog.html",
+                      "tf": 110
+                    },
+                    "MessageDialog.html#style": {
+                      "ref": "MessageDialog.html#style",
+                      "tf": 5.555555555555555
+                    },
+                    "DialogView.html": {
+                      "ref": "DialogView.html",
+                      "tf": 110
+                    },
+                    "DialogView.html#style": {
+                      "ref": "DialogView.html#style",
                       "tf": 5.555555555555555
                     },
                     "Notification.html": {
                       "ref": "Notification.html",
                       "tf": 110
                     },
+                    "Notification.html#style": {
+                      "ref": "Notification.html#style",
+                      "tf": 5.555555555555555
+                    },
                     "Splash.html": {
                       "ref": "Splash.html",
                       "tf": 110
-                    },
-                    "Presentation.Component.DialogView.html": {
-                      "ref": "Presentation.Component.DialogView.html",
-                      "tf": 110
-                    },
-                    "Presentation.Component.DialogView.html#style": {
-                      "ref": "Presentation.Component.DialogView.html#style",
-                      "tf": 5.555555555555555
                     }
                   }
                 }
@@ -2113,29 +2100,53 @@ window.lunrData = {
                 "docs": {},
                 "e": {
                   "docs": {
-                    "Presentation.Component.AlertDialogView.html#cancel": {
-                      "ref": "Presentation.Component.AlertDialogView.html#cancel",
+                    "AlertDialogView.html#cancel": {
+                      "ref": "AlertDialogView.html#cancel",
                       "tf": 5.555555555555555
                     },
-                    "Presentation.Component.AlertDialogView.html#close": {
-                      "ref": "Presentation.Component.AlertDialogView.html#close",
-                      "tf": 645
+                    "AlertDialogView.html#close": {
+                      "ref": "AlertDialogView.html#close",
+                      "tf": 720
                     },
-                    "Presentation.Component.ConfirmationDialogView.html#cancel": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html#cancel",
+                    "ConfirmationDialogView.html#cancel": {
+                      "ref": "ConfirmationDialogView.html#cancel",
                       "tf": 5.555555555555555
                     },
-                    "Presentation.Component.ConfirmationDialogView.html#close": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html#close",
-                      "tf": 645
+                    "ConfirmationDialogView.html#close": {
+                      "ref": "ConfirmationDialogView.html#close",
+                      "tf": 720
                     },
-                    "Presentation.Component.DialogView.html#cancel": {
-                      "ref": "Presentation.Component.DialogView.html#cancel",
+                    "ErrorDialog.html#cancel": {
+                      "ref": "ErrorDialog.html#cancel",
                       "tf": 5.555555555555555
                     },
-                    "Presentation.Component.DialogView.html#close": {
-                      "ref": "Presentation.Component.DialogView.html#close",
-                      "tf": 645
+                    "ErrorDialog.html#close": {
+                      "ref": "ErrorDialog.html#close",
+                      "tf": 720
+                    },
+                    "MessageDialog.html#cancel": {
+                      "ref": "MessageDialog.html#cancel",
+                      "tf": 5.555555555555555
+                    },
+                    "MessageDialog.html#close": {
+                      "ref": "MessageDialog.html#close",
+                      "tf": 720
+                    },
+                    "DialogView.html#cancel": {
+                      "ref": "DialogView.html#cancel",
+                      "tf": 5.555555555555555
+                    },
+                    "DialogView.html#close": {
+                      "ref": "DialogView.html#close",
+                      "tf": 720
+                    },
+                    "Notification.html#cancel": {
+                      "ref": "Notification.html#cancel",
+                      "tf": 5.555555555555555
+                    },
+                    "Notification.html#close": {
+                      "ref": "Notification.html#close",
+                      "tf": 720
                     }
                   }
                 }
@@ -2152,21 +2163,33 @@ window.lunrData = {
                   "docs": {},
                   "l": {
                     "docs": {
-                      "Presentation.Component.AlertDialogView.html": {
-                        "ref": "Presentation.Component.AlertDialogView.html",
+                      "AlertDialogView.html": {
+                        "ref": "AlertDialogView.html",
                         "tf": 5.555555555555555
                       },
-                      "Presentation.Component.AlertDialogView.html#cancel": {
-                        "ref": "Presentation.Component.AlertDialogView.html#cancel",
-                        "tf": 636.1111111111111
+                      "AlertDialogView.html#cancel": {
+                        "ref": "AlertDialogView.html#cancel",
+                        "tf": 711.1111111111111
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#cancel": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#cancel",
-                        "tf": 636.1111111111111
+                      "ConfirmationDialogView.html#cancel": {
+                        "ref": "ConfirmationDialogView.html#cancel",
+                        "tf": 711.1111111111111
                       },
-                      "Presentation.Component.DialogView.html#cancel": {
-                        "ref": "Presentation.Component.DialogView.html#cancel",
-                        "tf": 636.1111111111111
+                      "ErrorDialog.html#cancel": {
+                        "ref": "ErrorDialog.html#cancel",
+                        "tf": 711.1111111111111
+                      },
+                      "MessageDialog.html#cancel": {
+                        "ref": "MessageDialog.html#cancel",
+                        "tf": 711.1111111111111
+                      },
+                      "DialogView.html#cancel": {
+                        "ref": "DialogView.html#cancel",
+                        "tf": 711.1111111111111
+                      },
+                      "Notification.html#cancel": {
+                        "ref": "Notification.html#cancel",
+                        "tf": 711.1111111111111
                       }
                     }
                   }
@@ -2177,28 +2200,52 @@ window.lunrData = {
               "docs": {},
               "l": {
                 "docs": {
-                  "Presentation.Component.AlertDialogView.html#cancel": {
-                    "ref": "Presentation.Component.AlertDialogView.html#cancel",
+                  "AlertDialogView.html#cancel": {
+                    "ref": "AlertDialogView.html#cancel",
                     "tf": 5.555555555555555
                   },
-                  "Presentation.Component.AlertDialogView.html#open": {
-                    "ref": "Presentation.Component.AlertDialogView.html#open",
+                  "AlertDialogView.html#open": {
+                    "ref": "AlertDialogView.html#open",
                     "tf": 5.555555555555555
                   },
-                  "Presentation.Component.ConfirmationDialogView.html#cancel": {
-                    "ref": "Presentation.Component.ConfirmationDialogView.html#cancel",
+                  "ConfirmationDialogView.html#cancel": {
+                    "ref": "ConfirmationDialogView.html#cancel",
                     "tf": 5.555555555555555
                   },
-                  "Presentation.Component.ConfirmationDialogView.html#open": {
-                    "ref": "Presentation.Component.ConfirmationDialogView.html#open",
+                  "ConfirmationDialogView.html#open": {
+                    "ref": "ConfirmationDialogView.html#open",
                     "tf": 5.555555555555555
                   },
-                  "Presentation.Component.DialogView.html#cancel": {
-                    "ref": "Presentation.Component.DialogView.html#cancel",
+                  "ErrorDialog.html#cancel": {
+                    "ref": "ErrorDialog.html#cancel",
                     "tf": 5.555555555555555
                   },
-                  "Presentation.Component.DialogView.html#open": {
-                    "ref": "Presentation.Component.DialogView.html#open",
+                  "ErrorDialog.html#open": {
+                    "ref": "ErrorDialog.html#open",
+                    "tf": 5.555555555555555
+                  },
+                  "MessageDialog.html#cancel": {
+                    "ref": "MessageDialog.html#cancel",
+                    "tf": 5.555555555555555
+                  },
+                  "MessageDialog.html#open": {
+                    "ref": "MessageDialog.html#open",
+                    "tf": 5.555555555555555
+                  },
+                  "DialogView.html#cancel": {
+                    "ref": "DialogView.html#cancel",
+                    "tf": 5.555555555555555
+                  },
+                  "DialogView.html#open": {
+                    "ref": "DialogView.html#open",
+                    "tf": 5.555555555555555
+                  },
+                  "Notification.html#cancel": {
+                    "ref": "Notification.html#cancel",
+                    "tf": 5.555555555555555
+                  },
+                  "Notification.html#open": {
+                    "ref": "Notification.html#open",
                     "tf": 5.555555555555555
                   }
                 },
@@ -2210,40 +2257,76 @@ window.lunrData = {
                       "docs": {},
                       "k": {
                         "docs": {
-                          "Presentation.Component.AlertDialogView.html#cancel": {
-                            "ref": "Presentation.Component.AlertDialogView.html#cancel",
+                          "AlertDialogView.html#cancel": {
+                            "ref": "AlertDialogView.html#cancel",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.AlertDialogView.html#open": {
-                            "ref": "Presentation.Component.AlertDialogView.html#open",
+                          "AlertDialogView.html#open": {
+                            "ref": "AlertDialogView.html#open",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.AlertDialogView.html#close": {
-                            "ref": "Presentation.Component.AlertDialogView.html#close",
+                          "AlertDialogView.html#close": {
+                            "ref": "AlertDialogView.html#close",
                             "tf": 5
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#cancel": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#cancel",
+                          "ConfirmationDialogView.html#cancel": {
+                            "ref": "ConfirmationDialogView.html#cancel",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#open": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#open",
+                          "ConfirmationDialogView.html#open": {
+                            "ref": "ConfirmationDialogView.html#open",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#close": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#close",
+                          "ConfirmationDialogView.html#close": {
+                            "ref": "ConfirmationDialogView.html#close",
                             "tf": 5
                           },
-                          "Presentation.Component.DialogView.html#cancel": {
-                            "ref": "Presentation.Component.DialogView.html#cancel",
+                          "ErrorDialog.html#cancel": {
+                            "ref": "ErrorDialog.html#cancel",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.DialogView.html#open": {
-                            "ref": "Presentation.Component.DialogView.html#open",
+                          "ErrorDialog.html#open": {
+                            "ref": "ErrorDialog.html#open",
                             "tf": 5.555555555555555
                           },
-                          "Presentation.Component.DialogView.html#close": {
-                            "ref": "Presentation.Component.DialogView.html#close",
+                          "ErrorDialog.html#close": {
+                            "ref": "ErrorDialog.html#close",
+                            "tf": 5
+                          },
+                          "MessageDialog.html#cancel": {
+                            "ref": "MessageDialog.html#cancel",
+                            "tf": 5.555555555555555
+                          },
+                          "MessageDialog.html#open": {
+                            "ref": "MessageDialog.html#open",
+                            "tf": 5.555555555555555
+                          },
+                          "MessageDialog.html#close": {
+                            "ref": "MessageDialog.html#close",
+                            "tf": 5
+                          },
+                          "DialogView.html#cancel": {
+                            "ref": "DialogView.html#cancel",
+                            "tf": 5.555555555555555
+                          },
+                          "DialogView.html#open": {
+                            "ref": "DialogView.html#open",
+                            "tf": 5.555555555555555
+                          },
+                          "DialogView.html#close": {
+                            "ref": "DialogView.html#close",
+                            "tf": 5
+                          },
+                          "Notification.html#cancel": {
+                            "ref": "Notification.html#cancel",
+                            "tf": 5.555555555555555
+                          },
+                          "Notification.html#open": {
+                            "ref": "Notification.html#open",
+                            "tf": 5.555555555555555
+                          },
+                          "Notification.html#close": {
+                            "ref": "Notification.html#close",
                             "tf": 5
                           }
                         }
@@ -2254,640 +2337,41 @@ window.lunrData = {
               }
             }
           },
-          "o": {
+          "r": {
             "docs": {},
-            "m": {
+            "e": {
               "docs": {},
-              "p": {
+              "a": {
                 "docs": {},
-                "o": {
-                  "docs": {},
-                  "n": {
-                    "docs": {},
-                    "e": {
-                      "docs": {},
-                      "n": {
-                        "docs": {},
-                        "t": {
-                          "docs": {},
-                          ".": {
-                            "docs": {},
-                            "a": {
-                              "docs": {},
-                              "l": {
-                                "docs": {},
-                                "e": {
-                                  "docs": {},
-                                  "r": {
-                                    "docs": {},
-                                    "t": {
-                                      "docs": {},
-                                      "d": {
-                                        "docs": {},
-                                        "i": {
-                                          "docs": {},
-                                          "a": {
-                                            "docs": {},
-                                            "l": {
-                                              "docs": {},
-                                              "o": {
-                                                "docs": {},
-                                                "g": {
-                                                  "docs": {},
-                                                  "v": {
-                                                    "docs": {},
-                                                    "i": {
-                                                      "docs": {},
-                                                      "e": {
-                                                        "docs": {},
-                                                        "w": {
-                                                          "docs": {
-                                                            "Presentation.Component.AlertDialogView.html": {
-                                                              "ref": "Presentation.Component.AlertDialogView.html",
-                                                              "tf": 100
-                                                            }
-                                                          },
-                                                          "#": {
-                                                            "docs": {},
-                                                            "t": {
-                                                              "docs": {},
-                                                              "i": {
-                                                                "docs": {},
-                                                                "t": {
-                                                                  "docs": {},
-                                                                  "l": {
-                                                                    "docs": {
-                                                                      "Presentation.Component.AlertDialogView.html#title": {
-                                                                        "ref": "Presentation.Component.AlertDialogView.html#title",
-                                                                        "tf": 75
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            },
-                                                            "s": {
-                                                              "docs": {},
-                                                              "t": {
-                                                                "docs": {},
-                                                                "y": {
-                                                                  "docs": {},
-                                                                  "l": {
-                                                                    "docs": {
-                                                                      "Presentation.Component.AlertDialogView.html#style": {
-                                                                        "ref": "Presentation.Component.AlertDialogView.html#style",
-                                                                        "tf": 75
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            },
-                                                            "b": {
-                                                              "docs": {},
-                                                              "u": {
-                                                                "docs": {},
-                                                                "t": {
-                                                                  "docs": {},
-                                                                  "t": {
-                                                                    "docs": {},
-                                                                    "o": {
-                                                                      "docs": {},
-                                                                      "n": {
-                                                                        "docs": {
-                                                                          "Presentation.Component.AlertDialogView.html#buttons": {
-                                                                            "ref": "Presentation.Component.AlertDialogView.html#buttons",
-                                                                            "tf": 75
-                                                                          }
-                                                                        }
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              },
-                                                              "o": {
-                                                                "docs": {},
-                                                                "d": {
-                                                                  "docs": {},
-                                                                  "i": {
-                                                                    "docs": {
-                                                                      "Presentation.Component.AlertDialogView.html#body": {
-                                                                        "ref": "Presentation.Component.AlertDialogView.html#body",
-                                                                        "tf": 75
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            },
-                                                            "r": {
-                                                              "docs": {},
-                                                              "e": {
-                                                                "docs": {},
-                                                                "n": {
-                                                                  "docs": {},
-                                                                  "d": {
-                                                                    "docs": {
-                                                                      "Presentation.Component.AlertDialogView.html#render": {
-                                                                        "ref": "Presentation.Component.AlertDialogView.html#render",
-                                                                        "tf": 75
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            },
-                                                            "c": {
-                                                              "docs": {},
-                                                              "a": {
-                                                                "docs": {},
-                                                                "n": {
-                                                                  "docs": {},
-                                                                  "c": {
-                                                                    "docs": {},
-                                                                    "e": {
-                                                                      "docs": {},
-                                                                      "l": {
-                                                                        "docs": {
-                                                                          "Presentation.Component.AlertDialogView.html#cancel": {
-                                                                            "ref": "Presentation.Component.AlertDialogView.html#cancel",
-                                                                            "tf": 75
-                                                                          }
-                                                                        }
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              },
-                                                              "l": {
-                                                                "docs": {},
-                                                                "o": {
-                                                                  "docs": {},
-                                                                  "s": {
-                                                                    "docs": {
-                                                                      "Presentation.Component.AlertDialogView.html#close": {
-                                                                        "ref": "Presentation.Component.AlertDialogView.html#close",
-                                                                        "tf": 75
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            },
-                                                            "o": {
-                                                              "docs": {},
-                                                              "p": {
-                                                                "docs": {},
-                                                                "e": {
-                                                                  "docs": {},
-                                                                  "n": {
-                                                                    "docs": {
-                                                                      "Presentation.Component.AlertDialogView.html#open": {
-                                                                        "ref": "Presentation.Component.AlertDialogView.html#open",
-                                                                        "tf": 75
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  }
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            },
-                            "c": {
-                              "docs": {},
-                              "o": {
-                                "docs": {},
-                                "n": {
-                                  "docs": {},
-                                  "f": {
-                                    "docs": {},
-                                    "i": {
-                                      "docs": {},
-                                      "r": {
-                                        "docs": {},
-                                        "m": {
-                                          "docs": {},
-                                          "a": {
-                                            "docs": {},
-                                            "t": {
-                                              "docs": {},
-                                              "i": {
-                                                "docs": {},
-                                                "o": {
-                                                  "docs": {},
-                                                  "n": {
-                                                    "docs": {},
-                                                    "d": {
-                                                      "docs": {},
-                                                      "i": {
-                                                        "docs": {},
-                                                        "a": {
-                                                          "docs": {},
-                                                          "l": {
-                                                            "docs": {},
-                                                            "o": {
-                                                              "docs": {},
-                                                              "g": {
-                                                                "docs": {},
-                                                                "v": {
-                                                                  "docs": {},
-                                                                  "i": {
-                                                                    "docs": {},
-                                                                    "e": {
-                                                                      "docs": {},
-                                                                      "w": {
-                                                                        "docs": {
-                                                                          "Presentation.Component.ConfirmationDialogView.html": {
-                                                                            "ref": "Presentation.Component.ConfirmationDialogView.html",
-                                                                            "tf": 100
-                                                                          }
-                                                                        },
-                                                                        "#": {
-                                                                          "docs": {},
-                                                                          "t": {
-                                                                            "docs": {},
-                                                                            "i": {
-                                                                              "docs": {},
-                                                                              "t": {
-                                                                                "docs": {},
-                                                                                "l": {
-                                                                                  "docs": {
-                                                                                    "Presentation.Component.ConfirmationDialogView.html#title": {
-                                                                                      "ref": "Presentation.Component.ConfirmationDialogView.html#title",
-                                                                                      "tf": 75
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          },
-                                                                          "s": {
-                                                                            "docs": {},
-                                                                            "t": {
-                                                                              "docs": {},
-                                                                              "y": {
-                                                                                "docs": {},
-                                                                                "l": {
-                                                                                  "docs": {
-                                                                                    "Presentation.Component.ConfirmationDialogView.html#style": {
-                                                                                      "ref": "Presentation.Component.ConfirmationDialogView.html#style",
-                                                                                      "tf": 75
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          },
-                                                                          "b": {
-                                                                            "docs": {},
-                                                                            "u": {
-                                                                              "docs": {},
-                                                                              "t": {
-                                                                                "docs": {},
-                                                                                "t": {
-                                                                                  "docs": {},
-                                                                                  "o": {
-                                                                                    "docs": {},
-                                                                                    "n": {
-                                                                                      "docs": {
-                                                                                        "Presentation.Component.ConfirmationDialogView.html#buttons": {
-                                                                                          "ref": "Presentation.Component.ConfirmationDialogView.html#buttons",
-                                                                                          "tf": 75
-                                                                                        }
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            },
-                                                                            "o": {
-                                                                              "docs": {},
-                                                                              "d": {
-                                                                                "docs": {},
-                                                                                "i": {
-                                                                                  "docs": {
-                                                                                    "Presentation.Component.ConfirmationDialogView.html#body": {
-                                                                                      "ref": "Presentation.Component.ConfirmationDialogView.html#body",
-                                                                                      "tf": 75
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          },
-                                                                          "r": {
-                                                                            "docs": {},
-                                                                            "e": {
-                                                                              "docs": {},
-                                                                              "n": {
-                                                                                "docs": {},
-                                                                                "d": {
-                                                                                  "docs": {
-                                                                                    "Presentation.Component.ConfirmationDialogView.html#render": {
-                                                                                      "ref": "Presentation.Component.ConfirmationDialogView.html#render",
-                                                                                      "tf": 75
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          },
-                                                                          "c": {
-                                                                            "docs": {},
-                                                                            "a": {
-                                                                              "docs": {},
-                                                                              "n": {
-                                                                                "docs": {},
-                                                                                "c": {
-                                                                                  "docs": {},
-                                                                                  "e": {
-                                                                                    "docs": {},
-                                                                                    "l": {
-                                                                                      "docs": {
-                                                                                        "Presentation.Component.ConfirmationDialogView.html#cancel": {
-                                                                                          "ref": "Presentation.Component.ConfirmationDialogView.html#cancel",
-                                                                                          "tf": 75
-                                                                                        }
-                                                                                      }
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            },
-                                                                            "l": {
-                                                                              "docs": {},
-                                                                              "o": {
-                                                                                "docs": {},
-                                                                                "s": {
-                                                                                  "docs": {
-                                                                                    "Presentation.Component.ConfirmationDialogView.html#close": {
-                                                                                      "ref": "Presentation.Component.ConfirmationDialogView.html#close",
-                                                                                      "tf": 75
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          },
-                                                                          "o": {
-                                                                            "docs": {},
-                                                                            "p": {
-                                                                              "docs": {},
-                                                                              "e": {
-                                                                                "docs": {},
-                                                                                "n": {
-                                                                                  "docs": {
-                                                                                    "Presentation.Component.ConfirmationDialogView.html#open": {
-                                                                                      "ref": "Presentation.Component.ConfirmationDialogView.html#open",
-                                                                                      "tf": 75
-                                                                                    }
-                                                                                  }
-                                                                                }
-                                                                              }
-                                                                            }
-                                                                          }
-                                                                        }
-                                                                      }
-                                                                    }
-                                                                  }
-                                                                }
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  }
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            },
-                            "d": {
-                              "docs": {},
-                              "i": {
-                                "docs": {},
-                                "a": {
-                                  "docs": {},
-                                  "l": {
-                                    "docs": {},
-                                    "o": {
-                                      "docs": {},
-                                      "g": {
-                                        "docs": {},
-                                        "v": {
-                                          "docs": {},
-                                          "i": {
-                                            "docs": {},
-                                            "e": {
-                                              "docs": {},
-                                              "w": {
-                                                "docs": {
-                                                  "Presentation.Component.DialogView.html": {
-                                                    "ref": "Presentation.Component.DialogView.html",
-                                                    "tf": 100
-                                                  }
-                                                },
-                                                "#": {
-                                                  "docs": {},
-                                                  "t": {
-                                                    "docs": {},
-                                                    "i": {
-                                                      "docs": {},
-                                                      "t": {
-                                                        "docs": {},
-                                                        "l": {
-                                                          "docs": {
-                                                            "Presentation.Component.DialogView.html#title": {
-                                                              "ref": "Presentation.Component.DialogView.html#title",
-                                                              "tf": 75
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  },
-                                                  "s": {
-                                                    "docs": {},
-                                                    "t": {
-                                                      "docs": {},
-                                                      "y": {
-                                                        "docs": {},
-                                                        "l": {
-                                                          "docs": {
-                                                            "Presentation.Component.DialogView.html#style": {
-                                                              "ref": "Presentation.Component.DialogView.html#style",
-                                                              "tf": 75
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  },
-                                                  "b": {
-                                                    "docs": {},
-                                                    "u": {
-                                                      "docs": {},
-                                                      "t": {
-                                                        "docs": {},
-                                                        "t": {
-                                                          "docs": {},
-                                                          "o": {
-                                                            "docs": {},
-                                                            "n": {
-                                                              "docs": {
-                                                                "Presentation.Component.DialogView.html#buttons": {
-                                                                  "ref": "Presentation.Component.DialogView.html#buttons",
-                                                                  "tf": 75
-                                                                }
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    },
-                                                    "o": {
-                                                      "docs": {},
-                                                      "d": {
-                                                        "docs": {},
-                                                        "i": {
-                                                          "docs": {
-                                                            "Presentation.Component.DialogView.html#body": {
-                                                              "ref": "Presentation.Component.DialogView.html#body",
-                                                              "tf": 75
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  },
-                                                  "r": {
-                                                    "docs": {},
-                                                    "e": {
-                                                      "docs": {},
-                                                      "n": {
-                                                        "docs": {},
-                                                        "d": {
-                                                          "docs": {
-                                                            "Presentation.Component.DialogView.html#render": {
-                                                              "ref": "Presentation.Component.DialogView.html#render",
-                                                              "tf": 75
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  },
-                                                  "c": {
-                                                    "docs": {},
-                                                    "a": {
-                                                      "docs": {},
-                                                      "n": {
-                                                        "docs": {},
-                                                        "c": {
-                                                          "docs": {},
-                                                          "e": {
-                                                            "docs": {},
-                                                            "l": {
-                                                              "docs": {
-                                                                "Presentation.Component.DialogView.html#cancel": {
-                                                                  "ref": "Presentation.Component.DialogView.html#cancel",
-                                                                  "tf": 75
-                                                                }
-                                                              }
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    },
-                                                    "l": {
-                                                      "docs": {},
-                                                      "o": {
-                                                        "docs": {},
-                                                        "s": {
-                                                          "docs": {
-                                                            "Presentation.Component.DialogView.html#close": {
-                                                              "ref": "Presentation.Component.DialogView.html#close",
-                                                              "tf": 75
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  },
-                                                  "o": {
-                                                    "docs": {},
-                                                    "p": {
-                                                      "docs": {},
-                                                      "e": {
-                                                        "docs": {},
-                                                        "n": {
-                                                          "docs": {
-                                                            "Presentation.Component.DialogView.html#open": {
-                                                              "ref": "Presentation.Component.DialogView.html#open",
-                                                              "tf": 75
-                                                            }
-                                                          }
-                                                        }
-                                                      }
-                                                    }
-                                                  }
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              },
-              "f": {
-                "docs": {},
-                "i": {
-                  "docs": {},
-                  "r": {
-                    "docs": {},
-                    "m": {
-                      "docs": {
-                        "Presentation.Component.ConfirmationDialogView.html": {
-                          "ref": "Presentation.Component.ConfirmationDialogView.html",
-                          "tf": 6.25
-                        }
-                      }
+                "t": {
+                  "docs": {
+                    "AlertDialogView.html": {
+                      "ref": "AlertDialogView.html",
+                      "tf": 5.555555555555555
+                    },
+                    "ConfirmationDialogView.html": {
+                      "ref": "ConfirmationDialogView.html",
+                      "tf": 6.25
+                    },
+                    "ErrorDialog.html": {
+                      "ref": "ErrorDialog.html",
+                      "tf": 6.25
+                    },
+                    "MessageDialog.html": {
+                      "ref": "MessageDialog.html",
+                      "tf": 6.25
+                    },
+                    "DialogView.html": {
+                      "ref": "DialogView.html",
+                      "tf": 6.25
                     }
                   }
                 }
               }
-            },
+            }
+          },
+          "o": {
+            "docs": {},
             "n": {
               "docs": {},
               "t": {
@@ -2898,16 +2382,28 @@ window.lunrData = {
                     "docs": {},
                     "t": {
                       "docs": {
-                        "Presentation.Component.AlertDialogView.html#body": {
-                          "ref": "Presentation.Component.AlertDialogView.html#body",
+                        "AlertDialogView.html#body": {
+                          "ref": "AlertDialogView.html#body",
                           "tf": 10
                         },
-                        "Presentation.Component.ConfirmationDialogView.html#body": {
-                          "ref": "Presentation.Component.ConfirmationDialogView.html#body",
+                        "ConfirmationDialogView.html#body": {
+                          "ref": "ConfirmationDialogView.html#body",
                           "tf": 10
                         },
-                        "Presentation.Component.DialogView.html#body": {
-                          "ref": "Presentation.Component.DialogView.html#body",
+                        "ErrorDialog.html#body": {
+                          "ref": "ErrorDialog.html#body",
+                          "tf": 10
+                        },
+                        "MessageDialog.html#body": {
+                          "ref": "MessageDialog.html#body",
+                          "tf": 10
+                        },
+                        "DialogView.html#body": {
+                          "ref": "DialogView.html#body",
+                          "tf": 10
+                        },
+                        "Notification.html#body": {
+                          "ref": "Notification.html#body",
                           "tf": 10
                         }
                       }
@@ -2953,9 +2449,9 @@ window.lunrData = {
                                                   "docs": {},
                                                   "w": {
                                                     "docs": {
-                                                      "Presentation.Component.ConfirmationDialogView.html": {
-                                                        "ref": "Presentation.Component.ConfirmationDialogView.html",
-                                                        "tf": 700
+                                                      "ConfirmationDialogView.html": {
+                                                        "ref": "ConfirmationDialogView.html",
+                                                        "tf": 1900
                                                       }
                                                     },
                                                     "#": {
@@ -2968,9 +2464,9 @@ window.lunrData = {
                                                             "docs": {},
                                                             "l": {
                                                               "docs": {
-                                                                "Presentation.Component.ConfirmationDialogView.html#title": {
-                                                                  "ref": "Presentation.Component.ConfirmationDialogView.html#title",
-                                                                  "tf": 75
+                                                                "ConfirmationDialogView.html#title": {
+                                                                  "ref": "ConfirmationDialogView.html#title",
+                                                                  "tf": 1150
                                                                 }
                                                               }
                                                             }
@@ -2985,9 +2481,9 @@ window.lunrData = {
                                                             "docs": {},
                                                             "l": {
                                                               "docs": {
-                                                                "Presentation.Component.ConfirmationDialogView.html#style": {
-                                                                  "ref": "Presentation.Component.ConfirmationDialogView.html#style",
-                                                                  "tf": 75
+                                                                "ConfirmationDialogView.html#style": {
+                                                                  "ref": "ConfirmationDialogView.html#style",
+                                                                  "tf": 1150
                                                                 }
                                                               }
                                                             }
@@ -3006,9 +2502,9 @@ window.lunrData = {
                                                                 "docs": {},
                                                                 "n": {
                                                                   "docs": {
-                                                                    "Presentation.Component.ConfirmationDialogView.html#buttons": {
-                                                                      "ref": "Presentation.Component.ConfirmationDialogView.html#buttons",
-                                                                      "tf": 75
+                                                                    "ConfirmationDialogView.html#buttons": {
+                                                                      "ref": "ConfirmationDialogView.html#buttons",
+                                                                      "tf": 1150
                                                                     }
                                                                   }
                                                                 }
@@ -3022,9 +2518,9 @@ window.lunrData = {
                                                             "docs": {},
                                                             "i": {
                                                               "docs": {
-                                                                "Presentation.Component.ConfirmationDialogView.html#body": {
-                                                                  "ref": "Presentation.Component.ConfirmationDialogView.html#body",
-                                                                  "tf": 75
+                                                                "ConfirmationDialogView.html#body": {
+                                                                  "ref": "ConfirmationDialogView.html#body",
+                                                                  "tf": 1150
                                                                 }
                                                               }
                                                             }
@@ -3039,9 +2535,9 @@ window.lunrData = {
                                                             "docs": {},
                                                             "d": {
                                                               "docs": {
-                                                                "Presentation.Component.ConfirmationDialogView.html#render": {
-                                                                  "ref": "Presentation.Component.ConfirmationDialogView.html#render",
-                                                                  "tf": 75
+                                                                "ConfirmationDialogView.html#render": {
+                                                                  "ref": "ConfirmationDialogView.html#render",
+                                                                  "tf": 1150
                                                                 }
                                                               }
                                                             }
@@ -3060,9 +2556,9 @@ window.lunrData = {
                                                                 "docs": {},
                                                                 "l": {
                                                                   "docs": {
-                                                                    "Presentation.Component.ConfirmationDialogView.html#cancel": {
-                                                                      "ref": "Presentation.Component.ConfirmationDialogView.html#cancel",
-                                                                      "tf": 75
+                                                                    "ConfirmationDialogView.html#cancel": {
+                                                                      "ref": "ConfirmationDialogView.html#cancel",
+                                                                      "tf": 1150
                                                                     }
                                                                   }
                                                                 }
@@ -3076,9 +2572,9 @@ window.lunrData = {
                                                             "docs": {},
                                                             "s": {
                                                               "docs": {
-                                                                "Presentation.Component.ConfirmationDialogView.html#close": {
-                                                                  "ref": "Presentation.Component.ConfirmationDialogView.html#close",
-                                                                  "tf": 75
+                                                                "ConfirmationDialogView.html#close": {
+                                                                  "ref": "ConfirmationDialogView.html#close",
+                                                                  "tf": 1150
                                                                 }
                                                               }
                                                             }
@@ -3093,9 +2589,9 @@ window.lunrData = {
                                                             "docs": {},
                                                             "n": {
                                                               "docs": {
-                                                                "Presentation.Component.ConfirmationDialogView.html#open": {
-                                                                  "ref": "Presentation.Component.ConfirmationDialogView.html#open",
-                                                                  "tf": 75
+                                                                "ConfirmationDialogView.html#open": {
+                                                                  "ref": "ConfirmationDialogView.html#open",
+                                                                  "tf": 1150
                                                                 }
                                                               }
                                                             }
@@ -3126,8 +2622,8 @@ window.lunrData = {
                       "docs": {},
                       "r": {
                         "docs": {
-                          "Presentation.Component.DialogView.html": {
-                            "ref": "Presentation.Component.DialogView.html",
+                          "DialogView.html": {
+                            "ref": "DialogView.html",
                             "tf": 6.25
                           }
                         }
@@ -3136,27 +2632,22 @@ window.lunrData = {
                   }
                 }
               }
-            }
-          },
-          "r": {
-            "docs": {},
-            "e": {
+            },
+            "m": {
               "docs": {},
-              "a": {
+              "f": {
                 "docs": {},
-                "t": {
-                  "docs": {
-                    "Presentation.Component.AlertDialogView.html": {
-                      "ref": "Presentation.Component.AlertDialogView.html",
-                      "tf": 5.555555555555555
-                    },
-                    "Presentation.Component.ConfirmationDialogView.html": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html",
-                      "tf": 6.25
-                    },
-                    "Presentation.Component.DialogView.html": {
-                      "ref": "Presentation.Component.DialogView.html",
-                      "tf": 6.25
+                "i": {
+                  "docs": {},
+                  "r": {
+                    "docs": {},
+                    "m": {
+                      "docs": {
+                        "ConfirmationDialogView.html": {
+                          "ref": "ConfirmationDialogView.html",
+                          "tf": 6.25
+                        }
+                      }
                     }
                   }
                 }
@@ -3173,8 +2664,8 @@ window.lunrData = {
                   "docs": {},
                   "m": {
                     "docs": {
-                      "Presentation.Component.DialogView.html": {
-                        "ref": "Presentation.Component.DialogView.html",
+                      "DialogView.html": {
+                        "ref": "DialogView.html",
                         "tf": 6.25
                       }
                     }
@@ -3236,25 +2727,45 @@ window.lunrData = {
                   "docs": {},
                   "n": {
                     "docs": {
-                      "Presentation.Component.AlertDialogView.html": {
-                        "ref": "Presentation.Component.AlertDialogView.html",
+                      "AlertDialogView.html": {
+                        "ref": "AlertDialogView.html",
                         "tf": 5.555555555555555
                       },
-                      "Presentation.Component.AlertDialogView.html#buttons": {
-                        "ref": "Presentation.Component.AlertDialogView.html#buttons",
-                        "tf": 691.6666666666666
+                      "AlertDialogView.html#buttons": {
+                        "ref": "AlertDialogView.html#buttons",
+                        "tf": 766.6666666666666
                       },
-                      "Presentation.Component.ConfirmationDialogView.html": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html",
+                      "ConfirmationDialogView.html": {
+                        "ref": "ConfirmationDialogView.html",
                         "tf": 6.25
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#buttons": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#buttons",
-                        "tf": 691.6666666666666
+                      "ConfirmationDialogView.html#buttons": {
+                        "ref": "ConfirmationDialogView.html#buttons",
+                        "tf": 766.6666666666666
                       },
-                      "Presentation.Component.DialogView.html#buttons": {
-                        "ref": "Presentation.Component.DialogView.html#buttons",
-                        "tf": 691.6666666666666
+                      "ErrorDialog.html": {
+                        "ref": "ErrorDialog.html",
+                        "tf": 6.25
+                      },
+                      "ErrorDialog.html#buttons": {
+                        "ref": "ErrorDialog.html#buttons",
+                        "tf": 766.6666666666666
+                      },
+                      "MessageDialog.html": {
+                        "ref": "MessageDialog.html",
+                        "tf": 6.25
+                      },
+                      "MessageDialog.html#buttons": {
+                        "ref": "MessageDialog.html#buttons",
+                        "tf": 766.6666666666666
+                      },
+                      "DialogView.html#buttons": {
+                        "ref": "DialogView.html#buttons",
+                        "tf": 766.6666666666666
+                      },
+                      "Notification.html#buttons": {
+                        "ref": "Notification.html#buttons",
+                        "tf": 766.6666666666666
                       }
                     }
                   }
@@ -3267,40 +2778,76 @@ window.lunrData = {
                 "docs": {},
                 "t": {
                   "docs": {
-                    "Presentation.Component.AlertDialogView.html#cancel": {
-                      "ref": "Presentation.Component.AlertDialogView.html#cancel",
+                    "AlertDialogView.html#cancel": {
+                      "ref": "AlertDialogView.html#cancel",
                       "tf": 5.555555555555555
                     },
-                    "Presentation.Component.AlertDialogView.html#open": {
-                      "ref": "Presentation.Component.AlertDialogView.html#open",
+                    "AlertDialogView.html#open": {
+                      "ref": "AlertDialogView.html#open",
                       "tf": 5.555555555555555
                     },
-                    "Presentation.Component.AlertDialogView.html#close": {
-                      "ref": "Presentation.Component.AlertDialogView.html#close",
+                    "AlertDialogView.html#close": {
+                      "ref": "AlertDialogView.html#close",
                       "tf": 5
                     },
-                    "Presentation.Component.ConfirmationDialogView.html#cancel": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html#cancel",
+                    "ConfirmationDialogView.html#cancel": {
+                      "ref": "ConfirmationDialogView.html#cancel",
                       "tf": 5.555555555555555
                     },
-                    "Presentation.Component.ConfirmationDialogView.html#open": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html#open",
+                    "ConfirmationDialogView.html#open": {
+                      "ref": "ConfirmationDialogView.html#open",
                       "tf": 5.555555555555555
                     },
-                    "Presentation.Component.ConfirmationDialogView.html#close": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html#close",
+                    "ConfirmationDialogView.html#close": {
+                      "ref": "ConfirmationDialogView.html#close",
                       "tf": 5
                     },
-                    "Presentation.Component.DialogView.html#cancel": {
-                      "ref": "Presentation.Component.DialogView.html#cancel",
+                    "ErrorDialog.html#cancel": {
+                      "ref": "ErrorDialog.html#cancel",
                       "tf": 5.555555555555555
                     },
-                    "Presentation.Component.DialogView.html#open": {
-                      "ref": "Presentation.Component.DialogView.html#open",
+                    "ErrorDialog.html#open": {
+                      "ref": "ErrorDialog.html#open",
                       "tf": 5.555555555555555
                     },
-                    "Presentation.Component.DialogView.html#close": {
-                      "ref": "Presentation.Component.DialogView.html#close",
+                    "ErrorDialog.html#close": {
+                      "ref": "ErrorDialog.html#close",
+                      "tf": 5
+                    },
+                    "MessageDialog.html#cancel": {
+                      "ref": "MessageDialog.html#cancel",
+                      "tf": 5.555555555555555
+                    },
+                    "MessageDialog.html#open": {
+                      "ref": "MessageDialog.html#open",
+                      "tf": 5.555555555555555
+                    },
+                    "MessageDialog.html#close": {
+                      "ref": "MessageDialog.html#close",
+                      "tf": 5
+                    },
+                    "DialogView.html#cancel": {
+                      "ref": "DialogView.html#cancel",
+                      "tf": 5.555555555555555
+                    },
+                    "DialogView.html#open": {
+                      "ref": "DialogView.html#open",
+                      "tf": 5.555555555555555
+                    },
+                    "DialogView.html#close": {
+                      "ref": "DialogView.html#close",
+                      "tf": 5
+                    },
+                    "Notification.html#cancel": {
+                      "ref": "Notification.html#cancel",
+                      "tf": 5.555555555555555
+                    },
+                    "Notification.html#open": {
+                      "ref": "Notification.html#open",
+                      "tf": 5.555555555555555
+                    },
+                    "Notification.html#close": {
+                      "ref": "Notification.html#close",
                       "tf": 5
                     }
                   }
@@ -3320,16 +2867,28 @@ window.lunrData = {
                     "docs": {},
                     "m": {
                       "docs": {
-                        "Presentation.Component.AlertDialogView.html#style": {
-                          "ref": "Presentation.Component.AlertDialogView.html#style",
+                        "AlertDialogView.html#style": {
+                          "ref": "AlertDialogView.html#style",
                           "tf": 5.555555555555555
                         },
-                        "Presentation.Component.ConfirmationDialogView.html#style": {
-                          "ref": "Presentation.Component.ConfirmationDialogView.html#style",
+                        "ConfirmationDialogView.html#style": {
+                          "ref": "ConfirmationDialogView.html#style",
                           "tf": 5.555555555555555
                         },
-                        "Presentation.Component.DialogView.html#style": {
-                          "ref": "Presentation.Component.DialogView.html#style",
+                        "ErrorDialog.html#style": {
+                          "ref": "ErrorDialog.html#style",
+                          "tf": 5.555555555555555
+                        },
+                        "MessageDialog.html#style": {
+                          "ref": "MessageDialog.html#style",
+                          "tf": 5.555555555555555
+                        },
+                        "DialogView.html#style": {
+                          "ref": "DialogView.html#style",
+                          "tf": 5.555555555555555
+                        },
+                        "Notification.html#style": {
+                          "ref": "Notification.html#style",
                           "tf": 5.555555555555555
                         }
                       }
@@ -3345,17 +2904,29 @@ window.lunrData = {
               "docs": {},
               "i": {
                 "docs": {
-                  "Presentation.Component.AlertDialogView.html#body": {
-                    "ref": "Presentation.Component.AlertDialogView.html#body",
-                    "tf": 685
+                  "AlertDialogView.html#body": {
+                    "ref": "AlertDialogView.html#body",
+                    "tf": 760
                   },
-                  "Presentation.Component.ConfirmationDialogView.html#body": {
-                    "ref": "Presentation.Component.ConfirmationDialogView.html#body",
-                    "tf": 685
+                  "ConfirmationDialogView.html#body": {
+                    "ref": "ConfirmationDialogView.html#body",
+                    "tf": 760
                   },
-                  "Presentation.Component.DialogView.html#body": {
-                    "ref": "Presentation.Component.DialogView.html#body",
-                    "tf": 685
+                  "ErrorDialog.html#body": {
+                    "ref": "ErrorDialog.html#body",
+                    "tf": 760
+                  },
+                  "MessageDialog.html#body": {
+                    "ref": "MessageDialog.html#body",
+                    "tf": 760
+                  },
+                  "DialogView.html#body": {
+                    "ref": "DialogView.html#body",
+                    "tf": 760
+                  },
+                  "Notification.html#body": {
+                    "ref": "Notification.html#body",
+                    "tf": 760
                   }
                 }
               }
@@ -3374,9 +2945,184 @@ window.lunrData = {
                   "docs": {},
                   "g": {
                     "docs": {
-                      "Presentation.Component.AlertDialogView.html": {
-                        "ref": "Presentation.Component.AlertDialogView.html",
+                      "AlertDialogView.html": {
+                        "ref": "AlertDialogView.html",
                         "tf": 5.555555555555555
+                      },
+                      "MessageDialog.html": {
+                        "ref": "MessageDialog.html",
+                        "tf": 6.25
+                      }
+                    },
+                    "e": {
+                      "docs": {},
+                      "d": {
+                        "docs": {},
+                        "i": {
+                          "docs": {},
+                          "a": {
+                            "docs": {},
+                            "l": {
+                              "docs": {},
+                              "o": {
+                                "docs": {},
+                                "g": {
+                                  "docs": {
+                                    "MessageDialog.html": {
+                                      "ref": "MessageDialog.html",
+                                      "tf": 1900
+                                    }
+                                  },
+                                  "#": {
+                                    "docs": {},
+                                    "t": {
+                                      "docs": {},
+                                      "i": {
+                                        "docs": {},
+                                        "t": {
+                                          "docs": {},
+                                          "l": {
+                                            "docs": {
+                                              "MessageDialog.html#title": {
+                                                "ref": "MessageDialog.html#title",
+                                                "tf": 1150
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "s": {
+                                      "docs": {},
+                                      "t": {
+                                        "docs": {},
+                                        "y": {
+                                          "docs": {},
+                                          "l": {
+                                            "docs": {
+                                              "MessageDialog.html#style": {
+                                                "ref": "MessageDialog.html#style",
+                                                "tf": 1150
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "b": {
+                                      "docs": {},
+                                      "u": {
+                                        "docs": {},
+                                        "t": {
+                                          "docs": {},
+                                          "t": {
+                                            "docs": {},
+                                            "o": {
+                                              "docs": {},
+                                              "n": {
+                                                "docs": {
+                                                  "MessageDialog.html#buttons": {
+                                                    "ref": "MessageDialog.html#buttons",
+                                                    "tf": 1150
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      },
+                                      "o": {
+                                        "docs": {},
+                                        "d": {
+                                          "docs": {},
+                                          "i": {
+                                            "docs": {
+                                              "MessageDialog.html#body": {
+                                                "ref": "MessageDialog.html#body",
+                                                "tf": 1150
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "r": {
+                                      "docs": {},
+                                      "e": {
+                                        "docs": {},
+                                        "n": {
+                                          "docs": {},
+                                          "d": {
+                                            "docs": {
+                                              "MessageDialog.html#render": {
+                                                "ref": "MessageDialog.html#render",
+                                                "tf": 1150
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "c": {
+                                      "docs": {},
+                                      "a": {
+                                        "docs": {},
+                                        "n": {
+                                          "docs": {},
+                                          "c": {
+                                            "docs": {},
+                                            "e": {
+                                              "docs": {},
+                                              "l": {
+                                                "docs": {
+                                                  "MessageDialog.html#cancel": {
+                                                    "ref": "MessageDialog.html#cancel",
+                                                    "tf": 1150
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      },
+                                      "l": {
+                                        "docs": {},
+                                        "o": {
+                                          "docs": {},
+                                          "s": {
+                                            "docs": {
+                                              "MessageDialog.html#close": {
+                                                "ref": "MessageDialog.html#close",
+                                                "tf": 1150
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "o": {
+                                      "docs": {},
+                                      "p": {
+                                        "docs": {},
+                                        "e": {
+                                          "docs": {},
+                                          "n": {
+                                            "docs": {
+                                              "MessageDialog.html#open": {
+                                                "ref": "MessageDialog.html#open",
+                                                "tf": 1150
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
                       }
                     }
                   }
@@ -3391,52 +3137,100 @@ window.lunrData = {
                   "docs": {},
                   "r": {
                     "docs": {
-                      "Presentation.Component.AlertDialogView.html#title": {
-                        "ref": "Presentation.Component.AlertDialogView.html#title",
+                      "AlertDialogView.html#title": {
+                        "ref": "AlertDialogView.html#title",
                         "tf": 110
                       },
-                      "Presentation.Component.AlertDialogView.html#style": {
-                        "ref": "Presentation.Component.AlertDialogView.html#style",
+                      "AlertDialogView.html#style": {
+                        "ref": "AlertDialogView.html#style",
                         "tf": 110
                       },
-                      "Presentation.Component.AlertDialogView.html#buttons": {
-                        "ref": "Presentation.Component.AlertDialogView.html#buttons",
+                      "AlertDialogView.html#buttons": {
+                        "ref": "AlertDialogView.html#buttons",
                         "tf": 110
                       },
-                      "Presentation.Component.AlertDialogView.html#body": {
-                        "ref": "Presentation.Component.AlertDialogView.html#body",
+                      "AlertDialogView.html#body": {
+                        "ref": "AlertDialogView.html#body",
                         "tf": 110
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#title": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#title",
+                      "ConfirmationDialogView.html#title": {
+                        "ref": "ConfirmationDialogView.html#title",
                         "tf": 110
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#style": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#style",
+                      "ConfirmationDialogView.html#style": {
+                        "ref": "ConfirmationDialogView.html#style",
                         "tf": 110
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#buttons": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#buttons",
+                      "ConfirmationDialogView.html#buttons": {
+                        "ref": "ConfirmationDialogView.html#buttons",
                         "tf": 110
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#body": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#body",
+                      "ConfirmationDialogView.html#body": {
+                        "ref": "ConfirmationDialogView.html#body",
                         "tf": 110
                       },
-                      "Presentation.Component.DialogView.html#title": {
-                        "ref": "Presentation.Component.DialogView.html#title",
+                      "ErrorDialog.html#title": {
+                        "ref": "ErrorDialog.html#title",
                         "tf": 110
                       },
-                      "Presentation.Component.DialogView.html#style": {
-                        "ref": "Presentation.Component.DialogView.html#style",
+                      "ErrorDialog.html#style": {
+                        "ref": "ErrorDialog.html#style",
                         "tf": 110
                       },
-                      "Presentation.Component.DialogView.html#buttons": {
-                        "ref": "Presentation.Component.DialogView.html#buttons",
+                      "ErrorDialog.html#buttons": {
+                        "ref": "ErrorDialog.html#buttons",
                         "tf": 110
                       },
-                      "Presentation.Component.DialogView.html#body": {
-                        "ref": "Presentation.Component.DialogView.html#body",
+                      "ErrorDialog.html#body": {
+                        "ref": "ErrorDialog.html#body",
+                        "tf": 110
+                      },
+                      "MessageDialog.html#title": {
+                        "ref": "MessageDialog.html#title",
+                        "tf": 110
+                      },
+                      "MessageDialog.html#style": {
+                        "ref": "MessageDialog.html#style",
+                        "tf": 110
+                      },
+                      "MessageDialog.html#buttons": {
+                        "ref": "MessageDialog.html#buttons",
+                        "tf": 110
+                      },
+                      "MessageDialog.html#body": {
+                        "ref": "MessageDialog.html#body",
+                        "tf": 110
+                      },
+                      "DialogView.html#title": {
+                        "ref": "DialogView.html#title",
+                        "tf": 110
+                      },
+                      "DialogView.html#style": {
+                        "ref": "DialogView.html#style",
+                        "tf": 110
+                      },
+                      "DialogView.html#buttons": {
+                        "ref": "DialogView.html#buttons",
+                        "tf": 110
+                      },
+                      "DialogView.html#body": {
+                        "ref": "DialogView.html#body",
+                        "tf": 110
+                      },
+                      "Notification.html#title": {
+                        "ref": "Notification.html#title",
+                        "tf": 110
+                      },
+                      "Notification.html#style": {
+                        "ref": "Notification.html#style",
+                        "tf": 110
+                      },
+                      "Notification.html#buttons": {
+                        "ref": "Notification.html#buttons",
+                        "tf": 110
+                      },
+                      "Notification.html#body": {
+                        "ref": "Notification.html#body",
                         "tf": 110
                       }
                     }
@@ -3452,28 +3246,52 @@ window.lunrData = {
                   "docs": {},
                   "d": {
                     "docs": {
-                      "Presentation.Component.AlertDialogView.html#cancel": {
-                        "ref": "Presentation.Component.AlertDialogView.html#cancel",
+                      "AlertDialogView.html#cancel": {
+                        "ref": "AlertDialogView.html#cancel",
                         "tf": 5.555555555555555
                       },
-                      "Presentation.Component.AlertDialogView.html#open": {
-                        "ref": "Presentation.Component.AlertDialogView.html#open",
+                      "AlertDialogView.html#open": {
+                        "ref": "AlertDialogView.html#open",
                         "tf": 5.555555555555555
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#cancel": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#cancel",
+                      "ConfirmationDialogView.html#cancel": {
+                        "ref": "ConfirmationDialogView.html#cancel",
                         "tf": 5.555555555555555
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#open": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#open",
+                      "ConfirmationDialogView.html#open": {
+                        "ref": "ConfirmationDialogView.html#open",
                         "tf": 5.555555555555555
                       },
-                      "Presentation.Component.DialogView.html#cancel": {
-                        "ref": "Presentation.Component.DialogView.html#cancel",
+                      "ErrorDialog.html#cancel": {
+                        "ref": "ErrorDialog.html#cancel",
                         "tf": 5.555555555555555
                       },
-                      "Presentation.Component.DialogView.html#open": {
-                        "ref": "Presentation.Component.DialogView.html#open",
+                      "ErrorDialog.html#open": {
+                        "ref": "ErrorDialog.html#open",
+                        "tf": 5.555555555555555
+                      },
+                      "MessageDialog.html#cancel": {
+                        "ref": "MessageDialog.html#cancel",
+                        "tf": 5.555555555555555
+                      },
+                      "MessageDialog.html#open": {
+                        "ref": "MessageDialog.html#open",
+                        "tf": 5.555555555555555
+                      },
+                      "DialogView.html#cancel": {
+                        "ref": "DialogView.html#cancel",
+                        "tf": 5.555555555555555
+                      },
+                      "DialogView.html#open": {
+                        "ref": "DialogView.html#open",
+                        "tf": 5.555555555555555
+                      },
+                      "Notification.html#cancel": {
+                        "ref": "Notification.html#cancel",
+                        "tf": 5.555555555555555
+                      },
+                      "Notification.html#open": {
+                        "ref": "Notification.html#open",
                         "tf": 5.555555555555555
                       }
                     }
@@ -3490,16 +3308,28 @@ window.lunrData = {
                 "docs": {},
                 "h": {
                   "docs": {
-                    "Presentation.Component.AlertDialogView.html#buttons": {
-                      "ref": "Presentation.Component.AlertDialogView.html#buttons",
+                    "AlertDialogView.html#buttons": {
+                      "ref": "AlertDialogView.html#buttons",
                       "tf": 8.333333333333332
                     },
-                    "Presentation.Component.ConfirmationDialogView.html#buttons": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html#buttons",
+                    "ConfirmationDialogView.html#buttons": {
+                      "ref": "ConfirmationDialogView.html#buttons",
                       "tf": 8.333333333333332
                     },
-                    "Presentation.Component.DialogView.html#buttons": {
-                      "ref": "Presentation.Component.DialogView.html#buttons",
+                    "ErrorDialog.html#buttons": {
+                      "ref": "ErrorDialog.html#buttons",
+                      "tf": 8.333333333333332
+                    },
+                    "MessageDialog.html#buttons": {
+                      "ref": "MessageDialog.html#buttons",
+                      "tf": 8.333333333333332
+                    },
+                    "DialogView.html#buttons": {
+                      "ref": "DialogView.html#buttons",
+                      "tf": 8.333333333333332
+                    },
+                    "Notification.html#buttons": {
+                      "ref": "Notification.html#buttons",
                       "tf": 8.333333333333332
                     }
                   }
@@ -3516,21 +3346,29 @@ window.lunrData = {
               "docs": {},
               "w": {
                 "docs": {
-                  "Presentation.Component.AlertDialogView.html": {
-                    "ref": "Presentation.Component.AlertDialogView.html",
+                  "AlertDialogView.html": {
+                    "ref": "AlertDialogView.html",
                     "tf": 5.555555555555555
                   },
-                  "Presentation.Component.ConfirmationDialogView.html": {
-                    "ref": "Presentation.Component.ConfirmationDialogView.html",
+                  "ConfirmationDialogView.html": {
+                    "ref": "ConfirmationDialogView.html",
+                    "tf": 6.25
+                  },
+                  "ErrorDialog.html": {
+                    "ref": "ErrorDialog.html",
+                    "tf": 6.25
+                  },
+                  "MessageDialog.html": {
+                    "ref": "MessageDialog.html",
+                    "tf": 6.25
+                  },
+                  "DialogView.html": {
+                    "ref": "DialogView.html",
                     "tf": 6.25
                   },
                   "Splash.html": {
                     "ref": "Splash.html",
                     "tf": 16.666666666666664
-                  },
-                  "Presentation.Component.DialogView.html": {
-                    "ref": "Presentation.Component.DialogView.html",
-                    "tf": 6.25
                   }
                 }
               }
@@ -3545,17 +3383,29 @@ window.lunrData = {
               "docs": {},
               "l": {
                 "docs": {
-                  "Presentation.Component.AlertDialogView.html#title": {
-                    "ref": "Presentation.Component.AlertDialogView.html#title",
-                    "tf": 700
+                  "AlertDialogView.html#title": {
+                    "ref": "AlertDialogView.html#title",
+                    "tf": 775
                   },
-                  "Presentation.Component.ConfirmationDialogView.html#title": {
-                    "ref": "Presentation.Component.ConfirmationDialogView.html#title",
-                    "tf": 700
+                  "ConfirmationDialogView.html#title": {
+                    "ref": "ConfirmationDialogView.html#title",
+                    "tf": 775
                   },
-                  "Presentation.Component.DialogView.html#title": {
-                    "ref": "Presentation.Component.DialogView.html#title",
-                    "tf": 700
+                  "ErrorDialog.html#title": {
+                    "ref": "ErrorDialog.html#title",
+                    "tf": 775
+                  },
+                  "MessageDialog.html#title": {
+                    "ref": "MessageDialog.html#title",
+                    "tf": 775
+                  },
+                  "DialogView.html#title": {
+                    "ref": "DialogView.html#title",
+                    "tf": 775
+                  },
+                  "Notification.html#title": {
+                    "ref": "Notification.html#title",
+                    "tf": 775
                   }
                 }
               }
@@ -3573,16 +3423,28 @@ window.lunrData = {
                     "docs": {},
                     "r": {
                       "docs": {
-                        "Presentation.Component.AlertDialogView.html#close": {
-                          "ref": "Presentation.Component.AlertDialogView.html#close",
+                        "AlertDialogView.html#close": {
+                          "ref": "AlertDialogView.html#close",
                           "tf": 5
                         },
-                        "Presentation.Component.ConfirmationDialogView.html#close": {
-                          "ref": "Presentation.Component.ConfirmationDialogView.html#close",
+                        "ConfirmationDialogView.html#close": {
+                          "ref": "ConfirmationDialogView.html#close",
                           "tf": 5
                         },
-                        "Presentation.Component.DialogView.html#close": {
-                          "ref": "Presentation.Component.DialogView.html#close",
+                        "ErrorDialog.html#close": {
+                          "ref": "ErrorDialog.html#close",
+                          "tf": 5
+                        },
+                        "MessageDialog.html#close": {
+                          "ref": "MessageDialog.html#close",
+                          "tf": 5
+                        },
+                        "DialogView.html#close": {
+                          "ref": "DialogView.html#close",
+                          "tf": 5
+                        },
+                        "Notification.html#close": {
+                          "ref": "Notification.html#close",
                           "tf": 5
                         }
                       }
@@ -3601,16 +3463,28 @@ window.lunrData = {
               "docs": {},
               "m": {
                 "docs": {
-                  "Presentation.Component.AlertDialogView.html#style": {
-                    "ref": "Presentation.Component.AlertDialogView.html#style",
+                  "AlertDialogView.html#style": {
+                    "ref": "AlertDialogView.html#style",
                     "tf": 5.555555555555555
                   },
-                  "Presentation.Component.ConfirmationDialogView.html#style": {
-                    "ref": "Presentation.Component.ConfirmationDialogView.html#style",
+                  "ConfirmationDialogView.html#style": {
+                    "ref": "ConfirmationDialogView.html#style",
                     "tf": 5.555555555555555
                   },
-                  "Presentation.Component.DialogView.html#style": {
-                    "ref": "Presentation.Component.DialogView.html#style",
+                  "ErrorDialog.html#style": {
+                    "ref": "ErrorDialog.html#style",
+                    "tf": 5.555555555555555
+                  },
+                  "MessageDialog.html#style": {
+                    "ref": "MessageDialog.html#style",
+                    "tf": 5.555555555555555
+                  },
+                  "DialogView.html#style": {
+                    "ref": "DialogView.html#style",
+                    "tf": 5.555555555555555
+                  },
+                  "Notification.html#style": {
+                    "ref": "Notification.html#style",
                     "tf": 5.555555555555555
                   }
                 }
@@ -3631,64 +3505,124 @@ window.lunrData = {
                       "docs": {},
                       "n": {
                         "docs": {
-                          "Presentation.Component.AlertDialogView.html#buttons": {
-                            "ref": "Presentation.Component.AlertDialogView.html#buttons",
+                          "AlertDialogView.html#buttons": {
+                            "ref": "AlertDialogView.html#buttons",
                             "tf": 8.333333333333332
                           },
-                          "Presentation.Component.AlertDialogView.html#render": {
-                            "ref": "Presentation.Component.AlertDialogView.html#render",
+                          "AlertDialogView.html#render": {
+                            "ref": "AlertDialogView.html#render",
                             "tf": 110
                           },
-                          "Presentation.Component.AlertDialogView.html#cancel": {
-                            "ref": "Presentation.Component.AlertDialogView.html#cancel",
+                          "AlertDialogView.html#cancel": {
+                            "ref": "AlertDialogView.html#cancel",
                             "tf": 110
                           },
-                          "Presentation.Component.AlertDialogView.html#open": {
-                            "ref": "Presentation.Component.AlertDialogView.html#open",
+                          "AlertDialogView.html#open": {
+                            "ref": "AlertDialogView.html#open",
                             "tf": 110
                           },
-                          "Presentation.Component.AlertDialogView.html#close": {
-                            "ref": "Presentation.Component.AlertDialogView.html#close",
+                          "AlertDialogView.html#close": {
+                            "ref": "AlertDialogView.html#close",
                             "tf": 110
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#buttons": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#buttons",
+                          "ConfirmationDialogView.html#buttons": {
+                            "ref": "ConfirmationDialogView.html#buttons",
                             "tf": 8.333333333333332
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#render": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#render",
+                          "ConfirmationDialogView.html#render": {
+                            "ref": "ConfirmationDialogView.html#render",
                             "tf": 110
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#cancel": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#cancel",
+                          "ConfirmationDialogView.html#cancel": {
+                            "ref": "ConfirmationDialogView.html#cancel",
                             "tf": 110
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#open": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#open",
+                          "ConfirmationDialogView.html#open": {
+                            "ref": "ConfirmationDialogView.html#open",
                             "tf": 110
                           },
-                          "Presentation.Component.ConfirmationDialogView.html#close": {
-                            "ref": "Presentation.Component.ConfirmationDialogView.html#close",
+                          "ConfirmationDialogView.html#close": {
+                            "ref": "ConfirmationDialogView.html#close",
                             "tf": 110
                           },
-                          "Presentation.Component.DialogView.html#buttons": {
-                            "ref": "Presentation.Component.DialogView.html#buttons",
+                          "ErrorDialog.html#buttons": {
+                            "ref": "ErrorDialog.html#buttons",
                             "tf": 8.333333333333332
                           },
-                          "Presentation.Component.DialogView.html#render": {
-                            "ref": "Presentation.Component.DialogView.html#render",
+                          "ErrorDialog.html#render": {
+                            "ref": "ErrorDialog.html#render",
                             "tf": 110
                           },
-                          "Presentation.Component.DialogView.html#cancel": {
-                            "ref": "Presentation.Component.DialogView.html#cancel",
+                          "ErrorDialog.html#cancel": {
+                            "ref": "ErrorDialog.html#cancel",
                             "tf": 110
                           },
-                          "Presentation.Component.DialogView.html#open": {
-                            "ref": "Presentation.Component.DialogView.html#open",
+                          "ErrorDialog.html#open": {
+                            "ref": "ErrorDialog.html#open",
                             "tf": 110
                           },
-                          "Presentation.Component.DialogView.html#close": {
-                            "ref": "Presentation.Component.DialogView.html#close",
+                          "ErrorDialog.html#close": {
+                            "ref": "ErrorDialog.html#close",
+                            "tf": 110
+                          },
+                          "MessageDialog.html#buttons": {
+                            "ref": "MessageDialog.html#buttons",
+                            "tf": 8.333333333333332
+                          },
+                          "MessageDialog.html#render": {
+                            "ref": "MessageDialog.html#render",
+                            "tf": 110
+                          },
+                          "MessageDialog.html#cancel": {
+                            "ref": "MessageDialog.html#cancel",
+                            "tf": 110
+                          },
+                          "MessageDialog.html#open": {
+                            "ref": "MessageDialog.html#open",
+                            "tf": 110
+                          },
+                          "MessageDialog.html#close": {
+                            "ref": "MessageDialog.html#close",
+                            "tf": 110
+                          },
+                          "DialogView.html#buttons": {
+                            "ref": "DialogView.html#buttons",
+                            "tf": 8.333333333333332
+                          },
+                          "DialogView.html#render": {
+                            "ref": "DialogView.html#render",
+                            "tf": 110
+                          },
+                          "DialogView.html#cancel": {
+                            "ref": "DialogView.html#cancel",
+                            "tf": 110
+                          },
+                          "DialogView.html#open": {
+                            "ref": "DialogView.html#open",
+                            "tf": 110
+                          },
+                          "DialogView.html#close": {
+                            "ref": "DialogView.html#close",
+                            "tf": 110
+                          },
+                          "Notification.html#buttons": {
+                            "ref": "Notification.html#buttons",
+                            "tf": 8.333333333333332
+                          },
+                          "Notification.html#render": {
+                            "ref": "Notification.html#render",
+                            "tf": 110
+                          },
+                          "Notification.html#cancel": {
+                            "ref": "Notification.html#cancel",
+                            "tf": 110
+                          },
+                          "Notification.html#open": {
+                            "ref": "Notification.html#open",
+                            "tf": 110
+                          },
+                          "Notification.html#close": {
+                            "ref": "Notification.html#close",
                             "tf": 110
                           }
                         }
@@ -3708,16 +3642,28 @@ window.lunrData = {
               "docs": {},
               "t": {
                 "docs": {
-                  "Presentation.Component.AlertDialogView.html#style": {
-                    "ref": "Presentation.Component.AlertDialogView.html#style",
+                  "AlertDialogView.html#style": {
+                    "ref": "AlertDialogView.html#style",
                     "tf": 5.555555555555555
                   },
-                  "Presentation.Component.ConfirmationDialogView.html#style": {
-                    "ref": "Presentation.Component.ConfirmationDialogView.html#style",
+                  "ConfirmationDialogView.html#style": {
+                    "ref": "ConfirmationDialogView.html#style",
                     "tf": 5.555555555555555
                   },
-                  "Presentation.Component.DialogView.html#style": {
-                    "ref": "Presentation.Component.DialogView.html#style",
+                  "ErrorDialog.html#style": {
+                    "ref": "ErrorDialog.html#style",
+                    "tf": 5.555555555555555
+                  },
+                  "MessageDialog.html#style": {
+                    "ref": "MessageDialog.html#style",
+                    "tf": 5.555555555555555
+                  },
+                  "DialogView.html#style": {
+                    "ref": "DialogView.html#style",
+                    "tf": 5.555555555555555
+                  },
+                  "Notification.html#style": {
+                    "ref": "Notification.html#style",
                     "tf": 5.555555555555555
                   }
                 }
@@ -3734,16 +3680,28 @@ window.lunrData = {
                   "docs": {},
                   "v": {
                     "docs": {
-                      "Presentation.Component.AlertDialogView.html#style": {
-                        "ref": "Presentation.Component.AlertDialogView.html#style",
+                      "AlertDialogView.html#style": {
+                        "ref": "AlertDialogView.html#style",
                         "tf": 5.555555555555555
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#style": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#style",
+                      "ConfirmationDialogView.html#style": {
+                        "ref": "ConfirmationDialogView.html#style",
                         "tf": 5.555555555555555
                       },
-                      "Presentation.Component.DialogView.html#style": {
-                        "ref": "Presentation.Component.DialogView.html#style",
+                      "ErrorDialog.html#style": {
+                        "ref": "ErrorDialog.html#style",
+                        "tf": 5.555555555555555
+                      },
+                      "MessageDialog.html#style": {
+                        "ref": "MessageDialog.html#style",
+                        "tf": 5.555555555555555
+                      },
+                      "DialogView.html#style": {
+                        "ref": "DialogView.html#style",
+                        "tf": 5.555555555555555
+                      },
+                      "Notification.html#style": {
+                        "ref": "Notification.html#style",
                         "tf": 5.555555555555555
                       }
                     }
@@ -3765,16 +3723,28 @@ window.lunrData = {
                   "docs": {},
                   "t": {
                     "docs": {
-                      "Presentation.Component.AlertDialogView.html#buttons": {
-                        "ref": "Presentation.Component.AlertDialogView.html#buttons",
+                      "AlertDialogView.html#buttons": {
+                        "ref": "AlertDialogView.html#buttons",
                         "tf": 8.333333333333332
                       },
-                      "Presentation.Component.ConfirmationDialogView.html#buttons": {
-                        "ref": "Presentation.Component.ConfirmationDialogView.html#buttons",
+                      "ConfirmationDialogView.html#buttons": {
+                        "ref": "ConfirmationDialogView.html#buttons",
                         "tf": 8.333333333333332
                       },
-                      "Presentation.Component.DialogView.html#buttons": {
-                        "ref": "Presentation.Component.DialogView.html#buttons",
+                      "ErrorDialog.html#buttons": {
+                        "ref": "ErrorDialog.html#buttons",
+                        "tf": 8.333333333333332
+                      },
+                      "MessageDialog.html#buttons": {
+                        "ref": "MessageDialog.html#buttons",
+                        "tf": 8.333333333333332
+                      },
+                      "DialogView.html#buttons": {
+                        "ref": "DialogView.html#buttons",
+                        "tf": 8.333333333333332
+                      },
+                      "Notification.html#buttons": {
+                        "ref": "Notification.html#buttons",
                         "tf": 8.333333333333332
                       }
                     }
@@ -3789,19 +3759,43 @@ window.lunrData = {
               "docs": {},
               "n": {
                 "docs": {
-                  "Presentation.Component.AlertDialogView.html#open": {
-                    "ref": "Presentation.Component.AlertDialogView.html#open",
-                    "tf": 636.1111111111111
+                  "AlertDialogView.html#open": {
+                    "ref": "AlertDialogView.html#open",
+                    "tf": 711.1111111111111
                   },
-                  "Presentation.Component.ConfirmationDialogView.html#open": {
-                    "ref": "Presentation.Component.ConfirmationDialogView.html#open",
-                    "tf": 636.1111111111111
+                  "ConfirmationDialogView.html#open": {
+                    "ref": "ConfirmationDialogView.html#open",
+                    "tf": 711.1111111111111
                   },
-                  "Presentation.Component.DialogView.html#open": {
-                    "ref": "Presentation.Component.DialogView.html#open",
-                    "tf": 636.1111111111111
+                  "ErrorDialog.html#open": {
+                    "ref": "ErrorDialog.html#open",
+                    "tf": 711.1111111111111
+                  },
+                  "MessageDialog.html#open": {
+                    "ref": "MessageDialog.html#open",
+                    "tf": 711.1111111111111
+                  },
+                  "DialogView.html#open": {
+                    "ref": "DialogView.html#open",
+                    "tf": 711.1111111111111
+                  },
+                  "Notification.html#open": {
+                    "ref": "Notification.html#open",
+                    "tf": 711.1111111111111
                   }
                 }
+              }
+            }
+          },
+          "k": {
+            "docs": {
+              "ErrorDialog.html": {
+                "ref": "ErrorDialog.html",
+                "tf": 6.25
+              },
+              "MessageDialog.html": {
+                "ref": "MessageDialog.html",
+                "tf": 6.25
               }
             }
           }
@@ -3816,41 +3810,262 @@ window.lunrData = {
                 "docs": {},
                 "t": {
                   "docs": {
-                    "Presentation.Component.AlertDialogView.html#cancel": {
-                      "ref": "Presentation.Component.AlertDialogView.html#cancel",
+                    "AlertDialogView.html#cancel": {
+                      "ref": "AlertDialogView.html#cancel",
                       "tf": 50
                     },
-                    "Presentation.Component.AlertDialogView.html#open": {
-                      "ref": "Presentation.Component.AlertDialogView.html#open",
+                    "AlertDialogView.html#open": {
+                      "ref": "AlertDialogView.html#open",
                       "tf": 50
                     },
-                    "Presentation.Component.AlertDialogView.html#close": {
-                      "ref": "Presentation.Component.AlertDialogView.html#close",
+                    "AlertDialogView.html#close": {
+                      "ref": "AlertDialogView.html#close",
                       "tf": 55
                     },
-                    "Presentation.Component.ConfirmationDialogView.html#cancel": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html#cancel",
+                    "ConfirmationDialogView.html#cancel": {
+                      "ref": "ConfirmationDialogView.html#cancel",
                       "tf": 50
                     },
-                    "Presentation.Component.ConfirmationDialogView.html#open": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html#open",
+                    "ConfirmationDialogView.html#open": {
+                      "ref": "ConfirmationDialogView.html#open",
                       "tf": 50
                     },
-                    "Presentation.Component.ConfirmationDialogView.html#close": {
-                      "ref": "Presentation.Component.ConfirmationDialogView.html#close",
+                    "ConfirmationDialogView.html#close": {
+                      "ref": "ConfirmationDialogView.html#close",
                       "tf": 55
                     },
-                    "Presentation.Component.DialogView.html#cancel": {
-                      "ref": "Presentation.Component.DialogView.html#cancel",
+                    "ErrorDialog.html#cancel": {
+                      "ref": "ErrorDialog.html#cancel",
                       "tf": 50
                     },
-                    "Presentation.Component.DialogView.html#open": {
-                      "ref": "Presentation.Component.DialogView.html#open",
+                    "ErrorDialog.html#open": {
+                      "ref": "ErrorDialog.html#open",
                       "tf": 50
                     },
-                    "Presentation.Component.DialogView.html#close": {
-                      "ref": "Presentation.Component.DialogView.html#close",
+                    "ErrorDialog.html#close": {
+                      "ref": "ErrorDialog.html#close",
                       "tf": 55
+                    },
+                    "MessageDialog.html#cancel": {
+                      "ref": "MessageDialog.html#cancel",
+                      "tf": 50
+                    },
+                    "MessageDialog.html#open": {
+                      "ref": "MessageDialog.html#open",
+                      "tf": 50
+                    },
+                    "MessageDialog.html#close": {
+                      "ref": "MessageDialog.html#close",
+                      "tf": 55
+                    },
+                    "DialogView.html#cancel": {
+                      "ref": "DialogView.html#cancel",
+                      "tf": 50
+                    },
+                    "DialogView.html#open": {
+                      "ref": "DialogView.html#open",
+                      "tf": 50
+                    },
+                    "DialogView.html#close": {
+                      "ref": "DialogView.html#close",
+                      "tf": 55
+                    },
+                    "Notification.html#cancel": {
+                      "ref": "Notification.html#cancel",
+                      "tf": 50
+                    },
+                    "Notification.html#open": {
+                      "ref": "Notification.html#open",
+                      "tf": 50
+                    },
+                    "Notification.html#close": {
+                      "ref": "Notification.html#close",
+                      "tf": 55
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "r": {
+            "docs": {},
+            "r": {
+              "docs": {},
+              "o": {
+                "docs": {},
+                "r": {
+                  "docs": {
+                    "ErrorDialog.html": {
+                      "ref": "ErrorDialog.html",
+                      "tf": 6.25
+                    }
+                  },
+                  "d": {
+                    "docs": {},
+                    "i": {
+                      "docs": {},
+                      "a": {
+                        "docs": {},
+                        "l": {
+                          "docs": {},
+                          "o": {
+                            "docs": {},
+                            "g": {
+                              "docs": {
+                                "ErrorDialog.html": {
+                                  "ref": "ErrorDialog.html",
+                                  "tf": 1900
+                                }
+                              },
+                              "#": {
+                                "docs": {},
+                                "t": {
+                                  "docs": {},
+                                  "i": {
+                                    "docs": {},
+                                    "t": {
+                                      "docs": {},
+                                      "l": {
+                                        "docs": {
+                                          "ErrorDialog.html#title": {
+                                            "ref": "ErrorDialog.html#title",
+                                            "tf": 1150
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "s": {
+                                  "docs": {},
+                                  "t": {
+                                    "docs": {},
+                                    "y": {
+                                      "docs": {},
+                                      "l": {
+                                        "docs": {
+                                          "ErrorDialog.html#style": {
+                                            "ref": "ErrorDialog.html#style",
+                                            "tf": 1150
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "b": {
+                                  "docs": {},
+                                  "u": {
+                                    "docs": {},
+                                    "t": {
+                                      "docs": {},
+                                      "t": {
+                                        "docs": {},
+                                        "o": {
+                                          "docs": {},
+                                          "n": {
+                                            "docs": {
+                                              "ErrorDialog.html#buttons": {
+                                                "ref": "ErrorDialog.html#buttons",
+                                                "tf": 1150
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "o": {
+                                    "docs": {},
+                                    "d": {
+                                      "docs": {},
+                                      "i": {
+                                        "docs": {
+                                          "ErrorDialog.html#body": {
+                                            "ref": "ErrorDialog.html#body",
+                                            "tf": 1150
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "r": {
+                                  "docs": {},
+                                  "e": {
+                                    "docs": {},
+                                    "n": {
+                                      "docs": {},
+                                      "d": {
+                                        "docs": {
+                                          "ErrorDialog.html#render": {
+                                            "ref": "ErrorDialog.html#render",
+                                            "tf": 1150
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "c": {
+                                  "docs": {},
+                                  "a": {
+                                    "docs": {},
+                                    "n": {
+                                      "docs": {},
+                                      "c": {
+                                        "docs": {},
+                                        "e": {
+                                          "docs": {},
+                                          "l": {
+                                            "docs": {
+                                              "ErrorDialog.html#cancel": {
+                                                "ref": "ErrorDialog.html#cancel",
+                                                "tf": 1150
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "l": {
+                                    "docs": {},
+                                    "o": {
+                                      "docs": {},
+                                      "s": {
+                                        "docs": {
+                                          "ErrorDialog.html#close": {
+                                            "ref": "ErrorDialog.html#close",
+                                            "tf": 1150
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "o": {
+                                  "docs": {},
+                                  "p": {
+                                    "docs": {},
+                                    "e": {
+                                      "docs": {},
+                                      "n": {
+                                        "docs": {
+                                          "ErrorDialog.html#open": {
+                                            "ref": "ErrorDialog.html#open",
+                                            "tf": 1150
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 }
@@ -3862,15 +4077,15 @@ window.lunrData = {
           "docs": {},
           "e": {
             "docs": {
-              "Presentation.Component.ConfirmationDialogView.html": {
-                "ref": "Presentation.Component.ConfirmationDialogView.html",
+              "ConfirmationDialogView.html": {
+                "ref": "ConfirmationDialogView.html",
                 "tf": 6.25
               }
             }
           }
         }
       },
-      "length": 293
+      "length": 449
     },
     "corpusTokens": [
       "alert",
@@ -3895,33 +4110,6 @@ window.lunrData = {
       "class",
       "close",
       "comfirm",
-      "component.alertdialogview",
-      "component.alertdialogview#bodi",
-      "component.alertdialogview#button",
-      "component.alertdialogview#cancel",
-      "component.alertdialogview#clos",
-      "component.alertdialogview#open",
-      "component.alertdialogview#rend",
-      "component.alertdialogview#styl",
-      "component.alertdialogview#titl",
-      "component.confirmationdialogview",
-      "component.confirmationdialogview#bodi",
-      "component.confirmationdialogview#button",
-      "component.confirmationdialogview#cancel",
-      "component.confirmationdialogview#clos",
-      "component.confirmationdialogview#open",
-      "component.confirmationdialogview#rend",
-      "component.confirmationdialogview#styl",
-      "component.confirmationdialogview#titl",
-      "component.dialogview",
-      "component.dialogview#bodi",
-      "component.dialogview#button",
-      "component.dialogview#cancel",
-      "component.dialogview#clos",
-      "component.dialogview#open",
-      "component.dialogview#rend",
-      "component.dialogview#styl",
-      "component.dialogview#titl",
       "configur",
       "confirmationdialogview",
       "confirmationdialogview#bodi",
@@ -3948,6 +4136,16 @@ window.lunrData = {
       "dialogview#styl",
       "dialogview#titl",
       "document",
+      "error",
+      "errordialog",
+      "errordialog#bodi",
+      "errordialog#button",
+      "errordialog#cancel",
+      "errordialog#clos",
+      "errordialog#open",
+      "errordialog#rend",
+      "errordialog#styl",
+      "errordialog#titl",
       "event",
       "form",
       "function",
@@ -3958,39 +4156,30 @@ window.lunrData = {
       "match",
       "member",
       "messag",
+      "messagedialog",
+      "messagedialog#bodi",
+      "messagedialog#button",
+      "messagedialog#cancel",
+      "messagedialog#clos",
+      "messagedialog#open",
+      "messagedialog#rend",
+      "messagedialog#styl",
+      "messagedialog#titl",
       "method",
       "next",
       "notif",
+      "notification#bodi",
+      "notification#button",
+      "notification#cancel",
+      "notification#clos",
+      "notification#open",
+      "notification#rend",
+      "notification#styl",
+      "notification#titl",
       "object",
+      "ok",
       "open",
       "present",
-      "presentation.component.alertdialogview",
-      "presentation.component.alertdialogview#bodi",
-      "presentation.component.alertdialogview#button",
-      "presentation.component.alertdialogview#cancel",
-      "presentation.component.alertdialogview#clos",
-      "presentation.component.alertdialogview#open",
-      "presentation.component.alertdialogview#rend",
-      "presentation.component.alertdialogview#styl",
-      "presentation.component.alertdialogview#titl",
-      "presentation.component.confirmationdialogview",
-      "presentation.component.confirmationdialogview#bodi",
-      "presentation.component.confirmationdialogview#button",
-      "presentation.component.confirmationdialogview#cancel",
-      "presentation.component.confirmationdialogview#clos",
-      "presentation.component.confirmationdialogview#open",
-      "presentation.component.confirmationdialogview#rend",
-      "presentation.component.confirmationdialogview#styl",
-      "presentation.component.confirmationdialogview#titl",
-      "presentation.component.dialogview",
-      "presentation.component.dialogview#bodi",
-      "presentation.component.dialogview#button",
-      "presentation.component.dialogview#cancel",
-      "presentation.component.dialogview#clos",
-      "presentation.component.dialogview#open",
-      "presentation.component.dialogview#rend",
-      "presentation.component.dialogview#styl",
-      "presentation.component.dialogview#titl",
       "properti",
       "readm",
       "render",
@@ -4049,185 +4238,458 @@ window.lunrData = {
       "description": "",
       "body": ""
     },
-    "Presentation.Component.AlertDialogView.html": {
-      "id": "Presentation.Component.AlertDialogView.html",
+    "AlertDialogView.html": {
+      "id": "AlertDialogView.html",
       "kind": "class",
       "title": "AlertDialogView",
-      "longname": "Presentation.Component.AlertDialogView",
+      "longname": "AlertDialogView",
       "name": "AlertDialogView",
-      "tags": "Presentation.Component.AlertDialogView Component.AlertDialogView AlertDialogView",
+      "tags": "AlertDialogView",
       "summary": "",
       "description": "A automatic alert dialog view - creates a dialog with cancel button and a message",
       "body": ""
     },
-    "Presentation.Component.AlertDialogView.html#title": {
-      "id": "Presentation.Component.AlertDialogView.html#title",
+    "AlertDialogView.html#title": {
+      "id": "AlertDialogView.html#title",
       "kind": "member",
       "title": "title",
-      "longname": "Presentation.Component.AlertDialogView#title",
+      "longname": "AlertDialogView#title",
       "name": "title",
-      "tags": "Presentation.Component.AlertDialogView#title Component.AlertDialogView#title AlertDialogView#title title",
+      "tags": "AlertDialogView#title title",
       "summary": "",
       "description": "title property - the title of the dialog"
     },
-    "Presentation.Component.AlertDialogView.html#style": {
-      "id": "Presentation.Component.AlertDialogView.html#style",
+    "AlertDialogView.html#style": {
+      "id": "AlertDialogView.html#style",
       "kind": "member",
       "title": "style",
-      "longname": "Presentation.Component.AlertDialogView#style",
+      "longname": "AlertDialogView#style",
       "name": "style",
-      "tags": "Presentation.Component.AlertDialogView#style Component.AlertDialogView#style AlertDialogView#style style",
+      "tags": "AlertDialogView#style style",
       "summary": "",
       "description": "style property - the style (form, alert, bigForm, or whatever class you want)"
     },
-    "Presentation.Component.AlertDialogView.html#buttons": {
-      "id": "Presentation.Component.AlertDialogView.html#buttons",
+    "AlertDialogView.html#buttons": {
+      "id": "AlertDialogView.html#buttons",
       "kind": "member",
       "title": "buttons",
-      "longname": "Presentation.Component.AlertDialogView#buttons",
+      "longname": "AlertDialogView#buttons",
       "name": "buttons",
-      "tags": "Presentation.Component.AlertDialogView#buttons Component.AlertDialogView#buttons AlertDialogView#buttons buttons",
+      "tags": "AlertDialogView#buttons buttons",
       "summary": "",
       "description": "buttons object property - the buttons to match to functions"
     },
-    "Presentation.Component.AlertDialogView.html#body": {
-      "id": "Presentation.Component.AlertDialogView.html#body",
+    "AlertDialogView.html#body": {
+      "id": "AlertDialogView.html#body",
       "kind": "member",
       "title": "body",
-      "longname": "Presentation.Component.AlertDialogView#body",
+      "longname": "AlertDialogView#body",
       "name": "body",
-      "tags": "Presentation.Component.AlertDialogView#body Component.AlertDialogView#body AlertDialogView#body body",
+      "tags": "AlertDialogView#body body",
       "summary": "",
       "description": "setBody - sets the body content of the dialog"
     },
-    "Presentation.Component.AlertDialogView.html#render": {
-      "id": "Presentation.Component.AlertDialogView.html#render",
+    "AlertDialogView.html#render": {
+      "id": "AlertDialogView.html#render",
       "kind": "function",
       "title": "render()",
-      "longname": "Presentation.Component.AlertDialogView#render",
+      "longname": "AlertDialogView#render",
       "name": "render",
-      "tags": "Presentation.Component.AlertDialogView#render Component.AlertDialogView#render AlertDialogView#render render",
+      "tags": "AlertDialogView#render render",
       "summary": "",
       "description": "render - render the dialog"
     },
-    "Presentation.Component.AlertDialogView.html#cancel": {
-      "id": "Presentation.Component.AlertDialogView.html#cancel",
+    "AlertDialogView.html#cancel": {
+      "id": "AlertDialogView.html#cancel",
       "kind": "function",
       "title": "cancel( event )",
-      "longname": "Presentation.Component.AlertDialogView#cancel",
+      "longname": "AlertDialogView#cancel",
       "name": "cancel",
-      "tags": "Presentation.Component.AlertDialogView#cancel Component.AlertDialogView#cancel AlertDialogView#cancel cancel",
+      "tags": "AlertDialogView#cancel cancel",
       "summary": "",
       "description": "cancel - standard built-in cancel callback. Calls close method by default"
     },
-    "Presentation.Component.AlertDialogView.html#open": {
-      "id": "Presentation.Component.AlertDialogView.html#open",
+    "AlertDialogView.html#open": {
+      "id": "AlertDialogView.html#open",
       "kind": "function",
       "title": "open( event )",
-      "longname": "Presentation.Component.AlertDialogView#open",
+      "longname": "AlertDialogView#open",
       "name": "open",
-      "tags": "Presentation.Component.AlertDialogView#open Component.AlertDialogView#open AlertDialogView#open open",
+      "tags": "AlertDialogView#open open",
       "summary": "",
       "description": "open - standard built-in open callback. Calls render method by default"
     },
-    "Presentation.Component.AlertDialogView.html#close": {
-      "id": "Presentation.Component.AlertDialogView.html#close",
+    "AlertDialogView.html#close": {
+      "id": "AlertDialogView.html#close",
       "kind": "function",
       "title": "close( event )",
-      "longname": "Presentation.Component.AlertDialogView#close",
+      "longname": "AlertDialogView#close",
       "name": "close",
-      "tags": "Presentation.Component.AlertDialogView#close Component.AlertDialogView#close AlertDialogView#close close",
+      "tags": "AlertDialogView#close close",
       "summary": "",
       "description": "close - standard built-in close callback. Closes the dialog, triggers the 'close' event"
     },
-    "Presentation.Component.ConfirmationDialogView.html": {
-      "id": "Presentation.Component.ConfirmationDialogView.html",
+    "ConfirmationDialogView.html": {
+      "id": "ConfirmationDialogView.html",
       "kind": "class",
       "title": "ConfirmationDialogView",
-      "longname": "Presentation.Component.ConfirmationDialogView",
+      "longname": "ConfirmationDialogView",
       "name": "ConfirmationDialogView",
-      "tags": "Presentation.Component.ConfirmationDialogView Component.ConfirmationDialogView ConfirmationDialogView",
+      "tags": "ConfirmationDialogView",
       "summary": "",
       "description": "A automatic comfirmation dialog view - creates a dialog with yes no buttons",
       "body": ""
     },
-    "Presentation.Component.ConfirmationDialogView.html#title": {
-      "id": "Presentation.Component.ConfirmationDialogView.html#title",
+    "ConfirmationDialogView.html#title": {
+      "id": "ConfirmationDialogView.html#title",
       "kind": "member",
       "title": "title",
-      "longname": "Presentation.Component.ConfirmationDialogView#title",
+      "longname": "ConfirmationDialogView#title",
       "name": "title",
-      "tags": "Presentation.Component.ConfirmationDialogView#title Component.ConfirmationDialogView#title ConfirmationDialogView#title title",
+      "tags": "ConfirmationDialogView#title title",
       "summary": "",
       "description": "title property - the title of the dialog"
     },
-    "Presentation.Component.ConfirmationDialogView.html#style": {
-      "id": "Presentation.Component.ConfirmationDialogView.html#style",
+    "ConfirmationDialogView.html#style": {
+      "id": "ConfirmationDialogView.html#style",
       "kind": "member",
       "title": "style",
-      "longname": "Presentation.Component.ConfirmationDialogView#style",
+      "longname": "ConfirmationDialogView#style",
       "name": "style",
-      "tags": "Presentation.Component.ConfirmationDialogView#style Component.ConfirmationDialogView#style ConfirmationDialogView#style style",
+      "tags": "ConfirmationDialogView#style style",
       "summary": "",
       "description": "style property - the style (form, alert, bigForm, or whatever class you want)"
     },
-    "Presentation.Component.ConfirmationDialogView.html#buttons": {
-      "id": "Presentation.Component.ConfirmationDialogView.html#buttons",
+    "ConfirmationDialogView.html#buttons": {
+      "id": "ConfirmationDialogView.html#buttons",
       "kind": "member",
       "title": "buttons",
-      "longname": "Presentation.Component.ConfirmationDialogView#buttons",
+      "longname": "ConfirmationDialogView#buttons",
       "name": "buttons",
-      "tags": "Presentation.Component.ConfirmationDialogView#buttons Component.ConfirmationDialogView#buttons ConfirmationDialogView#buttons buttons",
+      "tags": "ConfirmationDialogView#buttons buttons",
       "summary": "",
       "description": "buttons object property - the buttons to match to functions"
     },
-    "Presentation.Component.ConfirmationDialogView.html#body": {
-      "id": "Presentation.Component.ConfirmationDialogView.html#body",
+    "ConfirmationDialogView.html#body": {
+      "id": "ConfirmationDialogView.html#body",
       "kind": "member",
       "title": "body",
-      "longname": "Presentation.Component.ConfirmationDialogView#body",
+      "longname": "ConfirmationDialogView#body",
       "name": "body",
-      "tags": "Presentation.Component.ConfirmationDialogView#body Component.ConfirmationDialogView#body ConfirmationDialogView#body body",
+      "tags": "ConfirmationDialogView#body body",
       "summary": "",
       "description": "setBody - sets the body content of the dialog"
     },
-    "Presentation.Component.ConfirmationDialogView.html#render": {
-      "id": "Presentation.Component.ConfirmationDialogView.html#render",
+    "ConfirmationDialogView.html#render": {
+      "id": "ConfirmationDialogView.html#render",
       "kind": "function",
       "title": "render()",
-      "longname": "Presentation.Component.ConfirmationDialogView#render",
+      "longname": "ConfirmationDialogView#render",
       "name": "render",
-      "tags": "Presentation.Component.ConfirmationDialogView#render Component.ConfirmationDialogView#render ConfirmationDialogView#render render",
+      "tags": "ConfirmationDialogView#render render",
       "summary": "",
       "description": "render - render the dialog"
     },
-    "Presentation.Component.ConfirmationDialogView.html#cancel": {
-      "id": "Presentation.Component.ConfirmationDialogView.html#cancel",
+    "ConfirmationDialogView.html#cancel": {
+      "id": "ConfirmationDialogView.html#cancel",
       "kind": "function",
       "title": "cancel( event )",
-      "longname": "Presentation.Component.ConfirmationDialogView#cancel",
+      "longname": "ConfirmationDialogView#cancel",
       "name": "cancel",
-      "tags": "Presentation.Component.ConfirmationDialogView#cancel Component.ConfirmationDialogView#cancel ConfirmationDialogView#cancel cancel",
+      "tags": "ConfirmationDialogView#cancel cancel",
       "summary": "",
       "description": "cancel - standard built-in cancel callback. Calls close method by default"
     },
-    "Presentation.Component.ConfirmationDialogView.html#open": {
-      "id": "Presentation.Component.ConfirmationDialogView.html#open",
+    "ConfirmationDialogView.html#open": {
+      "id": "ConfirmationDialogView.html#open",
       "kind": "function",
       "title": "open( event )",
-      "longname": "Presentation.Component.ConfirmationDialogView#open",
+      "longname": "ConfirmationDialogView#open",
       "name": "open",
-      "tags": "Presentation.Component.ConfirmationDialogView#open Component.ConfirmationDialogView#open ConfirmationDialogView#open open",
+      "tags": "ConfirmationDialogView#open open",
       "summary": "",
       "description": "open - standard built-in open callback. Calls render method by default"
     },
-    "Presentation.Component.ConfirmationDialogView.html#close": {
-      "id": "Presentation.Component.ConfirmationDialogView.html#close",
+    "ConfirmationDialogView.html#close": {
+      "id": "ConfirmationDialogView.html#close",
       "kind": "function",
       "title": "close( event )",
-      "longname": "Presentation.Component.ConfirmationDialogView#close",
+      "longname": "ConfirmationDialogView#close",
       "name": "close",
-      "tags": "Presentation.Component.ConfirmationDialogView#close Component.ConfirmationDialogView#close ConfirmationDialogView#close close",
+      "tags": "ConfirmationDialogView#close close",
+      "summary": "",
+      "description": "close - standard built-in close callback. Closes the dialog, triggers the 'close' event"
+    },
+    "ErrorDialog.html": {
+      "id": "ErrorDialog.html",
+      "kind": "class",
+      "title": "ErrorDialog",
+      "longname": "ErrorDialog",
+      "name": "ErrorDialog",
+      "tags": "ErrorDialog",
+      "summary": "",
+      "description": "A automatic error dialog view - creates a dialog ok button",
+      "body": ""
+    },
+    "ErrorDialog.html#title": {
+      "id": "ErrorDialog.html#title",
+      "kind": "member",
+      "title": "title",
+      "longname": "ErrorDialog#title",
+      "name": "title",
+      "tags": "ErrorDialog#title title",
+      "summary": "",
+      "description": "title property - the title of the dialog"
+    },
+    "ErrorDialog.html#style": {
+      "id": "ErrorDialog.html#style",
+      "kind": "member",
+      "title": "style",
+      "longname": "ErrorDialog#style",
+      "name": "style",
+      "tags": "ErrorDialog#style style",
+      "summary": "",
+      "description": "style property - the style (form, alert, bigForm, or whatever class you want)"
+    },
+    "ErrorDialog.html#buttons": {
+      "id": "ErrorDialog.html#buttons",
+      "kind": "member",
+      "title": "buttons",
+      "longname": "ErrorDialog#buttons",
+      "name": "buttons",
+      "tags": "ErrorDialog#buttons buttons",
+      "summary": "",
+      "description": "buttons object property - the buttons to match to functions"
+    },
+    "ErrorDialog.html#body": {
+      "id": "ErrorDialog.html#body",
+      "kind": "member",
+      "title": "body",
+      "longname": "ErrorDialog#body",
+      "name": "body",
+      "tags": "ErrorDialog#body body",
+      "summary": "",
+      "description": "setBody - sets the body content of the dialog"
+    },
+    "ErrorDialog.html#render": {
+      "id": "ErrorDialog.html#render",
+      "kind": "function",
+      "title": "render()",
+      "longname": "ErrorDialog#render",
+      "name": "render",
+      "tags": "ErrorDialog#render render",
+      "summary": "",
+      "description": "render - render the dialog"
+    },
+    "ErrorDialog.html#cancel": {
+      "id": "ErrorDialog.html#cancel",
+      "kind": "function",
+      "title": "cancel( event )",
+      "longname": "ErrorDialog#cancel",
+      "name": "cancel",
+      "tags": "ErrorDialog#cancel cancel",
+      "summary": "",
+      "description": "cancel - standard built-in cancel callback. Calls close method by default"
+    },
+    "ErrorDialog.html#open": {
+      "id": "ErrorDialog.html#open",
+      "kind": "function",
+      "title": "open( event )",
+      "longname": "ErrorDialog#open",
+      "name": "open",
+      "tags": "ErrorDialog#open open",
+      "summary": "",
+      "description": "open - standard built-in open callback. Calls render method by default"
+    },
+    "ErrorDialog.html#close": {
+      "id": "ErrorDialog.html#close",
+      "kind": "function",
+      "title": "close( event )",
+      "longname": "ErrorDialog#close",
+      "name": "close",
+      "tags": "ErrorDialog#close close",
+      "summary": "",
+      "description": "close - standard built-in close callback. Closes the dialog, triggers the 'close' event"
+    },
+    "MessageDialog.html": {
+      "id": "MessageDialog.html",
+      "kind": "class",
+      "title": "MessageDialog",
+      "longname": "MessageDialog",
+      "name": "MessageDialog",
+      "tags": "MessageDialog",
+      "summary": "",
+      "description": "A automatic message dialog view - creates a dialog ok button",
+      "body": ""
+    },
+    "MessageDialog.html#title": {
+      "id": "MessageDialog.html#title",
+      "kind": "member",
+      "title": "title",
+      "longname": "MessageDialog#title",
+      "name": "title",
+      "tags": "MessageDialog#title title",
+      "summary": "",
+      "description": "title property - the title of the dialog"
+    },
+    "MessageDialog.html#style": {
+      "id": "MessageDialog.html#style",
+      "kind": "member",
+      "title": "style",
+      "longname": "MessageDialog#style",
+      "name": "style",
+      "tags": "MessageDialog#style style",
+      "summary": "",
+      "description": "style property - the style (form, alert, bigForm, or whatever class you want)"
+    },
+    "MessageDialog.html#buttons": {
+      "id": "MessageDialog.html#buttons",
+      "kind": "member",
+      "title": "buttons",
+      "longname": "MessageDialog#buttons",
+      "name": "buttons",
+      "tags": "MessageDialog#buttons buttons",
+      "summary": "",
+      "description": "buttons object property - the buttons to match to functions"
+    },
+    "MessageDialog.html#body": {
+      "id": "MessageDialog.html#body",
+      "kind": "member",
+      "title": "body",
+      "longname": "MessageDialog#body",
+      "name": "body",
+      "tags": "MessageDialog#body body",
+      "summary": "",
+      "description": "setBody - sets the body content of the dialog"
+    },
+    "MessageDialog.html#render": {
+      "id": "MessageDialog.html#render",
+      "kind": "function",
+      "title": "render()",
+      "longname": "MessageDialog#render",
+      "name": "render",
+      "tags": "MessageDialog#render render",
+      "summary": "",
+      "description": "render - render the dialog"
+    },
+    "MessageDialog.html#cancel": {
+      "id": "MessageDialog.html#cancel",
+      "kind": "function",
+      "title": "cancel( event )",
+      "longname": "MessageDialog#cancel",
+      "name": "cancel",
+      "tags": "MessageDialog#cancel cancel",
+      "summary": "",
+      "description": "cancel - standard built-in cancel callback. Calls close method by default"
+    },
+    "MessageDialog.html#open": {
+      "id": "MessageDialog.html#open",
+      "kind": "function",
+      "title": "open( event )",
+      "longname": "MessageDialog#open",
+      "name": "open",
+      "tags": "MessageDialog#open open",
+      "summary": "",
+      "description": "open - standard built-in open callback. Calls render method by default"
+    },
+    "MessageDialog.html#close": {
+      "id": "MessageDialog.html#close",
+      "kind": "function",
+      "title": "close( event )",
+      "longname": "MessageDialog#close",
+      "name": "close",
+      "tags": "MessageDialog#close close",
+      "summary": "",
+      "description": "close - standard built-in close callback. Closes the dialog, triggers the 'close' event"
+    },
+    "DialogView.html": {
+      "id": "DialogView.html",
+      "kind": "class",
+      "title": "DialogView",
+      "longname": "DialogView",
+      "name": "DialogView",
+      "tags": "DialogView",
+      "summary": "",
+      "description": "A automatic dialog view - creates a dialog with simple configurations to customize",
+      "body": ""
+    },
+    "DialogView.html#title": {
+      "id": "DialogView.html#title",
+      "kind": "member",
+      "title": "title",
+      "longname": "DialogView#title",
+      "name": "title",
+      "tags": "DialogView#title title",
+      "summary": "",
+      "description": "title property - the title of the dialog"
+    },
+    "DialogView.html#style": {
+      "id": "DialogView.html#style",
+      "kind": "member",
+      "title": "style",
+      "longname": "DialogView#style",
+      "name": "style",
+      "tags": "DialogView#style style",
+      "summary": "",
+      "description": "style property - the style (form, alert, bigForm, or whatever class you want)"
+    },
+    "DialogView.html#buttons": {
+      "id": "DialogView.html#buttons",
+      "kind": "member",
+      "title": "buttons",
+      "longname": "DialogView#buttons",
+      "name": "buttons",
+      "tags": "DialogView#buttons buttons",
+      "summary": "",
+      "description": "buttons object property - the buttons to match to functions"
+    },
+    "DialogView.html#body": {
+      "id": "DialogView.html#body",
+      "kind": "member",
+      "title": "body",
+      "longname": "DialogView#body",
+      "name": "body",
+      "tags": "DialogView#body body",
+      "summary": "",
+      "description": "setBody - sets the body content of the dialog"
+    },
+    "DialogView.html#render": {
+      "id": "DialogView.html#render",
+      "kind": "function",
+      "title": "render()",
+      "longname": "DialogView#render",
+      "name": "render",
+      "tags": "DialogView#render render",
+      "summary": "",
+      "description": "render - render the dialog"
+    },
+    "DialogView.html#cancel": {
+      "id": "DialogView.html#cancel",
+      "kind": "function",
+      "title": "cancel( event )",
+      "longname": "DialogView#cancel",
+      "name": "cancel",
+      "tags": "DialogView#cancel cancel",
+      "summary": "",
+      "description": "cancel - standard built-in cancel callback. Calls close method by default"
+    },
+    "DialogView.html#open": {
+      "id": "DialogView.html#open",
+      "kind": "function",
+      "title": "open( event )",
+      "longname": "DialogView#open",
+      "name": "open",
+      "tags": "DialogView#open open",
+      "summary": "",
+      "description": "open - standard built-in open callback. Calls render method by default"
+    },
+    "DialogView.html#close": {
+      "id": "DialogView.html#close",
+      "kind": "function",
+      "title": "close( event )",
+      "longname": "DialogView#close",
+      "name": "close",
+      "tags": "DialogView#close close",
       "summary": "",
       "description": "close - standard built-in close callback. Closes the dialog, triggers the 'close' event"
     },
@@ -4242,6 +4704,86 @@ window.lunrData = {
       "description": "Notification",
       "body": ""
     },
+    "Notification.html#title": {
+      "id": "Notification.html#title",
+      "kind": "member",
+      "title": "title",
+      "longname": "Notification#title",
+      "name": "title",
+      "tags": "Notification#title title",
+      "summary": "",
+      "description": "title property - the title of the dialog"
+    },
+    "Notification.html#style": {
+      "id": "Notification.html#style",
+      "kind": "member",
+      "title": "style",
+      "longname": "Notification#style",
+      "name": "style",
+      "tags": "Notification#style style",
+      "summary": "",
+      "description": "style property - the style (form, alert, bigForm, or whatever class you want)"
+    },
+    "Notification.html#buttons": {
+      "id": "Notification.html#buttons",
+      "kind": "member",
+      "title": "buttons",
+      "longname": "Notification#buttons",
+      "name": "buttons",
+      "tags": "Notification#buttons buttons",
+      "summary": "",
+      "description": "buttons object property - the buttons to match to functions"
+    },
+    "Notification.html#body": {
+      "id": "Notification.html#body",
+      "kind": "member",
+      "title": "body",
+      "longname": "Notification#body",
+      "name": "body",
+      "tags": "Notification#body body",
+      "summary": "",
+      "description": "setBody - sets the body content of the dialog"
+    },
+    "Notification.html#render": {
+      "id": "Notification.html#render",
+      "kind": "function",
+      "title": "render()",
+      "longname": "Notification#render",
+      "name": "render",
+      "tags": "Notification#render render",
+      "summary": "",
+      "description": "render - render the dialog"
+    },
+    "Notification.html#cancel": {
+      "id": "Notification.html#cancel",
+      "kind": "function",
+      "title": "cancel( event )",
+      "longname": "Notification#cancel",
+      "name": "cancel",
+      "tags": "Notification#cancel cancel",
+      "summary": "",
+      "description": "cancel - standard built-in cancel callback. Calls close method by default"
+    },
+    "Notification.html#open": {
+      "id": "Notification.html#open",
+      "kind": "function",
+      "title": "open( event )",
+      "longname": "Notification#open",
+      "name": "open",
+      "tags": "Notification#open open",
+      "summary": "",
+      "description": "open - standard built-in open callback. Calls render method by default"
+    },
+    "Notification.html#close": {
+      "id": "Notification.html#close",
+      "kind": "function",
+      "title": "close( event )",
+      "longname": "Notification#close",
+      "name": "close",
+      "tags": "Notification#close close",
+      "summary": "",
+      "description": "close - standard built-in close callback. Closes the dialog, triggers the 'close' event"
+    },
     "Splash.html": {
       "id": "Splash.html",
       "kind": "class",
@@ -4252,97 +4794,6 @@ window.lunrData = {
       "summary": "",
       "description": "Splash Screen View",
       "body": ""
-    },
-    "Presentation.Component.DialogView.html": {
-      "id": "Presentation.Component.DialogView.html",
-      "kind": "class",
-      "title": "DialogView",
-      "longname": "Presentation.Component.DialogView",
-      "name": "DialogView",
-      "tags": "Presentation.Component.DialogView Component.DialogView DialogView",
-      "summary": "",
-      "description": "A automatic dialog view - creates a dialog with simple configurations to customize",
-      "body": ""
-    },
-    "Presentation.Component.DialogView.html#title": {
-      "id": "Presentation.Component.DialogView.html#title",
-      "kind": "member",
-      "title": "title",
-      "longname": "Presentation.Component.DialogView#title",
-      "name": "title",
-      "tags": "Presentation.Component.DialogView#title Component.DialogView#title DialogView#title title",
-      "summary": "",
-      "description": "title property - the title of the dialog"
-    },
-    "Presentation.Component.DialogView.html#style": {
-      "id": "Presentation.Component.DialogView.html#style",
-      "kind": "member",
-      "title": "style",
-      "longname": "Presentation.Component.DialogView#style",
-      "name": "style",
-      "tags": "Presentation.Component.DialogView#style Component.DialogView#style DialogView#style style",
-      "summary": "",
-      "description": "style property - the style (form, alert, bigForm, or whatever class you want)"
-    },
-    "Presentation.Component.DialogView.html#buttons": {
-      "id": "Presentation.Component.DialogView.html#buttons",
-      "kind": "member",
-      "title": "buttons",
-      "longname": "Presentation.Component.DialogView#buttons",
-      "name": "buttons",
-      "tags": "Presentation.Component.DialogView#buttons Component.DialogView#buttons DialogView#buttons buttons",
-      "summary": "",
-      "description": "buttons object property - the buttons to match to functions"
-    },
-    "Presentation.Component.DialogView.html#body": {
-      "id": "Presentation.Component.DialogView.html#body",
-      "kind": "member",
-      "title": "body",
-      "longname": "Presentation.Component.DialogView#body",
-      "name": "body",
-      "tags": "Presentation.Component.DialogView#body Component.DialogView#body DialogView#body body",
-      "summary": "",
-      "description": "setBody - sets the body content of the dialog"
-    },
-    "Presentation.Component.DialogView.html#render": {
-      "id": "Presentation.Component.DialogView.html#render",
-      "kind": "function",
-      "title": "render()",
-      "longname": "Presentation.Component.DialogView#render",
-      "name": "render",
-      "tags": "Presentation.Component.DialogView#render Component.DialogView#render DialogView#render render",
-      "summary": "",
-      "description": "render - render the dialog"
-    },
-    "Presentation.Component.DialogView.html#cancel": {
-      "id": "Presentation.Component.DialogView.html#cancel",
-      "kind": "function",
-      "title": "cancel( event )",
-      "longname": "Presentation.Component.DialogView#cancel",
-      "name": "cancel",
-      "tags": "Presentation.Component.DialogView#cancel Component.DialogView#cancel DialogView#cancel cancel",
-      "summary": "",
-      "description": "cancel - standard built-in cancel callback. Calls close method by default"
-    },
-    "Presentation.Component.DialogView.html#open": {
-      "id": "Presentation.Component.DialogView.html#open",
-      "kind": "function",
-      "title": "open( event )",
-      "longname": "Presentation.Component.DialogView#open",
-      "name": "open",
-      "tags": "Presentation.Component.DialogView#open Component.DialogView#open DialogView#open open",
-      "summary": "",
-      "description": "open - standard built-in open callback. Calls render method by default"
-    },
-    "Presentation.Component.DialogView.html#close": {
-      "id": "Presentation.Component.DialogView.html#close",
-      "kind": "function",
-      "title": "close( event )",
-      "longname": "Presentation.Component.DialogView#close",
-      "name": "close",
-      "tags": "Presentation.Component.DialogView#close Component.DialogView#close DialogView#close close",
-      "summary": "",
-      "description": "close - standard built-in close callback. Closes the dialog, triggers the 'close' event"
     }
   }
 };
