@@ -4,6 +4,7 @@ import DialogView from "../dialog/dialog.js";
  * Notification
  * @param options Options to pass
  * @example options passed are: timeOut, name, style
+ * @extends DialogView
  */
 class Notification extends DialogView {
   constructor(options) {

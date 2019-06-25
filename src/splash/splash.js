@@ -3,6 +3,7 @@ import { View } from "presentation-view";
 /**
  * Splash Screen View
  * @param options Options to pass
+ * @extends View
  * @example options passed are: title, subTitle, subSubTitle, name, style, and figureStyle
  */
 class Splash extends View {

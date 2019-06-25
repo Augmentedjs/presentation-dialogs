@@ -3,8 +3,7 @@ import Dom from "presentation-dom";
 
 /**
 * A automatic dialog view - creates a dialog with simple configurations to customize
-* @memberof Presentation.Component
-* @extends Presentation.DecoratorView
+* @extends DecoratorView
 */
 class DialogView extends DecoratorView {
   constructor(options) {
