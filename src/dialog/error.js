@@ -4,7 +4,7 @@ import AlertDialogView  from "./alert.js";
  * A automatic error dialog view - creates a dialog ok button
  * @extends AlertDialogView
  */
-class ErrorDialog extends AlertDialogView {
+class ErrorDialogView extends AlertDialogView {
   constructor(options) {
     if (!options) {
       options = {}
@@ -21,4 +21,4 @@ class ErrorDialog extends AlertDialogView {
   };
 };
 
-export default ErrorDialog;
+export default ErrorDialogView;

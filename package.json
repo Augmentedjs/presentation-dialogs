@@ -1,6 +1,6 @@
 {
   "name": "presentation-dialogs",
-  "version": "2.7.0",
+  "version": "2.7.1",
   "description": "The Augmented.js Next - Presentation Dialog Module.",
   "main": "dist/presentation-dialogs.js",
   "scripts": {

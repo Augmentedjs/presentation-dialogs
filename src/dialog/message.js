@@ -4,7 +4,7 @@ import AlertDialogView  from "./alert.js";
  * A automatic message dialog view - creates a dialog ok button
  * @extends AlertDialogView
  */
-class MessageDialog extends AlertDialogView {
+class MessageDialogView extends AlertDialogView {
   constructor(options) {
     if (!options) {
       options = {}
@@ -18,4 +18,4 @@ class MessageDialog extends AlertDialogView {
   };
 };
 
-export default MessageDialog;
+export default MessageDialogView;
