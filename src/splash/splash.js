@@ -1,4 +1,6 @@
 import { View } from "presentation-view";
+const SPLASH_STYLE = "splash";
+const DEFAULT_TIMEOUT = 2000;
 
 /**
  * Splash Screen View
@@ -12,13 +14,13 @@ class Splash extends View {
       options = {};
     }
     if (!options.name) {
-      options.name = "splash";
+      options.name = SPLASH_STYLE;
     }
 
     if (!options.style) {
-      options.style = "splash";
+      options.style = SPLASH_STYLE;
     } else {
-      options.style = `${options.style} splash`;
+      options.style = `${options.style} ${SPLASH_STYLE}`;
     }
 
     if (!options.title) {
@@ -43,7 +45,7 @@ class Splash extends View {
     if (options.timeOut) {
       this.timeOut = options.timeOut;
     } else {
-      this.timeOut = 2000;
+      this.timeOut = DEFAULT_TIMEOUT;
     }
   };
 

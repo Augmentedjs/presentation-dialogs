@@ -2,9 +2,12 @@ import { DecoratorView } from "presentation-decorator";
 import Dom from "presentation-dom";
 
 /**
-* A automatic dialog view - creates a dialog with simple configurations to customize
-* @extends DecoratorView
-*/
+ * A automatic dialog view - creates a dialog with simple configurations to customize</br/>
+ * supports title, body, style, and buttons as options<br/>
+ * buttons are defined as an object with key as name, value as function to call
+ * @param {Object} options Options to pass to the class
+ * @extends DecoratorView
+ */
 class DialogView extends DecoratorView {
   constructor(options) {
     super(options);
@@ -35,9 +38,9 @@ class DialogView extends DecoratorView {
   };
 
   /**
-  * title property - the title of the dialog
-  * @property title
-  */
+   * title property - the title of the dialog
+   * @property title
+   */
   set title(title) {
     this._title = title;
   };
@@ -47,14 +50,14 @@ class DialogView extends DecoratorView {
   };
 
   /**
-  * body property - the body of the dialog, handled by setBody method
-  * @property body
-  */
+   * body property - the body of the dialog, handled by setBody method
+   * @property body
+   */
 
   /**
-  * style property - the style (form, alert, bigForm, or whatever class you want)
-  * @property style
-  */
+   * style property - the style (form, alert, bigForm, or whatever class you want)
+   * @property style
+   */
   set style(style) {
     this._style = style;
   };
@@ -64,9 +67,9 @@ class DialogView extends DecoratorView {
   };
 
   /**
-  * buttons object property - the buttons to match to functions
-  * @property buttons
-  */
+   * buttons object property - the buttons to match to functions
+   * @property {Object} buttons
+   */
   set buttons(buttons) {
     this._buttons = buttons;
   };
@@ -76,17 +79,18 @@ class DialogView extends DecoratorView {
   };
 
   /**
-  * template - sets content of the dialog, handled internally
-  * @method _template
-  * @private
-  */
+   * template - sets content of the dialog, handled internally
+   * @method _template
+   * @private
+   */
   _template() {
     return `<div class="blur"><dialog class="${this._style}"><h1>${this._title}</h1>${this._body}${this._getButtonGroup()}</dialog></div>`;
   };
+
   /**
-  * setBody - sets the body content of the dialog
-  * @param {String} body A string value of th body (supports HTML)
-  */
+   * Body - sets the body content of the dialog
+   * @property {String} body A string value of th body (supports HTML)
+   */
   set body(body) {
     this._body = body;
   };
@@ -104,8 +108,8 @@ class DialogView extends DecoratorView {
   };
 
   /**
-  * render - render the dialog
-  */
+   * render - render the dialog
+   */
   render() {
     if (this.el) {
       Dom.setValue(this.el, this._template());
@@ -114,29 +118,31 @@ class DialogView extends DecoratorView {
     }
     return this;
   };
+
   // built-in callbacks
 
   /**
-  * cancel - standard built-in cancel callback.  Calls close method by default
-  * @param {Event} event Event passed in
-  */
+   * cancel - standard built-in cancel callback.  Calls close method by default
+   * @param {Event} event Event passed in
+   */
   cancel(event) {
-    this.close(event);
+    return this.close(event);
   };
   /**
-  * open - standard built-in open callback.  Calls render method by default
-  * @param {Event} event Event passed in
-  */
+   * open - standard built-in open callback.  Calls render method by default
+   * @param {Event} event Event passed in
+   */
   open(event) {
-    this.render();
+    return this.render();
   };
   /**
-  * close - standard built-in close callback.  Closes the dialog, triggers the 'close' event
-  * @param {Event} event Event passed in
-  */
+   * close - standard built-in close callback.  Closes the dialog, triggers the 'close' event
+   * @param {Event} event Event passed in
+   */
   close(event) {
     this.trigger("close");
     Dom.empty(this.el, true);
+    return this;
   };
 };
 

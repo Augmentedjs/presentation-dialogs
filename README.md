@@ -18,8 +18,10 @@ Augmented.js Next Presentation - Dialog Components
         -   [Parameters](#parameters-3)
     -   [buttons](#buttons)
         -   [Parameters](#parameters-4)
+        -   [Properties](#properties)
     -   [body](#body)
         -   [Parameters](#parameters-5)
+        -   [Properties](#properties-1)
     -   [render](#render)
     -   [cancel](#cancel)
         -   [Parameters](#parameters-6)
@@ -37,20 +39,22 @@ Augmented.js Next Presentation - Dialog Components
 -   [Splash](#splash)
     -   [Parameters](#parameters-12)
     -   [Examples](#examples-1)
--   [ErrorDialog](#errordialog)
+-   [ErrorDialogView](#errordialogview)
     -   [Parameters](#parameters-13)
--   [MessageDialog](#messagedialog)
+-   [MessageDialogView](#messagedialogview)
     -   [Parameters](#parameters-14)
 
 ## DialogView
 
 **Extends DecoratorView**
 
-A automatic dialog view - creates a dialog with simple configurations to customize
+A automatic dialog view - creates a dialog with simple configurations to customize&lt;/br/>
+supports title, body, style, and buttons as options<br/>
+buttons are defined as an object with key as name, value as function to call
 
 ### Parameters
 
--   `options`  
+-   `options` **[Object](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object)** Options to pass to the class
 
 ### title
 
@@ -84,11 +88,19 @@ buttons object property - the buttons to match to functions
 
 -   `buttons`  
 
+#### Properties
+
+-   `buttons` **[Object](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object)** 
+
 ### body
 
-setBody - sets the body content of the dialog
+Body - sets the body content of the dialog
 
 #### Parameters
+
+-   `body`  
+
+#### Properties
 
 -   `body` **[String](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String)** A string value of th body (supports HTML)
 
@@ -172,7 +184,7 @@ Splash Screen View
 options passed are: title, subTitle, subSubTitle, name, style, and figureStyle
 ```
 
-## ErrorDialog
+## ErrorDialogView
 
 **Extends AlertDialogView**
 
@@ -182,7 +194,7 @@ A automatic error dialog view - creates a dialog ok button
 
 -   `options`  
 
-## MessageDialog
+## MessageDialogView
 
 **Extends AlertDialogView**
 

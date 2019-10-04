@@ -13,7 +13,12 @@ class MessageDialogView extends AlertDialogView {
       options.buttons = {};
     }
     options.buttons.cancel = "ok";
-    options.style = "alert";
+    if (!options.style) {
+      options.style = "alert";
+    } else {
+      options.style = `${options.style} alert`;
+    }
+
     super(options);
   };
 };

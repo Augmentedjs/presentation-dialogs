@@ -11,9 +11,13 @@ class ErrorDialogView extends AlertDialogView {
     };
     if (!options.buttons) {
       options.buttons = {};
-    }
+   } 
     options.buttons.cancel = "ok";
-    options.style = "error alert";
+    if (!options.style) {
+       options.style = "";
+    }
+      
+    options.style += " error alert";
     if (!options.title) {
       options.title = "An Error Occurred! 😞"
     }

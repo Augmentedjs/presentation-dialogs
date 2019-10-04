@@ -1,4 +1,7 @@
 import DialogView from "../dialog/dialog.js";
+const NOTIFY_STYLE = "notify";
+const DEFAULT_TIMEOUT = 2000;
+const NOTIFY_ANIMATION_CLASS = "slide";
 
 /**
  * Notification
@@ -13,13 +16,13 @@ class Notification extends DialogView {
     };
 
     if (!options.style) {
-      options.style = "notify";
+      options.style = NOTIFY_STYLE;
     } else {
-      options.style = `${options.style} notify`;
+      options.style = `${options.style} ${NOTIFY_STYLE}`;
     }
 
     if (!options.name) {
-      options.name = "notify";
+      options.name = NOTIFY_STYLE;
     }
 
     options.tagName = "div";
@@ -31,7 +34,7 @@ class Notification extends DialogView {
     if (options.timeOut) {
       this.timeOut = options.timeOut;
     } else {
-      this.timeOut = 2000;
+      this.timeOut = DEFAULT_TIMEOUT;
     }
   };
 
@@ -49,7 +52,7 @@ class Notification extends DialogView {
 
     setTimeout(function() {
       const el = that.el;
-      el.classList.add("slide");
+      el.classList.add(NOTIFY_ANIMATION_CLASS);
 
       setTimeout(function() {
         that.remove();

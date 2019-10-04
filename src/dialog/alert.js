@@ -13,7 +13,12 @@ class AlertDialogView extends DialogView {
       options.buttons = {};
     }
     options.buttons.cancel = "cancel";
-    options.style = "alert";
+    if (!options.style) {
+	options.style = "alert";
+    } else {
+	options.style = `${options.style} alert`;
+    }
+
     super(options);
   };
 };

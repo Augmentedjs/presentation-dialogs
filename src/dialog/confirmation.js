@@ -14,7 +14,11 @@ class ConfirmationDialogView extends DialogView {
     }
     options.buttons.yes = "yes";
     options.buttons.no = "no";
-    options.style = "alert";
+    if (!options.style) {
+         options.style = "";
+    }
+     
+    options.style += " alert";
     super(options);
   };
 };
