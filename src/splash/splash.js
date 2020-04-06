@@ -1,14 +1,14 @@
-import { View } from "presentation-view";
+import { DecoratorView } from "presentation-decorator";
 const SPLASH_STYLE = "splash";
 const DEFAULT_TIMEOUT = 2000;
 
 /**
  * Splash Screen View
  * @param options Options to pass
- * @extends View
+ * @extends DecoratorView
  * @example options passed are: title, subTitle, subSubTitle, name, style, and figureStyle
  */
-class Splash extends View {
+class Splash extends DecoratorView {
   constructor(options) {
     if (!options) {
       options = {};
@@ -32,7 +32,7 @@ class Splash extends View {
     }
 
     if (!options.template) {
-      options.template = `
+      options.template = /*html*/`
         ${ (options.title) ? "<h1>" + options.title + "</h1>" : "" }
         ${ (options.subTitle) ? "<h2>" + options.subTitle + "</h2>" : "" }
         ${ (options.subSubTitle) ? "<h3>" + options.subSubTitle + "</h3>" : "" }

@@ -1,5 +1,5 @@
 import { DecoratorView } from "presentation-decorator";
-import Dom from "presentation-dom";
+//import Dom from "presentation-dom";
 
 /**
  * A automatic dialog view - creates a dialog with simple configurations to customize</br/>
@@ -50,11 +50,6 @@ class DialogView extends DecoratorView {
   };
 
   /**
-   * body property - the body of the dialog, handled by setBody method
-   * @property body
-   */
-
-  /**
    * style property - the style (form, alert, bigForm, or whatever class you want)
    * @property style
    */
@@ -79,15 +74,6 @@ class DialogView extends DecoratorView {
   };
 
   /**
-   * template - sets content of the dialog, handled internally
-   * @method _template
-   * @private
-   */
-  _template() {
-    return `<div class="blur"><dialog class="${this._style}"><h1>${this._title}</h1>${this._body}${this._getButtonGroup()}</dialog></div>`;
-  };
-
-  /**
    * Body - sets the body content of the dialog
    * @property {String} body A string value of th body (supports HTML)
    */
@@ -99,27 +85,18 @@ class DialogView extends DecoratorView {
     return this._body;
   };
 
-  _getButtonGroup() {
-    let html = `<div class="buttonGroup">`, i = 0, keys = Object.keys(this._buttons), l = (keys) ? keys.length: 0;
-    for (i = 0; i < l; i++) {
-      html = html + `<button data-${this.name}="${this._buttons[keys[i]]}" data-click="${this._buttons[keys[i]]}">${keys[i]}</button>`;
-    }
-    return html + "</div>";
-  };
-
   /**
    * render - render the dialog
    */
   render() {
     if (this.el) {
-      Dom.setValue(this.el, this._template());
+      this.injectTemplate(this._template(), this.el);
+      //Dom.setValue(this.el, this._template());
       this.delegateEvents();
       this.trigger("open");
     }
     return this;
   };
-
-  // built-in callbacks
 
   /**
    * cancel - standard built-in cancel callback.  Calls close method by default
@@ -133,7 +110,7 @@ class DialogView extends DecoratorView {
    * @param {Event} event Event passed in
    */
   open(event) {
-    return this.render();
+    return this.render(event);
   };
   /**
    * close - standard built-in close callback.  Closes the dialog, triggers the 'close' event
@@ -141,8 +118,28 @@ class DialogView extends DecoratorView {
    */
   close(event) {
     this.trigger("close");
-    Dom.empty(this.el, true);
+    this.removeTemplate(this.el, true);
+    //Dom.empty(this.el, true);
     return this;
+  };
+
+  /* private methods */
+
+  /**
+   * template - sets content of the dialog, handled internally
+   * @method _template
+   * @private
+   */
+  _template() {
+    return /*html*/`<div class="blur"><dialog class="${this._style}"><h1>${this._title}</h1>${this._body}${this._getButtonGroup()}</dialog></div>`;
+  };
+
+  _getButtonGroup() {
+    let html = /*html*/`<div class="buttonGroup">`, i = 0, keys = Object.keys(this._buttons), l = (keys) ? keys.length: 0;
+    for (i = 0; i < l; i++) {
+      html += /*html*/`<button data-${this.name}="${this._buttons[keys[i]]}" data-click="${this._buttons[keys[i]]}">${keys[i]}</button>`;
+    }
+    return html + "</div>";
   };
 };
 

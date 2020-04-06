@@ -74,4 +74,25 @@ describe('Given Augmented Presentation Dialog View', () => {
 			expect(view.style).to.equal("alert");
 		});
 	});
+
+	describe('Given an instance of AboutDialogView', () => {
+		let view;
+
+		beforeEach(() => {
+			view = new Components.AboutDialogView();
+		});
+
+		afterEach(() => {
+			view.remove();
+			view = null;
+		});
+
+		it('instance is an instance of AboutDialogView', () => {
+			expect(view instanceof Components.AboutDialogView).to.be.true;
+		});
+
+		it('has about style', () => {
+			expect(view.style).to.equal("bigForm about");
+		});
+	});
 });

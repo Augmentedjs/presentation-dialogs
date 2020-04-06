@@ -14,34 +14,34 @@ Augmented.js Next Presentation - Dialog Components
         -   [Parameters](#parameters-1)
     -   [style](#style)
         -   [Parameters](#parameters-2)
-    -   [style](#style-1)
-        -   [Parameters](#parameters-3)
     -   [buttons](#buttons)
-        -   [Parameters](#parameters-4)
+        -   [Parameters](#parameters-3)
         -   [Properties](#properties)
     -   [body](#body)
-        -   [Parameters](#parameters-5)
+        -   [Parameters](#parameters-4)
         -   [Properties](#properties-1)
     -   [render](#render)
     -   [cancel](#cancel)
-        -   [Parameters](#parameters-6)
+        -   [Parameters](#parameters-5)
     -   [open](#open)
-        -   [Parameters](#parameters-7)
+        -   [Parameters](#parameters-6)
     -   [close](#close)
-        -   [Parameters](#parameters-8)
+        -   [Parameters](#parameters-7)
 -   [ConfirmationDialogView](#confirmationdialogview)
-    -   [Parameters](#parameters-9)
+    -   [Parameters](#parameters-8)
 -   [AlertDialogView](#alertdialogview)
-    -   [Parameters](#parameters-10)
+    -   [Parameters](#parameters-9)
 -   [Notification](#notification)
-    -   [Parameters](#parameters-11)
+    -   [Parameters](#parameters-10)
     -   [Examples](#examples)
 -   [Splash](#splash)
-    -   [Parameters](#parameters-12)
+    -   [Parameters](#parameters-11)
     -   [Examples](#examples-1)
 -   [ErrorDialogView](#errordialogview)
-    -   [Parameters](#parameters-13)
+    -   [Parameters](#parameters-12)
 -   [MessageDialogView](#messagedialogview)
+    -   [Parameters](#parameters-13)
+-   [AboutDialogView](#aboutdialogview)
     -   [Parameters](#parameters-14)
 
 ## DialogView
@@ -63,14 +63,6 @@ title property - the title of the dialog
 #### Parameters
 
 -   `title`  
-
-### style
-
-body property - the body of the dialog, handled by setBody method
-
-#### Parameters
-
--   `style`  
 
 ### style
 
@@ -170,7 +162,7 @@ options passed are: timeOut, name, style
 
 ## Splash
 
-**Extends View**
+**Extends DecoratorView**
 
 Splash Screen View
 
@@ -199,6 +191,25 @@ A automatic error dialog view - creates a dialog ok button
 **Extends AlertDialogView**
 
 A automatic message dialog view - creates a dialog ok button
+
+### Parameters
+
+-   `options`  
+
+## AboutDialogView
+
+**Extends DialogView**
+
+A automatic about dialog view - creates a dialog with cancel button and a message.<br/>
+Pass the following options for pre-formated dialog:
+
+<ul>
+<li>description</l1>
+<li>author</l1>
+<li>version</l1>
+<li>website</l1>
+</ul>
+<em>* for preformated, do not pass 'body' option</em>
 
 ### Parameters
 

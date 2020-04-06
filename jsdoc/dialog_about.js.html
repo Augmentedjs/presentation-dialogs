@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
-		<title>dialog/dialog.js</title>
+		<title>dialog/about.js</title>
 		<link rel="icon" type="image/png" href="favicon.png"/>
 		<!--[if lt IE 9]>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -95,7 +95,7 @@
 	<!-- end:navbar.hbs -->		<div class="page-header">
 			<div class="container">
 				<span class="kind">source</span>
-				<h1><span class="name">dialog/dialog.js</span></h1>
+				<h1><span class="name">dialog/about.js</span></h1>
 			</div>
 		</div>
 	<div class="container content">
@@ -103,152 +103,58 @@
 			<div class="col-md-12 main-content">
 		<section class="source-section">
 			<article></article>
-			<pre class="prettyprint source language-javascript line-numbers"><code class="language-javascript">import { DecoratorView } from "presentation-decorator";
-//import Dom from "presentation-dom";
+			<pre class="prettyprint source language-javascript line-numbers"><code class="language-javascript">import DialogView from "./dialog.js";
 
 /**
- * A automatic dialog view - creates a dialog with simple configurations to customize&lt;/br/>
- * supports title, body, style, and buttons as options&lt;br/>
- * buttons are defined as an object with key as name, value as function to call
- * @param {Object} options Options to pass to the class
- * @extends DecoratorView
- */
-class DialogView extends DecoratorView {
+* A automatic about dialog view - creates a dialog with cancel button and a message.&lt;br/>
+* Pass the following options for pre-formated dialog:
+* &lt;ul>
+* &lt;li>description&lt;/l1>
+* &lt;li>author&lt;/l1>
+* &lt;li>version&lt;/l1>
+* &lt;li>website&lt;/l1>
+* &lt;/ul>
+* &lt;em>* for preformated, do not pass 'body' option&lt;/em>
+* @extends DialogView
+*/
+class AboutDialogView extends DialogView {
   constructor(options) {
+    if (!options) {
+      options = {}
+    };
+    if (!options.buttons) {
+      options.buttons = {};
+    }
+    options.buttons.cancel = "cancel";
+    if (!options.style) {
+      options.style = "bigForm about";
+    } else {
+      options.style = `${options.style} about`;
+    }
+
+    if (!options.name) {
+      options.name = "about";
+    }
+
+    if (!options.body &amp;&amp; (options.description &amp;&amp; options.author &amp;&amp; options.version &amp;&amp; options.website)) {
+      options.body = /*html*/`
+        &lt;h2>${options.description}&lt;/h2>
+        &lt;h3>Version ${options.version}&lt;/h3>
+        &lt;p class="author">Written by ${options.author}&lt;/p>
+        &lt;p class="website">${options.website}&lt;/p>
+        &lt;figure class="logo">&lt;/figure>
+      `;
+    }
+
+    if (!options.title) {
+      options.title = "About";
+    }
+
     super(options);
-    if (!this.name) {
-      this.name = "dialog";
-    }
-
-    if (options &amp;&amp; options.title) {
-      this._title = options.title;
-    } else {
-      this._title = "";
-    }
-    if (options &amp;&amp; options.body) {
-      this._body = options.body;
-    } else {
-      this._body = "";
-    }
-    if (options &amp;&amp; options.style) {
-      this._style = options.style;
-    } else {
-      this._style = "form";
-    }
-    if (options &amp;&amp; options.buttons) {
-      this._buttons = options.buttons;
-    } else {
-      this._buttons = {};
-    }
-  };
-
-  /**
-   * title property - the title of the dialog
-   * @property title
-   */
-  set title(title) {
-    this._title = title;
-  };
-
-  get title() {
-    return this._title;
-  };
-
-  /**
-   * style property - the style (form, alert, bigForm, or whatever class you want)
-   * @property style
-   */
-  set style(style) {
-    this._style = style;
-  };
-
-  get style() {
-    return this._style;
-  };
-
-  /**
-   * buttons object property - the buttons to match to functions
-   * @property {Object} buttons
-   */
-  set buttons(buttons) {
-    this._buttons = buttons;
-  };
-
-  get buttons() {
-    return this._buttons;
-  };
-
-  /**
-   * Body - sets the body content of the dialog
-   * @property {String} body A string value of th body (supports HTML)
-   */
-  set body(body) {
-    this._body = body;
-  };
-
-  get body() {
-    return this._body;
-  };
-
-  /**
-   * render - render the dialog
-   */
-  render() {
-    if (this.el) {
-      this.injectTemplate(this._template(), this.el);
-      //Dom.setValue(this.el, this._template());
-      this.delegateEvents();
-      this.trigger("open");
-    }
-    return this;
-  };
-
-  /**
-   * cancel - standard built-in cancel callback.  Calls close method by default
-   * @param {Event} event Event passed in
-   */
-  cancel(event) {
-    return this.close(event);
-  };
-  /**
-   * open - standard built-in open callback.  Calls render method by default
-   * @param {Event} event Event passed in
-   */
-  open(event) {
-    return this.render(event);
-  };
-  /**
-   * close - standard built-in close callback.  Closes the dialog, triggers the 'close' event
-   * @param {Event} event Event passed in
-   */
-  close(event) {
-    this.trigger("close");
-    this.removeTemplate(this.el, true);
-    //Dom.empty(this.el, true);
-    return this;
-  };
-
-  /* private methods */
-
-  /**
-   * template - sets content of the dialog, handled internally
-   * @method _template
-   * @private
-   */
-  _template() {
-    return /*html*/`&lt;div class="blur">&lt;dialog class="${this._style}">&lt;h1>${this._title}&lt;/h1>${this._body}${this._getButtonGroup()}&lt;/dialog>&lt;/div>`;
-  };
-
-  _getButtonGroup() {
-    let html = /*html*/`&lt;div class="buttonGroup">`, i = 0, keys = Object.keys(this._buttons), l = (keys) ? keys.length: 0;
-    for (i = 0; i &lt; l; i++) {
-      html += /*html*/`&lt;button data-${this.name}="${this._buttons[keys[i]]}" data-click="${this._buttons[keys[i]]}">${keys[i]}&lt;/button>`;
-    }
-    return html + "&lt;/div>";
   };
 };
 
-export default DialogView;
+export default AboutDialogView;
 </code></pre>
 		</section>
 			</div>

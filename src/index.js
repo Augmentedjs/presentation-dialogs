@@ -5,11 +5,15 @@ import Notification from "./notification/notify.js";
 import Splash from "./splash/splash.js";
 import ErrorDialogView from "./dialog/error.js";
 import MessageDialogView from "./dialog/message.js";
+import AboutDialogView from "./dialog/about.js";
 
-module.exports.DialogView = DialogView;
-module.exports.ConfirmationDialogView = ConfirmationDialogView;
-module.exports.AlertDialogView = AlertDialogView;
-module.exports.ErrorDialogView = ErrorDialogView;
-module.exports.MessageDialogView = MessageDialogView;
-module.exports.Notification = Notification;
-module.exports.Splash = Splash;
+export {
+  DialogView,
+  ConfirmationDialogView,
+  AlertDialogView,
+  ErrorDialogView,
+  MessageDialogView,
+  AboutDialogView,
+  Notification,
+  Splash
+};
