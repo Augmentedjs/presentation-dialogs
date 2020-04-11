@@ -35,7 +35,15 @@ class DialogView extends DecoratorView {
     } else {
       this._buttons = {};
     }
+
+    this._isOpen = false;
   };
+
+  /**
+   * isOpen property (readonly)
+   * @returns {boolean} true on open
+   * @property isOpen
+   */
 
   /**
    * title property - the title of the dialog
@@ -94,6 +102,7 @@ class DialogView extends DecoratorView {
       //Dom.setValue(this.el, this._template());
       this.delegateEvents();
       this.trigger("open");
+      this._isOpen = true;
     }
     return this;
   };
@@ -120,6 +129,7 @@ class DialogView extends DecoratorView {
     this.trigger("close");
     this.removeTemplate(this.el, true);
     //Dom.empty(this.el, true);
+    this._isOpen = false;
     return this;
   };
 
