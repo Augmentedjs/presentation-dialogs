@@ -1,5 +1,4 @@
 import { DecoratorView } from "presentation-decorator";
-//import Dom from "presentation-dom";
 
 /**
  * A automatic dialog view - creates a dialog with simple configurations to customize</br/>
@@ -44,6 +43,9 @@ class DialogView extends DecoratorView {
    * @returns {boolean} true on open
    * @property isOpen
    */
+   get isOpen() {
+     return this._isOpen;
+   };
 
   /**
    * title property - the title of the dialog

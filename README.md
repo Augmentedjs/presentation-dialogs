@@ -10,41 +10,40 @@ Augmented.js Next Presentation - Dialog Components
 
 -   [DialogView](#dialogview)
     -   [Parameters](#parameters)
+    -   [isOpen](#isopen)
     -   [title](#title)
         -   [Parameters](#parameters-1)
-    -   [title](#title-1)
-        -   [Parameters](#parameters-2)
     -   [style](#style)
-        -   [Parameters](#parameters-3)
+        -   [Parameters](#parameters-2)
     -   [buttons](#buttons)
-        -   [Parameters](#parameters-4)
+        -   [Parameters](#parameters-3)
         -   [Properties](#properties)
     -   [body](#body)
-        -   [Parameters](#parameters-5)
+        -   [Parameters](#parameters-4)
         -   [Properties](#properties-1)
     -   [render](#render)
     -   [cancel](#cancel)
-        -   [Parameters](#parameters-6)
+        -   [Parameters](#parameters-5)
     -   [open](#open)
-        -   [Parameters](#parameters-7)
+        -   [Parameters](#parameters-6)
     -   [close](#close)
-        -   [Parameters](#parameters-8)
+        -   [Parameters](#parameters-7)
 -   [ConfirmationDialogView](#confirmationdialogview)
-    -   [Parameters](#parameters-9)
+    -   [Parameters](#parameters-8)
 -   [AlertDialogView](#alertdialogview)
-    -   [Parameters](#parameters-10)
+    -   [Parameters](#parameters-9)
 -   [Notification](#notification)
-    -   [Parameters](#parameters-11)
+    -   [Parameters](#parameters-10)
     -   [Examples](#examples)
 -   [Splash](#splash)
-    -   [Parameters](#parameters-12)
+    -   [Parameters](#parameters-11)
     -   [Examples](#examples-1)
 -   [ErrorDialogView](#errordialogview)
-    -   [Parameters](#parameters-13)
+    -   [Parameters](#parameters-12)
 -   [MessageDialogView](#messagedialogview)
-    -   [Parameters](#parameters-14)
+    -   [Parameters](#parameters-13)
 -   [AboutDialogView](#aboutdialogview)
-    -   [Parameters](#parameters-15)
+    -   [Parameters](#parameters-14)
 
 ## DialogView
 
@@ -58,13 +57,9 @@ buttons are defined as an object with key as name, value as function to call
 
 -   `options` **[Object](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object)** Options to pass to the class
 
-### title
+### isOpen
 
 isOpen property (readonly)
-
-#### Parameters
-
--   `title`  
 
 Returns **[boolean](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Boolean)** true on open
 

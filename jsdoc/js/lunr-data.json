@@ -70,6 +70,13 @@
           "messag",
           "view"
         ],
+        "AlertDialogView.html#isOpen": [
+          "alertdialogview#isopen",
+          "isopen",
+          "member",
+          "properti",
+          "readonli"
+        ],
         "AlertDialogView.html#title": [
           "alertdialogview#titl",
           "dialog",
@@ -159,6 +166,13 @@
           "dialog",
           "view",
           "ye"
+        ],
+        "ConfirmationDialogView.html#isOpen": [
+          "confirmationdialogview#isopen",
+          "isopen",
+          "member",
+          "properti",
+          "readonli"
         ],
         "ConfirmationDialogView.html#title": [
           "confirmationdialogview#titl",
@@ -250,6 +264,13 @@
           "ok",
           "view"
         ],
+        "ErrorDialogView.html#isOpen": [
+          "errordialogview#isopen",
+          "isopen",
+          "member",
+          "properti",
+          "readonli"
+        ],
         "ErrorDialogView.html#title": [
           "dialog",
           "errordialogview#titl",
@@ -339,6 +360,13 @@
           "messagedialogview",
           "ok",
           "view"
+        ],
+        "MessageDialogView.html#isOpen": [
+          "isopen",
+          "member",
+          "messagedialogview#isopen",
+          "properti",
+          "readonli"
         ],
         "MessageDialogView.html#title": [
           "dialog",
@@ -443,6 +471,13 @@
           "valu",
           "view"
         ],
+        "DialogView.html#isOpen": [
+          "dialogview#isopen",
+          "isopen",
+          "member",
+          "properti",
+          "readonli"
+        ],
         "DialogView.html#title": [
           "dialog",
           "dialogview#titl",
@@ -531,6 +566,13 @@
         "Notification.html": [
           "class",
           "notif"
+        ],
+        "Notification.html#isOpen": [
+          "isopen",
+          "member",
+          "notification#isopen",
+          "properti",
+          "readonli"
         ],
         "Notification.html#title": [
           "dialog",
@@ -633,6 +675,13 @@
           "view",
           "websit"
         ],
+        "AboutDialogView.html#isOpen": [
+          "aboutdialogview#isopen",
+          "isopen",
+          "member",
+          "properti",
+          "readonli"
+        ],
         "AboutDialogView.html#title": [
           "aboutdialogview#titl",
           "dialog",
@@ -713,7 +762,7 @@
           "trigger"
         ]
       },
-      "length": 67
+      "length": 74
     },
     "tokenStore": {
       "root": {
@@ -877,6 +926,29 @@
                                       },
                                       "#": {
                                         "docs": {},
+                                        "i": {
+                                          "docs": {},
+                                          "s": {
+                                            "docs": {},
+                                            "o": {
+                                              "docs": {},
+                                              "p": {
+                                                "docs": {},
+                                                "e": {
+                                                  "docs": {},
+                                                  "n": {
+                                                    "docs": {
+                                                      "AlertDialogView.html#isOpen": {
+                                                        "ref": "AlertDialogView.html#isOpen",
+                                                        "tf": 1150
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
                                         "t": {
                                           "docs": {},
                                           "i": {
@@ -1069,6 +1141,29 @@
                                       },
                                       "#": {
                                         "docs": {},
+                                        "i": {
+                                          "docs": {},
+                                          "s": {
+                                            "docs": {},
+                                            "o": {
+                                              "docs": {},
+                                              "p": {
+                                                "docs": {},
+                                                "e": {
+                                                  "docs": {},
+                                                  "n": {
+                                                    "docs": {
+                                                      "AboutDialogView.html#isOpen": {
+                                                        "ref": "AboutDialogView.html#isOpen",
+                                                        "tf": 1150
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
                                         "t": {
                                           "docs": {},
                                           "i": {
@@ -1550,6 +1645,29 @@
                             },
                             "#": {
                               "docs": {},
+                              "i": {
+                                "docs": {},
+                                "s": {
+                                  "docs": {},
+                                  "o": {
+                                    "docs": {},
+                                    "p": {
+                                      "docs": {},
+                                      "e": {
+                                        "docs": {},
+                                        "n": {
+                                          "docs": {
+                                            "DialogView.html#isOpen": {
+                                              "ref": "DialogView.html#isOpen",
+                                              "tf": 1150
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              },
                               "t": {
                                 "docs": {},
                                 "i": {
@@ -1721,6 +1839,50 @@
                 }
               }
             }
+          },
+          "s": {
+            "docs": {},
+            "o": {
+              "docs": {},
+              "p": {
+                "docs": {},
+                "e": {
+                  "docs": {},
+                  "n": {
+                    "docs": {
+                      "AlertDialogView.html#isOpen": {
+                        "ref": "AlertDialogView.html#isOpen",
+                        "tf": 766.6666666666666
+                      },
+                      "ConfirmationDialogView.html#isOpen": {
+                        "ref": "ConfirmationDialogView.html#isOpen",
+                        "tf": 766.6666666666666
+                      },
+                      "ErrorDialogView.html#isOpen": {
+                        "ref": "ErrorDialogView.html#isOpen",
+                        "tf": 766.6666666666666
+                      },
+                      "MessageDialogView.html#isOpen": {
+                        "ref": "MessageDialogView.html#isOpen",
+                        "tf": 766.6666666666666
+                      },
+                      "DialogView.html#isOpen": {
+                        "ref": "DialogView.html#isOpen",
+                        "tf": 766.6666666666666
+                      },
+                      "Notification.html#isOpen": {
+                        "ref": "Notification.html#isOpen",
+                        "tf": 766.6666666666666
+                      },
+                      "AboutDialogView.html#isOpen": {
+                        "ref": "AboutDialogView.html#isOpen",
+                        "tf": 766.6666666666666
+                      }
+                    }
+                  }
+                }
+              }
+            }
           }
         },
         "n": {
@@ -1782,6 +1944,29 @@
                                 "docs": {},
                                 "#": {
                                   "docs": {},
+                                  "i": {
+                                    "docs": {},
+                                    "s": {
+                                      "docs": {},
+                                      "o": {
+                                        "docs": {},
+                                        "p": {
+                                          "docs": {},
+                                          "e": {
+                                            "docs": {},
+                                            "n": {
+                                              "docs": {
+                                                "Notification.html#isOpen": {
+                                                  "ref": "Notification.html#isOpen",
+                                                  "tf": 1150
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
                                   "t": {
                                     "docs": {},
                                     "i": {
@@ -1995,6 +2180,10 @@
                       "docs": {},
                       "i": {
                         "docs": {
+                          "AlertDialogView.html#isOpen": {
+                            "ref": "AlertDialogView.html#isOpen",
+                            "tf": 16.666666666666664
+                          },
                           "AlertDialogView.html#title": {
                             "ref": "AlertDialogView.html#title",
                             "tf": 12.5
@@ -2006,6 +2195,10 @@
                           "AlertDialogView.html#buttons": {
                             "ref": "AlertDialogView.html#buttons",
                             "tf": 8.333333333333332
+                          },
+                          "ConfirmationDialogView.html#isOpen": {
+                            "ref": "ConfirmationDialogView.html#isOpen",
+                            "tf": 16.666666666666664
                           },
                           "ConfirmationDialogView.html#title": {
                             "ref": "ConfirmationDialogView.html#title",
@@ -2019,6 +2212,10 @@
                             "ref": "ConfirmationDialogView.html#buttons",
                             "tf": 8.333333333333332
                           },
+                          "ErrorDialogView.html#isOpen": {
+                            "ref": "ErrorDialogView.html#isOpen",
+                            "tf": 16.666666666666664
+                          },
                           "ErrorDialogView.html#title": {
                             "ref": "ErrorDialogView.html#title",
                             "tf": 12.5
@@ -2030,6 +2227,10 @@
                           "ErrorDialogView.html#buttons": {
                             "ref": "ErrorDialogView.html#buttons",
                             "tf": 8.333333333333332
+                          },
+                          "MessageDialogView.html#isOpen": {
+                            "ref": "MessageDialogView.html#isOpen",
+                            "tf": 16.666666666666664
                           },
                           "MessageDialogView.html#title": {
                             "ref": "MessageDialogView.html#title",
@@ -2043,6 +2244,10 @@
                             "ref": "MessageDialogView.html#buttons",
                             "tf": 8.333333333333332
                           },
+                          "DialogView.html#isOpen": {
+                            "ref": "DialogView.html#isOpen",
+                            "tf": 16.666666666666664
+                          },
                           "DialogView.html#title": {
                             "ref": "DialogView.html#title",
                             "tf": 12.5
@@ -2055,6 +2260,10 @@
                             "ref": "DialogView.html#buttons",
                             "tf": 8.333333333333332
                           },
+                          "Notification.html#isOpen": {
+                            "ref": "Notification.html#isOpen",
+                            "tf": 16.666666666666664
+                          },
                           "Notification.html#title": {
                             "ref": "Notification.html#title",
                             "tf": 12.5
@@ -2066,6 +2275,10 @@
                           "Notification.html#buttons": {
                             "ref": "Notification.html#buttons",
                             "tf": 8.333333333333332
+                          },
+                          "AboutDialogView.html#isOpen": {
+                            "ref": "AboutDialogView.html#isOpen",
+                            "tf": 16.666666666666664
                           },
                           "AboutDialogView.html#title": {
                             "ref": "AboutDialogView.html#title",
@@ -2115,6 +2328,47 @@
                     "index.html": {
                       "ref": "index.html",
                       "tf": 110
+                    }
+                  }
+                },
+                "o": {
+                  "docs": {},
+                  "n": {
+                    "docs": {},
+                    "l": {
+                      "docs": {},
+                      "i": {
+                        "docs": {
+                          "AlertDialogView.html#isOpen": {
+                            "ref": "AlertDialogView.html#isOpen",
+                            "tf": 16.666666666666664
+                          },
+                          "ConfirmationDialogView.html#isOpen": {
+                            "ref": "ConfirmationDialogView.html#isOpen",
+                            "tf": 16.666666666666664
+                          },
+                          "ErrorDialogView.html#isOpen": {
+                            "ref": "ErrorDialogView.html#isOpen",
+                            "tf": 16.666666666666664
+                          },
+                          "MessageDialogView.html#isOpen": {
+                            "ref": "MessageDialogView.html#isOpen",
+                            "tf": 16.666666666666664
+                          },
+                          "DialogView.html#isOpen": {
+                            "ref": "DialogView.html#isOpen",
+                            "tf": 16.666666666666664
+                          },
+                          "Notification.html#isOpen": {
+                            "ref": "Notification.html#isOpen",
+                            "tf": 16.666666666666664
+                          },
+                          "AboutDialogView.html#isOpen": {
+                            "ref": "AboutDialogView.html#isOpen",
+                            "tf": 16.666666666666664
+                          }
+                        }
+                      }
                     }
                   }
                 }
@@ -2976,6 +3230,29 @@
                                                     },
                                                     "#": {
                                                       "docs": {},
+                                                      "i": {
+                                                        "docs": {},
+                                                        "s": {
+                                                          "docs": {},
+                                                          "o": {
+                                                            "docs": {},
+                                                            "p": {
+                                                              "docs": {},
+                                                              "e": {
+                                                                "docs": {},
+                                                                "n": {
+                                                                  "docs": {
+                                                                    "ConfirmationDialogView.html#isOpen": {
+                                                                      "ref": "ConfirmationDialogView.html#isOpen",
+                                                                      "tf": 1150
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      },
                                                       "t": {
                                                         "docs": {},
                                                         "i": {
@@ -3589,6 +3866,29 @@
                                           },
                                           "#": {
                                             "docs": {},
+                                            "i": {
+                                              "docs": {},
+                                              "s": {
+                                                "docs": {},
+                                                "o": {
+                                                  "docs": {},
+                                                  "p": {
+                                                    "docs": {},
+                                                    "e": {
+                                                      "docs": {},
+                                                      "n": {
+                                                        "docs": {
+                                                          "MessageDialogView.html#isOpen": {
+                                                            "ref": "MessageDialogView.html#isOpen",
+                                                            "tf": 1150
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            },
                                             "t": {
                                               "docs": {},
                                               "i": {
@@ -3755,6 +4055,10 @@
                   "docs": {},
                   "r": {
                     "docs": {
+                      "AlertDialogView.html#isOpen": {
+                        "ref": "AlertDialogView.html#isOpen",
+                        "tf": 110
+                      },
                       "AlertDialogView.html#title": {
                         "ref": "AlertDialogView.html#title",
                         "tf": 110
@@ -3769,6 +4073,10 @@
                       },
                       "AlertDialogView.html#body": {
                         "ref": "AlertDialogView.html#body",
+                        "tf": 110
+                      },
+                      "ConfirmationDialogView.html#isOpen": {
+                        "ref": "ConfirmationDialogView.html#isOpen",
                         "tf": 110
                       },
                       "ConfirmationDialogView.html#title": {
@@ -3787,6 +4095,10 @@
                         "ref": "ConfirmationDialogView.html#body",
                         "tf": 110
                       },
+                      "ErrorDialogView.html#isOpen": {
+                        "ref": "ErrorDialogView.html#isOpen",
+                        "tf": 110
+                      },
                       "ErrorDialogView.html#title": {
                         "ref": "ErrorDialogView.html#title",
                         "tf": 110
@@ -3801,6 +4113,10 @@
                       },
                       "ErrorDialogView.html#body": {
                         "ref": "ErrorDialogView.html#body",
+                        "tf": 110
+                      },
+                      "MessageDialogView.html#isOpen": {
+                        "ref": "MessageDialogView.html#isOpen",
                         "tf": 110
                       },
                       "MessageDialogView.html#title": {
@@ -3819,6 +4135,10 @@
                         "ref": "MessageDialogView.html#body",
                         "tf": 110
                       },
+                      "DialogView.html#isOpen": {
+                        "ref": "DialogView.html#isOpen",
+                        "tf": 110
+                      },
                       "DialogView.html#title": {
                         "ref": "DialogView.html#title",
                         "tf": 110
@@ -3835,6 +4155,10 @@
                         "ref": "DialogView.html#body",
                         "tf": 110
                       },
+                      "Notification.html#isOpen": {
+                        "ref": "Notification.html#isOpen",
+                        "tf": 110
+                      },
                       "Notification.html#title": {
                         "ref": "Notification.html#title",
                         "tf": 110
@@ -3849,6 +4173,10 @@
                       },
                       "Notification.html#body": {
                         "ref": "Notification.html#body",
+                        "tf": 110
+                      },
+                      "AboutDialogView.html#isOpen": {
+                        "ref": "AboutDialogView.html#isOpen",
                         "tf": 110
                       },
                       "AboutDialogView.html#title": {
@@ -4755,6 +5083,29 @@
                                       },
                                       "#": {
                                         "docs": {},
+                                        "i": {
+                                          "docs": {},
+                                          "s": {
+                                            "docs": {},
+                                            "o": {
+                                              "docs": {},
+                                              "p": {
+                                                "docs": {},
+                                                "e": {
+                                                  "docs": {},
+                                                  "n": {
+                                                    "docs": {
+                                                      "ErrorDialogView.html#isOpen": {
+                                                        "ref": "ErrorDialogView.html#isOpen",
+                                                        "tf": 1150
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
                                         "t": {
                                           "docs": {},
                                           "i": {
@@ -4939,7 +5290,7 @@
           }
         }
       },
-      "length": 539
+      "length": 574
     },
     "corpusTokens": [
       "aboutdialogview",
@@ -4947,6 +5298,7 @@
       "aboutdialogview#button",
       "aboutdialogview#cancel",
       "aboutdialogview#clos",
+      "aboutdialogview#isopen",
       "aboutdialogview#open",
       "aboutdialogview#rend",
       "aboutdialogview#styl",
@@ -4957,6 +5309,7 @@
       "alertdialogview#button",
       "alertdialogview#cancel",
       "alertdialogview#clos",
+      "alertdialogview#isopen",
       "alertdialogview#open",
       "alertdialogview#rend",
       "alertdialogview#styl",
@@ -4980,6 +5333,7 @@
       "confirmationdialogview#button",
       "confirmationdialogview#cancel",
       "confirmationdialogview#clos",
+      "confirmationdialogview#isopen",
       "confirmationdialogview#open",
       "confirmationdialogview#rend",
       "confirmationdialogview#styl",
@@ -4997,6 +5351,7 @@
       "dialogview#button",
       "dialogview#cancel",
       "dialogview#clos",
+      "dialogview#isopen",
       "dialogview#open",
       "dialogview#rend",
       "dialogview#styl",
@@ -5008,6 +5363,7 @@
       "errordialogview#button",
       "errordialogview#cancel",
       "errordialogview#clos",
+      "errordialogview#isopen",
       "errordialogview#open",
       "errordialogview#rend",
       "errordialogview#styl",
@@ -5019,6 +5375,7 @@
       "function",
       "global",
       "index",
+      "isopen",
       "key",
       "list",
       "list:class",
@@ -5030,6 +5387,7 @@
       "messagedialogview#button",
       "messagedialogview#cancel",
       "messagedialogview#clos",
+      "messagedialogview#isopen",
       "messagedialogview#open",
       "messagedialogview#rend",
       "messagedialogview#styl",
@@ -5042,6 +5400,7 @@
       "notification#button",
       "notification#cancel",
       "notification#clos",
+      "notification#isopen",
       "notification#open",
       "notification#rend",
       "notification#styl",
@@ -5056,6 +5415,7 @@
       "present",
       "properti",
       "readm",
+      "readonli",
       "render",
       "screen",
       "set",
@@ -5125,6 +5485,16 @@
       "summary": "",
       "description": "A automatic alert dialog view - creates a dialog with cancel button and a message",
       "body": ""
+    },
+    "AlertDialogView.html#isOpen": {
+      "id": "AlertDialogView.html#isOpen",
+      "kind": "member",
+      "title": "isOpen",
+      "longname": "AlertDialogView#isOpen",
+      "name": "isOpen",
+      "tags": "AlertDialogView#isOpen isOpen",
+      "summary": "",
+      "description": "isOpen property (readonly)"
     },
     "AlertDialogView.html#title": {
       "id": "AlertDialogView.html#title",
@@ -5217,6 +5587,16 @@
       "description": "A automatic comfirmation dialog view - creates a dialog with yes no buttons",
       "body": ""
     },
+    "ConfirmationDialogView.html#isOpen": {
+      "id": "ConfirmationDialogView.html#isOpen",
+      "kind": "member",
+      "title": "isOpen",
+      "longname": "ConfirmationDialogView#isOpen",
+      "name": "isOpen",
+      "tags": "ConfirmationDialogView#isOpen isOpen",
+      "summary": "",
+      "description": "isOpen property (readonly)"
+    },
     "ConfirmationDialogView.html#title": {
       "id": "ConfirmationDialogView.html#title",
       "kind": "member",
@@ -5307,6 +5687,16 @@
       "summary": "",
       "description": "A automatic error dialog view - creates a dialog ok button",
       "body": ""
+    },
+    "ErrorDialogView.html#isOpen": {
+      "id": "ErrorDialogView.html#isOpen",
+      "kind": "member",
+      "title": "isOpen",
+      "longname": "ErrorDialogView#isOpen",
+      "name": "isOpen",
+      "tags": "ErrorDialogView#isOpen isOpen",
+      "summary": "",
+      "description": "isOpen property (readonly)"
     },
     "ErrorDialogView.html#title": {
       "id": "ErrorDialogView.html#title",
@@ -5399,6 +5789,16 @@
       "description": "A automatic message dialog view - creates a dialog ok button",
       "body": ""
     },
+    "MessageDialogView.html#isOpen": {
+      "id": "MessageDialogView.html#isOpen",
+      "kind": "member",
+      "title": "isOpen",
+      "longname": "MessageDialogView#isOpen",
+      "name": "isOpen",
+      "tags": "MessageDialogView#isOpen isOpen",
+      "summary": "",
+      "description": "isOpen property (readonly)"
+    },
     "MessageDialogView.html#title": {
       "id": "MessageDialogView.html#title",
       "kind": "member",
@@ -5489,6 +5889,16 @@
       "summary": "",
       "description": "A automatic dialog view - creates a dialog with simple configurations to customize&lt;/br/&gt; supports title, body, style, and buttons as options buttons are defined as an object with key as name, value as function to call",
       "body": ""
+    },
+    "DialogView.html#isOpen": {
+      "id": "DialogView.html#isOpen",
+      "kind": "member",
+      "title": "isOpen",
+      "longname": "DialogView#isOpen",
+      "name": "isOpen",
+      "tags": "DialogView#isOpen isOpen",
+      "summary": "",
+      "description": "isOpen property (readonly)"
     },
     "DialogView.html#title": {
       "id": "DialogView.html#title",
@@ -5592,6 +6002,16 @@
       "description": "Notification",
       "body": ""
     },
+    "Notification.html#isOpen": {
+      "id": "Notification.html#isOpen",
+      "kind": "member",
+      "title": "isOpen",
+      "longname": "Notification#isOpen",
+      "name": "isOpen",
+      "tags": "Notification#isOpen isOpen",
+      "summary": "",
+      "description": "isOpen property (readonly)"
+    },
     "Notification.html#title": {
       "id": "Notification.html#title",
       "kind": "member",
@@ -5682,6 +6102,16 @@
       "summary": "",
       "description": "A automatic about dialog view - creates a dialog with cancel button and a message. Pass the following options for pre-formated dialog: description author version website * for preformated, do not pass 'body' option",
       "body": ""
+    },
+    "AboutDialogView.html#isOpen": {
+      "id": "AboutDialogView.html#isOpen",
+      "kind": "member",
+      "title": "isOpen",
+      "longname": "AboutDialogView#isOpen",
+      "name": "isOpen",
+      "tags": "AboutDialogView#isOpen isOpen",
+      "summary": "",
+      "description": "isOpen property (readonly)"
     },
     "AboutDialogView.html#title": {
       "id": "AboutDialogView.html#title",
