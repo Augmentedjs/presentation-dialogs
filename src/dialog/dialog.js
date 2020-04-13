@@ -13,7 +13,6 @@ class DialogView extends DecoratorView {
     if (!this.name) {
       this.name = "dialog";
     }
-
     if (options && options.title) {
       this._title = options.title;
     } else {
@@ -34,7 +33,6 @@ class DialogView extends DecoratorView {
     } else {
       this._buttons = {};
     }
-
     this._isOpen = false;
   };
 
@@ -101,8 +99,6 @@ class DialogView extends DecoratorView {
   render() {
     if (this.el) {
       this.injectTemplate(this._template(), this.el);
-      //Dom.setValue(this.el, this._template());
-      this.delegateEvents();
       this.trigger("open");
       this._isOpen = true;
     }
@@ -116,6 +112,7 @@ class DialogView extends DecoratorView {
   cancel(event) {
     return this.close(event);
   };
+
   /**
    * open - standard built-in open callback.  Calls render method by default
    * @param {Event} event Event passed in
@@ -123,6 +120,7 @@ class DialogView extends DecoratorView {
   open(event) {
     return this.render(event);
   };
+
   /**
    * close - standard built-in close callback.  Closes the dialog, triggers the 'close' event
    * @param {Event} event Event passed in
@@ -130,7 +128,6 @@ class DialogView extends DecoratorView {
   close(event) {
     this.trigger("close");
     this.removeTemplate(this.el, true);
-    //Dom.empty(this.el, true);
     this._isOpen = false;
     return this;
   };

@@ -1,0 +1,6 @@
+# OS X
+.DS_Store
+src
+jsdoc
+test
+jsdoc.config.json

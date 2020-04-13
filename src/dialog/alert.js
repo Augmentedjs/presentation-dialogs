@@ -1,9 +1,9 @@
 import DialogView from "./dialog.js";
 
 /**
- * A automatic alert dialog view - creates a dialog with cancel button and a message
- * @extends DialogView
- */
+* A automatic alert dialog view - creates a dialog with cancel button and a message
+* @extends DialogView
+*/
 class AlertDialogView extends DialogView {
   constructor(options) {
     if (!options) {
@@ -14,9 +14,9 @@ class AlertDialogView extends DialogView {
     }
     options.buttons.cancel = "cancel";
     if (!options.style) {
-	options.style = "alert";
+      options.style = "alert";
     } else {
-	options.style = `${options.style} alert`;
+      options.style = `${options.style} alert`;
     }
 
     super(options);
