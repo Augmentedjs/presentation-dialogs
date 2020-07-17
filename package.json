@@ -1,6 +1,6 @@
 {
   "name": "presentation-dialogs",
-  "version": "3.1.7",
+  "version": "3.1.8",
   "description": "The Augmented.js Next - Presentation Dialog Module.",
   "main": "dist/presentation-dialogs.js",
   "scripts": {
@@ -26,9 +26,9 @@
   "author": "Bob Warren <jedi.master@augmentedjs.com> (http://www.augmentedjs.com)",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@babel/core": "^7.10.4",
+    "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
-    "@babel/register": "^7.10.4",
+    "@babel/register": "^7.10.5",
     "babel-loader": "^8.1.0",
     "chai": "^4.2.0",
     "documentation": "^13.0.2",
@@ -41,7 +41,7 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
-    "presentation-decorator": "^3.1.5"
+    "presentation-decorator": "^3.2.0"
   },
   "bugs": {
     "url": "https://github.com/Augmentedjs/presentation-dialogs/issues"
